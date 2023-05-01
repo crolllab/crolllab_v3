@@ -24,7 +24,7 @@
     - bioRxiv
 - id: doi:10.1101/2022.05.16.492091
   type: preprint
-  image: 
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/05/17/2022.05.16.492091/F1.large.jpg?width=800&height=600&carousel=1
   tags: 
     - bioRxiv
 - id: doi:10.1101/203455
@@ -46,13 +46,42 @@
     - Highlight
     - Review
 - id: doi:10.1002/bies.201400030
+  type: review
+  image: 
+  tags: 
+    - Review
 - id: doi:10.1002/bies.201600195
+  type: review
+  image: 
+  tags: 
+    - Review
 - id: doi:10.1007/s10658-012-0080-8
+  type: paper
+  image: 
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1007/s10681-021-02843-7
+  type: paper
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs10681-021-02843-7/MediaObjects/10681_2021_2843_Fig2_HTML.png?as=webp
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1007/s13225-012-0171-z
 - id: doi:10.1007/s42161-021-00952-9
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1749461320300257-gr1.jpg
+  tags: 
+    - TEs
 - id: doi:10.1016/B978-0-12-819990-9.00042-1
+  type: review
+  image: 
+  tags: 
+    - Review
+    - TEs
 - id: doi:10.1016/j.csbj.2020.12.018
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020305432-gr1.jpg
+  tags: 
+    - Review
 - id: doi:10.1016/j.cub.2010.05.031
 - id: doi:10.1016/j.cub.2011.10.041
   type: paper
@@ -67,6 +96,11 @@
 - id: doi:10.1016/j.fgb.2020.103398
 - id: doi:10.1016/j.mib.2018.01.020
 - id: doi:10.1016/j.pbi.2020.04.009
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526620300492-gr2.jpg
+  tags: 
+    - Highlight
+    - Review
 - id: doi:10.1016/j.simyco.2021.100116
 - id: doi:10.1016/j.tig.2021.08.005
   type: review
@@ -199,12 +233,16 @@
 - id: doi:10.1094/MPMI-07-16-0146-R
 - id: doi:10.1094/PHYTO-06-18-0199-LE
 - id: doi:10.1099/mgen.0.000540
-- id: doi:10.1099/mgen.0.000678
-- id: doi:10.1101/2022.07.18.500446
-  type: preprint
-  image: 
+  type: paper
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/8/mgen000540-f1.gif
   tags: 
-    - bioRxiv
+    - Parastagonospora
+    - TEs
+- id: doi:10.1099/mgen.0.000678
+  type: paper
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/10/mgen000678-f1.gif
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1101/2022.10.31.514577
   type: preprint
   image: 
@@ -217,6 +255,10 @@
 - id: doi:10.1111/aje.12888
 - id: doi:10.1111/eva.12490
 - id: doi:10.1111/eva.13117
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/f558e573-a077-4534-949d-3d48950ced1c/eva13117-fig-0002-m.jpg
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1111/j.1420-9101.2011.02239.x
 - id: doi:10.1111/j.1461-0248.2005.00853.x
 - id: doi:10.1111/j.1469-8137.2008.02381.x
@@ -225,13 +267,45 @@
 - id: doi:10.1111/j.1469-8137.2011.03948.x
 - id: doi:10.1111/j.1469-8137.2011.03948.x
 - id: doi:10.1111/mec.13751
+  type: paper
+  image: 
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1111/mec.13870
+  type: paper
+  image: 
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1111/mec.13916
+  type: paper
+  image: 
+  tags: 
+    - Rhychosporium
 - id: doi:10.1111/mec.14585
+  type: paper
+  image: 
+  tags: 
+    - Epichloë
 - id: doi:10.1111/mec.14711
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/4326884a-96ce-4cf1-9fa5-5e51ad560d36/mec14711-fig-0001-m.png
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1111/mec.15737
+  type: paper
+  image: 
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1111/mec.16386
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/78ac288f-eac7-4c3e-81fb-4b6ef8e7a35e/mec16386-fig-0001-m.jpg
+  tags: 
+    - Cryphonectria
 - id: doi:10.1111/mec.16435
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/db253355-db4f-4d0c-90ef-e6a24803656a/mec16435-fig-0001-m.jpg
+  tags: 
+    - Rhynchosprium
 - id: doi:10.1111/mmi.13894
 - id: doi:10.1111/mpp.12333
 - id: doi:10.1111/mpp.12391
@@ -243,6 +317,10 @@
 - id: doi:10.1111/nph.14434
 - id: doi:10.1111/nph.15180
 - id: doi:10.1111/pce.14184
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/fea555ab-0adc-44ea-8e87-5148beefba86/pce14184-fig-0002-m.jpg
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1111/ppa.12111
   type: paper
   image: https://bsppjournals.onlinelibrary.wiley.com/cms/asset/0f52dff7-5a47-4407-8afd-a6a162188fa4/ppa12111-fig-0001-m.png
@@ -375,6 +453,8 @@
 - id: doi:10.1534/g3.120.401375
 - id: doi:10.1534/genetics.115.180968
 - id: doi:10.1590/1678-4685-GMB-2021-0051
+  type: paper
+  image: https://minio.scielo.br/documentstore/1678-4685/hfKvwbdD9dqHy4xPSrCTDFv/178177a297130f3f85bc84c3dfec869cf10dff63.jpg
 - id: doi:10.3389/fmicb.2018.00660
 - id: doi:10.3389/fpls.2017.00119
 - id: doi:10.3767/persoonia.2021.46.04
@@ -383,6 +463,7 @@
   image: https://iiif.elifesciences.org/lax/56279%2Felife-56279-fig1-v1.tif/full/,1500/0/default.jpg
   tags:
     - Highlight
+    - Cryphonectria
 - id: doi:10.7554/eLife.69249
   type: paper
   image: https://iiif.elifesciences.org/lax/69249%2Felife-69249-fig6-v1.tif/full/,1500/0/default.jpg

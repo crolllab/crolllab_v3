@@ -6,6 +6,7 @@ group: current
 role: postdoc
 aliases:
   - Sandra Milena Gonzalez-Sayer
+  - Sandra González-Sayer
 links:
   email: sandra.gonzalez@unine.ch
 ---
