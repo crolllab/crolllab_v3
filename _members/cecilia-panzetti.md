@@ -1,0 +1,16 @@
+---
+name: Cecilia Panzetti
+description: PhD student
+image: images/default.jpg
+group: current
+role: phd
+aliases:
+  - C. Panzetti
+  - C Panzetti
+links:
+  email: cecilia.panzetti@agroscope.admin.ch
+---
+
+PhD student [co-supervised with Karen Sullan, Agroscope Reckenholz]
+
+Molecular methods for the detection of crop diseases

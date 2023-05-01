@@ -1,0 +1,12 @@
+---
+name: Hadjer Bellah
+description: PhD student
+image: images/hadjer.jpg
+group: alumni
+role: phd
+aliases:
+  - H. Bellah
+  - H Bellah
+---
+
+Hadjer was a PhD student in our lab and graduated in 2023. She held a Swiss Government Excellence Scholarship.
