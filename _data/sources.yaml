@@ -14,12 +14,10 @@
     - Zymoseptoria
 - id: doi:10.1101/2022.12.23.521735
   type: preprint
-  image: 
   tags: 
     - bioRxiv
 - id: doi:10.1101/2022.09.28.509846
   type: preprint
-  image: 
   tags: 
     - bioRxiv
 - id: doi:10.1101/2022.05.16.492091
@@ -29,12 +27,10 @@
     - bioRxiv
 - id: doi:10.1101/203455
   type: preprint
-  image: 
   tags: 
     - bioRxiv
 - id: doi:10.5281/zenodo.4655959
   type: dataset
-  image: 
   tags: 
     - Zenodo
 - id: doi:10.1111/mpp.12485
@@ -51,17 +47,14 @@
     - Review
 - id: doi:10.1002/bies.201400030
   type: review
-  image: 
   tags: 
     - Review
 - id: doi:10.1002/bies.201600195
   type: review
-  image: 
   tags: 
     - Review
 - id: doi:10.1007/s10658-012-0080-8
   type: paper
-  image: 
   tags: 
     - Zymoseptoria
 - id: doi:10.1007/s10681-021-02843-7
@@ -81,7 +74,6 @@
     - TEs
 - id: doi:10.1016/B978-0-12-819990-9.00042-1
   type: review
-  image: 
   tags: 
     - Review
     - TEs
@@ -177,7 +169,6 @@
     - Zymoseptoria 
 - id: doi:10.1039/9781839163005-00257
   type: paper
-  image: 
   tags: 
     - Highlight
 - id: doi:10.1093/gbe/evaa203
@@ -252,7 +243,6 @@
     - Zymoseptoria
 - id: doi:10.1101/2022.10.31.514577
   type: preprint
-  image: 
   tags: 
     - bioRxiv
 - id: doi:10.1111/1462-2920.14583
@@ -273,17 +263,14 @@
 - id: doi:10.1111/j.1420-9101.2011.02239.x
 - id: doi:10.1111/j.1461-0248.2005.00853.x
   type: paper
-  image: 
   tags: 
     - Mycorrhizal fungi
 - id: doi:10.1111/j.1469-8137.2008.02381.x
   type: paper
-  image: 
   tags: 
     - Mycorrhizal fungi
 - id: doi:10.1111/j.1469-8137.2008.02602.x
   type: paper
-  image: 
   tags: 
     - Mycorrhizal fungi
 - id: doi:10.1111/j.1469-8137.2008.02726.x
@@ -298,22 +285,18 @@
     - Mycorrhizal fungi
 - id: doi:10.1111/mec.13751
   type: paper
-  image: 
   tags: 
     - Zymoseptoria
 - id: doi:10.1111/mec.13870
   type: paper
-  image: 
   tags: 
     - Zymoseptoria
 - id: doi:10.1111/mec.13916
   type: paper
-  image: 
   tags: 
     - Rhychosporium
 - id: doi:10.1111/mec.14585
   type: paper
-  image: 
   tags: 
     - Epichloë
 - id: doi:10.1111/mec.14711
@@ -323,7 +306,6 @@
     - Zymoseptoria
 - id: doi:10.1111/mec.15737
   type: paper
-  image: 
   tags: 
     - Zymoseptoria
 - id: doi:10.1111/mec.16386
@@ -370,7 +352,6 @@
     - Rhynchosporium
 - id: doi:10.1126/science.abo2401
   type: paper
-  image: 
   tags: 
     - Ustilago
 - id: doi:10.1128/AEM.01574-06
@@ -414,12 +395,10 @@
     - Microbiome
 - id: doi:10.1146/annurev-genet-102108-134239
   type: review
-  image: 
   tags: 
     - Mycorrhizal fungi
 - id: doi:10.1146/annurev-phyto-080417-050036
   type: review
-  image: 
   tags:
     - Review
     - Wheat blast
