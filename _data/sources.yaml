@@ -272,11 +272,30 @@
     - Zymoseptoria
 - id: doi:10.1111/j.1420-9101.2011.02239.x
 - id: doi:10.1111/j.1461-0248.2005.00853.x
+  type: paper
+  image: 
+  tags: 
+    - Mycorrhizal fungi
 - id: doi:10.1111/j.1469-8137.2008.02381.x
+  type: paper
+  image: 
+  tags: 
+    - Mycorrhizal fungi
 - id: doi:10.1111/j.1469-8137.2008.02602.x
+  type: paper
+  image: 
+  tags: 
+    - Mycorrhizal fungi
 - id: doi:10.1111/j.1469-8137.2008.02726.x
+  type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/811ed3a3-5c52-44d5-8de0-ac9721716d05/nph_2726_f1.gif
+  tags: 
+    - Mycorrhizal fungi
 - id: doi:10.1111/j.1469-8137.2011.03948.x
-- id: doi:10.1111/j.1469-8137.2011.03948.x
+  type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/c02e3bd8-cafe-41e2-bcbe-42194536b5a2/nph_3948_f1.gif
+  tags: 
+    - Mycorrhizal fungi
 - id: doi:10.1111/mec.13751
   type: paper
   image: 
