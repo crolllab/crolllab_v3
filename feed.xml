@@ -1,1 +1,219 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/crolllab_v3/feed.xml" rel="self" type="application/atom+xml" /><link href="/crolllab_v3/" rel="alternate" type="text/html" /><updated>2023-05-01T21:26:58+00:00</updated><id>/crolllab_v3/feed.xml</id><title type="html">Evolutionary genomics of pathogens</title><subtitle>The lab of Daniel Croll wants to understand how pathogens evolve to cause disease. For this, we mainly focus on major crop pathogens to unravel mechanisms of rapid adaptation. We want to understand how host resistance mechanisms are circumvented, pesticides become ineffective and how pathogens cope with climate challenges.</subtitle><entry><title type="html">Example post 3</title><link href="/crolllab_v3/2023/02/23/example-post-3.html" rel="alternate" type="text/html" title="Example post 3" /><published>2023-02-23T00:00:00+00:00</published><updated>2023-05-01T21:26:12+00:00</updated><id>/crolllab_v3/2023/02/23/example-post-3</id><content type="html" xml:base="/crolllab_v3/2023/02/23/example-post-3.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>john-doe</name></author><category term="biology," /><category term="medicine" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">Example post 2</title><link href="/crolllab_v3/2021/09/30/example-post-2.html" rel="alternate" type="text/html" title="Example post 2" /><published>2021-09-30T00:00:00+00:00</published><updated>2023-05-01T21:26:12+00:00</updated><id>/crolllab_v3/2021/09/30/example-post-2</id><content type="html" xml:base="/crolllab_v3/2021/09/30/example-post-2.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>jane-smith</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">Example post 1</title><link href="/crolllab_v3/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="Example post 1" /><published>2019-01-07T00:00:00+00:00</published><updated>2023-05-01T21:26:12+00:00</updated><id>/crolllab_v3/2019/01/07/example-post-1</id><content type="html" xml:base="/crolllab_v3/2019/01/07/example-post-1.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>sarah-johnson</name></author><category term="biology" /><category term="medicine" /><category term="big data" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/crolllab_v3/feed.xml" rel="self" type="application/atom+xml" /><link href="/crolllab_v3/" rel="alternate" type="text/html" /><updated>2023-05-01T21:29:44+00:00</updated><id>/crolllab_v3/feed.xml</id><title type="html">Evolutionary genomics of pathogens</title><subtitle>The lab of Daniel Croll wants to understand how pathogens evolve to cause disease. For this, we mainly focus on major crop pathogens to unravel mechanisms of rapid adaptation. We want to understand how host resistance mechanisms are circumvented, pesticides become ineffective and how pathogens cope with climate challenges.</subtitle><entry><title type="html">Spectacular waterfall of Le Doubs</title><link href="/crolllab_v3/2022/09/30/Doubs.html" rel="alternate" type="text/html" title="Spectacular waterfall of Le Doubs" /><published>2022-09-30T00:00:00+00:00</published><updated>2023-05-01T21:28:53+00:00</updated><id>/crolllab_v3/2022/09/30/Doubs</id><content type="html" xml:base="/crolllab_v3/2022/09/30/Doubs.html"><![CDATA[<p>Emile organized a wonderful little train, boat and hiking trip to see the spectacular waterfall of Le Doubs deep in the magical Jura mountains. Thanks everyone for joining!</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2022-09-30/1.jpeg" data-fancybox="gallery" data-caption="Right next to the waterfall">
+	<img src="/images/blog/blog_2022-09-30/1.jpeg" alt="" /></a>
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[Emile organized a wonderful little train, boat and hiking trip to see the spectacular waterfall of Le Doubs deep in the magical Jura mountains. Thanks everyone for joining!]]></summary></entry><entry><title type="html">Dr. Oggenfuss!</title><link href="/crolllab_v3/2022/03/29/Ursula.html" rel="alternate" type="text/html" title="Dr. Oggenfuss!" /><published>2022-03-29T00:00:00+00:00</published><updated>2023-05-01T21:28:53+00:00</updated><id>/crolllab_v3/2022/03/29/Ursula</id><content type="html" xml:base="/crolllab_v3/2022/03/29/Ursula.html"><![CDATA[<p>Very warm congratulations to Ursula Oggenfuss for an amazing PhD presentation on her transposon work. We are so proud of you!</p>
+
+<p>We wish you all the best for all the amazing work you will be doing at your next steps.</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2022-03-29/1.jpeg" data-fancybox="gallery" data-caption="Ursula explaining the landscaping of the genome">
+	<img src="/images/blog/blog_2022-03-29/1.jpeg" alt="" /></a>
+<a href="/images/blog/blog_2022-03-29/2.jpeg" data-fancybox="gallery" data-caption="Transposons rule us all - incl. Ursula's PhD hat!">
+		<img src="/images/blog/blog_2022-03-29/2.jpeg" alt="" /></a>
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[Very warm congratulations to Ursula Oggenfuss for an amazing PhD presentation on her transposon work. We are so proud of you!]]></summary></entry><entry><title type="html">Dr. Mossion!</title><link href="/crolllab_v3/2022/02/17/Vinciane.html" rel="alternate" type="text/html" title="Dr. Mossion!" /><published>2022-02-17T00:00:00+00:00</published><updated>2023-05-01T21:28:53+00:00</updated><id>/crolllab_v3/2022/02/17/Vinciane</id><content type="html" xml:base="/crolllab_v3/2022/02/17/Vinciane.html"><![CDATA[<p>Big congratulations to Vinciane Mossion for becoming Dr. Mossion!! We are very excited and proud of you!</p>
+
+<p>What an amazing coincidence that we could take advantage of the relaxed COVID-19 rules just exactly on your big day.</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2022-02-17/1.jpeg" data-fancybox="gallery" data-caption="Introduction by our Dean Adrian Bangerter">
+	<img src="/images/blog/blog_2022-02-17/1.jpeg" alt="" /></a>
+<a href="/images/blog/blog_2022-02-17/2.jpeg" data-fancybox="gallery" data-caption="The most important part of the ceremony - the PhD hat!">
+		<img src="/images/blog/blog_2022-02-17/2.jpeg" alt="" /></a>
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[Big congratulations to Vinciane Mossion for becoming Dr. Mossion!! We are very excited and proud of you!]]></summary></entry><entry><title type="html">Lea’s PhD thesis award</title><link href="/crolllab_v3/2021/11/16/Lea.html" rel="alternate" type="text/html" title="Lea’s PhD thesis award" /><published>2021-11-16T00:00:00+00:00</published><updated>2023-05-01T21:28:53+00:00</updated><id>/crolllab_v3/2021/11/16/Lea</id><content type="html" xml:base="/crolllab_v3/2021/11/16/Lea.html"><![CDATA[<p>Big congratulations to our PhD graduate for getting an award for her thesis!</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2021-11-16/1.jpeg" data-fancybox="gallery" data-caption="Congrats Lea!">
+	<img src="/images/blog/blog_2021-11-16/1.jpeg" alt="" />
+</a>
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[Big congratulations to our PhD graduate for getting an award for her thesis!]]></summary></entry><entry><title type="html">Nikhil’s PhD presentation</title><link href="/crolllab_v3/2021/10/15/Nikhil.html" rel="alternate" type="text/html" title="Nikhil’s PhD presentation" /><published>2021-10-15T00:00:00+00:00</published><updated>2023-05-01T21:28:53+00:00</updated><id>/crolllab_v3/2021/10/15/Nikhil</id><content type="html" xml:base="/crolllab_v3/2021/10/15/Nikhil.html"><![CDATA[<p>A very warm congratulations to Nikhil for successfully passing your PhD!! What a wonderful moment to spend together. We are so proud of you!!</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2021-10-15/1.jpeg" data-fancybox="gallery" data-caption="Diversity is the spice of life - oh yes!">
+	<img src="/images/blog/blog_2021-10-15/1.jpeg" alt="" />
+</a>
+<a href="/images/blog/blog_2021-10-15/2.jpeg" data-fancybox="gallery" data-caption="Graduating with full honors from our lab!">
+    <img src="/images/blog/blog_2021-10-15/2.jpeg" alt="" />
+</a>
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[A very warm congratulations to Nikhil for successfully passing your PhD!! What a wonderful moment to spend together. We are so proud of you!!]]></summary></entry><entry><title type="html">International apéro</title><link href="/crolllab_v3/2021/08/25/Apero.html" rel="alternate" type="text/html" title="International apéro" /><published>2021-08-25T00:00:00+00:00</published><updated>2023-05-01T21:28:53+00:00</updated><id>/crolllab_v3/2021/08/25/Apero</id><content type="html" xml:base="/crolllab_v3/2021/08/25/Apero.html"><![CDATA[<p>Thank you Sarai &amp; co. for organizing this super nice and tasty (!) apéro with food from everyone’s home country. It was nice to see everyone being around.</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2021-08-25/1.jpeg" data-fancybox="gallery" data-caption="Getting all the food ready and waiting for everyone to join">
+	<img src="/images/blog/blog_2021-08-25/1.jpeg" alt="" />
+</a>
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[Thank you Sarai &amp; co. for organizing this super nice and tasty (!) apéro with food from everyone’s home country. It was nice to see everyone being around.]]></summary></entry><entry><title type="html">Little walk in the Taubenloch</title><link href="/crolllab_v3/2021/06/21/Taubenloch.html" rel="alternate" type="text/html" title="Little walk in the Taubenloch" /><published>2021-06-21T00:00:00+00:00</published><updated>2023-05-01T21:28:53+00:00</updated><id>/crolllab_v3/2021/06/21/Taubenloch</id><content type="html" xml:base="/crolllab_v3/2021/06/21/Taubenloch.html"><![CDATA[<p>Thank you Ursula for this awesome idea to visit the Taubenloch gorge! Do it like the pigeons (“Tauben”) - seek some cool spot to spend the hot days.</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2021-06-21/1.jpeg" data-fancybox="gallery" data-caption="Entering the cool gorge">
+	<img src="/images/blog/blog_2021-06-21/1.jpeg" alt="" />
+</a>
+
+<a href="/images/blog/blog_2021-06-21/2.jpeg" data-fancybox="gallery" data-caption="Some midway climbing activity">
+	<img src="/images/blog/blog_2021-06-21/2.jpeg" alt="" />
+</a>
+
+<a href="/images/blog/blog_2021-06-21/3.jpeg" data-fancybox="gallery" data-caption="Accidental species interactions">
+	<img src="/images/blog/blog_2021-06-21/3.jpeg" alt="" />
+</a>
+
+<a href="/images/blog/blog_2021-06-21/4.jpeg" data-fancybox="gallery" data-caption="Happy people in a non-Zoom meeting">
+	<img src="/images/blog/blog_2021-06-21/4.jpeg" alt="" />
+</a>
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[Thank you Ursula for this awesome idea to visit the Taubenloch gorge! Do it like the pigeons (“Tauben”) - seek some cool spot to spend the hot days.]]></summary></entry><entry><title type="html">Group hike to beautiful Mürren</title><link href="/crolllab_v3/2021/03/13/A-lab-hike-in-M%C3%BCrren.html" rel="alternate" type="text/html" title="Group hike to beautiful Mürren" /><published>2021-03-13T00:00:00+00:00</published><updated>2023-05-01T21:28:53+00:00</updated><id>/crolllab_v3/2021/03/13/A-lab-hike-in-M%C3%BCrren</id><content type="html" xml:base="/crolllab_v3/2021/03/13/A-lab-hike-in-M%C3%BCrren.html"><![CDATA[<p>It felt great to spend again a little time together as a lab. Outdoors is just the best way to do this. Thanks for joining!</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2021-03-13/1.jpeg" data-fancybox="gallery" data-caption="Beautiful Jungfrau in front">
+	<img src="/images/blog/blog_2021-03-13/1.jpeg" alt="" />
+</a>
+
+<a href="/images/blog/blog_2021-03-13/2.jpeg" data-fancybox="gallery" data-caption="Getting started">
+	<img src="/images/blog/blog_2021-03-13/2.jpeg" alt="" />
+</a>
+
+<a href="/images/blog/blog_2021-03-13/3.jpeg" data-fancybox="gallery" data-caption="After a pleasant short hike, we've arrived in Mürren">
+	<img src="/images/blog/blog_2021-03-13/3.jpeg" alt="" />
+</a>
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[It felt great to spend again a little time together as a lab. Outdoors is just the best way to do this. Thanks for joining!]]></summary></entry><entry><title type="html">A special end of the year</title><link href="/crolllab_v3/2020/12/15/A-special-end-of-the-year.html" rel="alternate" type="text/html" title="A special end of the year" /><published>2020-12-15T00:00:00+00:00</published><updated>2023-05-01T21:28:53+00:00</updated><id>/crolllab_v3/2020/12/15/A-special-end-of-the-year</id><content type="html" xml:base="/crolllab_v3/2020/12/15/A-special-end-of-the-year.html"><![CDATA[<p>This year has been so obviously difficult for many of us. In science, this is particularly true for MSc students, PhD students and postdocs. Few in-person meetings, no conferences, constraints for working in the lab, worries about owns family, feeling isolated in a country far from home and still some dark clouds on the horizon.</p>
+
+<p>I am feeling incredibly grateful for every lab member. Everyone pitched in to make the situation ever so more bearable for the others, showing kindness and support.</p>
+
+<p>We finished our 2020 with a very special outdoor Christmas event visiting a small peninsula at Lake Bienne. It was a very good moment to share.</p>
+
+<p>Thank you everyone!</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2020-12-15/1.jpeg" data-fancybox="gallery" data-caption="On our way to the Petersinsel">
+	<img src="/images/blog/blog_2020-12-15/th-1.jpeg" alt="" />
+</a>
+
+<a href="/images/blog/blog_2020-12-15/2.jpeg" data-fancybox="gallery" data-caption="Just in time for the sunset">
+	<img src="/images/blog/blog_2020-12-15/th-2.jpeg" alt="" />
+</a>
+
+<a href="/images/blog/blog_2020-12-15/3.jpeg" data-fancybox="gallery" data-caption="On the watch tower">
+	<img src="/images/blog/blog_2020-12-15/th-3.jpeg" alt="" />
+</a>
+
+<a href="/images/blog/blog_2020-12-15/4.jpeg" data-fancybox="gallery" data-caption="Enjoying a moment together">
+	<img src="/images/blog/blog_2020-12-15/th-4.jpeg" alt="" />
+</a>
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[This year has been so obviously difficult for many of us. In science, this is particularly true for MSc students, PhD students and postdocs. Few in-person meetings, no conferences, constraints for working in the lab, worries about owns family, feeling isolated in a country far from home and still some dark clouds on the horizon.]]></summary></entry><entry><title type="html">Lab excursion to the Lac des Brenets in the Jura</title><link href="/crolllab_v3/2020/07/17/lac-des-brenets.html" rel="alternate" type="text/html" title="Lab excursion to the Lac des Brenets in the Jura" /><published>2020-07-17T00:00:00+00:00</published><updated>2023-05-01T21:28:53+00:00</updated><id>/crolllab_v3/2020/07/17/lac-des-brenets</id><content type="html" xml:base="/crolllab_v3/2020/07/17/lac-des-brenets.html"><![CDATA[<p>Vinciane Mossion was our fantastic tour guide for a day full of nice chats, walks, rides with a cute train and a boat. Photos by Ziming Zhong.</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2020-07-17/1.jpg" data-fancybox="gallery" data-caption="Overlooking Lac des Brenets">
+	<img src="/images/blog/blog_2020-07-17/th-1.jpg" alt="" />
+</a>
+
+<a href="/images/blog/blog_2020-07-17/2.jpg" data-fancybox="gallery" data-caption="Near the waterfall">
+	<img src="/images/blog/blog_2020-07-17/th-2.jpg" alt="" />
+</a>
+
+<a href="/images/blog/blog_2020-07-17/3.jpg" data-fancybox="gallery" data-caption="On the old watch tower">
+	<img src="/images/blog/blog_2020-07-17/th-3.jpg" alt="" />
+</a>
+
+<a href="/images/blog/blog_2020-07-17/4.jpg" data-fancybox="gallery" data-caption="...and back at the lake">
+	<img src="/images/blog/blog_2020-07-17/th-4.jpg" alt="" />
+</a>
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[Vinciane Mossion was our fantastic tour guide for a day full of nice chats, walks, rides with a cute train and a boat. Photos by Ziming Zhong.]]></summary></entry></feed>
