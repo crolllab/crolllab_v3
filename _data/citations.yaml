@@ -92,7 +92,7 @@
   date: '2022-05-16'
   link: https://doi.org/gr6pzx
   type: preprint
-  image: null
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/05/17/2022.05.16.492091/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - bioRxiv
   plugin: sources.py
@@ -184,6 +184,10 @@
   publisher: BioEssays
   date: '2014-03-05'
   link: https://doi.org/f2sg7b
+  type: review
+  image: null
+  tags:
+  - Review
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/bies.201600195
@@ -194,6 +198,10 @@
   publisher: BioEssays
   date: '2016-09-19'
   link: https://doi.org/f3rgmf
+  type: review
+  image: null
+  tags:
+  - Review
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10658-012-0080-8
@@ -208,6 +216,10 @@
   publisher: European Journal of Plant Pathology
   date: '2012-09-14'
   link: https://doi.org/gr6p3s
+  type: paper
+  image: null
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10681-021-02843-7
@@ -221,6 +233,10 @@
   publisher: Euphytica
   date: '2021-05-11'
   link: https://doi.org/gjzkgd
+  type: paper
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs10681-021-02843-7/MediaObjects/10681_2021_2843_Fig2_HTML.png?as=webp
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s13225-012-0171-z
@@ -258,6 +274,10 @@
   publisher: Journal of Plant Pathology
   date: '2021-11-12'
   link: https://doi.org/gr6sns
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1749461320300257-gr1.jpg
+  tags:
+  - TEs
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/B978-0-12-819990-9.00042-1
@@ -272,6 +292,11 @@
   publisher: Encyclopedia of Mycology
   date: '2021-01-01'
   link: https://doi.org/gr6snt
+  type: review
+  image: null
+  tags:
+  - Review
+  - TEs
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.12.018
@@ -285,6 +310,10 @@
   publisher: Computational and Structural Biotechnology Journal
   date: '2021-01-01'
   link: https://doi.org/gr6p2j
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020305432-gr1.jpg
+  tags:
+  - Review
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cub.2010.05.031
@@ -403,6 +432,11 @@
   publisher: Current Opinion in Plant Biology
   date: '2020-08-01'
   link: https://doi.org/gk4dfb
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526620300492-gr2.jpg
+  tags:
+  - Highlight
+  - Review
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.simyco.2021.100116
@@ -1336,6 +1370,11 @@
   publisher: Microbial Genomics
   date: '2021-08-23'
   link: https://doi.org/gr6p2b
+  type: paper
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/8/mgen000540-f1.gif
+  tags:
+  - Parastagonospora
+  - TEs
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1099/mgen.0.000678
@@ -1348,25 +1387,10 @@
   publisher: Microbial Genomics
   date: '2021-10-07'
   link: https://doi.org/gnns67
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2022.07.18.500446
-  title: A highly multiplexed assay to monitor pathogenicity, fungicide resistance
-    and gene flow in the fungal wheat pathogen<i>Zymoseptoria tritici</i>
-  authors:
-  - Hadjer Bellah
-  - Gwilherm Gazeau
-  - "Sandrine G\xE9lisse"
-  - Reda Amezrou
-  - Thierry C. Marcel
-  - Daniel Croll
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-07-18'
-  link: https://doi.org/gr6pzr
-  type: preprint
-  image: null
+  type: paper
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/10/mgen000678-f1.gif
   tags:
-  - bioRxiv
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.10.31.514577
@@ -1502,6 +1526,10 @@
   publisher: Evolutionary Applications
   date: '2020-09-24'
   link: https://doi.org/gr6p2h
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/f558e573-a077-4534-949d-3d48950ced1c/eva13117-fig-0002-m.jpg
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/j.1420-9101.2011.02239.x
@@ -1639,6 +1667,10 @@
   publisher: Molecular Ecology
   date: '2016-08-26'
   link: https://doi.org/f8463z
+  type: paper
+  image: null
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mec.13870
@@ -1650,6 +1682,10 @@
   publisher: Molecular Ecology
   date: '2016-10-24'
   link: https://doi.org/gfw8gr
+  type: paper
+  image: null
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mec.13916
@@ -1662,6 +1698,10 @@
   publisher: Molecular Ecology
   date: '2016-11-30'
   link: https://doi.org/f9mjcg
+  type: paper
+  image: null
+  tags:
+  - Rhychosporium
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mec.14585
@@ -1677,6 +1717,10 @@
   publisher: Molecular Ecology
   date: '2018-04-27'
   link: https://doi.org/gdtk7f
+  type: paper
+  image: null
+  tags:
+  - "Epichlo\xEB"
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mec.14711
@@ -1689,6 +1733,10 @@
   publisher: Molecular Ecology
   date: '2018-05-23'
   link: https://doi.org/gr6p3h
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/4326884a-96ce-4cf1-9fa5-5e51ad560d36/mec14711-fig-0001-m.png
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mec.15737
@@ -1704,6 +1752,10 @@
   publisher: Molecular Ecology
   date: '2020-12-12'
   link: https://doi.org/gr6pz9
+  type: paper
+  image: null
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mec.16386
@@ -1716,6 +1768,10 @@
   publisher: Molecular Ecology
   date: '2022-02-16'
   link: https://doi.org/gr6pz3
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/78ac288f-eac7-4c3e-81fb-4b6ef8e7a35e/mec16386-fig-0001-m.jpg
+  tags:
+  - Cryphonectria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mec.16435
@@ -1729,6 +1785,10 @@
   publisher: Molecular Ecology
   date: '2022-04-05'
   link: https://doi.org/gr6pz2
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/db253355-db4f-4d0c-90ef-e6a24803656a/mec16435-fig-0001-m.jpg
+  tags:
+  - Rhynchosprium
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mmi.13894
@@ -1908,6 +1968,10 @@
   publisher: Plant, Cell &amp; Environment
   date: '2021-09-23'
   link: https://doi.org/gnc7kg
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/fea555ab-0adc-44ea-8e87-5148beefba86/pce14184-fig-0002-m.jpg
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/ppa.12111
@@ -2571,6 +2635,8 @@
   publisher: Genetics and Molecular Biology
   date: '2022-01-01'
   link: https://doi.org/gr6pz7
+  type: paper
+  image: https://minio.scielo.br/documentstore/1678-4685/hfKvwbdD9dqHy4xPSrCTDFv/178177a297130f3f85bc84c3dfec869cf10dff63.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fmicb.2018.00660
@@ -2633,6 +2699,7 @@
   image: https://iiif.elifesciences.org/lax/56279%2Felife-56279-fig1-v1.tif/full/,1500/0/default.jpg
   tags:
   - Highlight
+  - Cryphonectria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.69249
