@@ -29,11 +29,11 @@ nav:
         Conservation genomics
       </a>
 
-      <a href="/publications/?search=%22tag:%Mycorrhizal%20fungi%22" class="tag" data-tooltip="Show items with the tag &quot;Mycorrhizal fungi&quot;">
+      <a href="/publications/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip="Show items with the tag &quot;Mycorrhizal fungi&quot;">
         Mycorrhizal fungi
       </a>
 
-      <a href="/publications/?search=%22tag:%Human%20pathogens%22" class="tag" data-tooltip="Show items with the tag &quot;Human pathogens&quot;">
+      <a href="/publications/?search=%22tag:%20Human%20pathogens%22" class="tag" data-tooltip="Show items with the tag &quot;Human pathogens&quot;">
         Human pathogens
       </a>
 
