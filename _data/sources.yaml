@@ -255,3 +255,131 @@
   image: https://onlinelibrary.wiley.com/cms/asset/1d163999-6b33-436d-a303-296c2ad4ecef/eva12490-fig-0001-m.jpg
   tags: 
     - Conservation genomics
+- id: doi:10.1111/eva.13117
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/f558e573-a077-4534-949d-3d48950ced1c/eva13117-fig-0002-m.jpg
+  tags: 
+    - Zymoseptoria
+- id: doi:10.1111/j.1420-9101.2011.02239.x
+- id: doi:10.1111/j.1461-0248.2005.00853.x
+  type: paper
+  tags: 
+    - Mycorrhizal fungi
+- id: doi:10.1111/j.1469-8137.2008.02381.x
+  type: paper
+  tags: 
+    - Mycorrhizal fungi
+- id: doi:10.1111/j.1469-8137.2008.02602.x
+  type: paper
+  tags: 
+    - Mycorrhizal fungi
+- id: doi:10.1111/j.1469-8137.2008.02726.x
+  type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/811ed3a3-5c52-44d5-8de0-ac9721716d05/nph_2726_f1.gif
+  tags: 
+    - Mycorrhizal fungi
+- id: doi:10.1111/j.1469-8137.2011.03948.x
+  type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/c02e3bd8-cafe-41e2-bcbe-42194536b5a2/nph_3948_f1.gif
+  tags: 
+    - Mycorrhizal fungi
+- id: doi:10.1111/mec.13751
+  type: paper
+  tags: 
+    - Zymoseptoria
+- id: doi:10.1111/mec.13870
+  type: paper
+  tags: 
+    - Zymoseptoria
+- id: doi:10.1111/mec.13916
+  type: paper
+  tags: 
+    - Rhychosporium
+- id: doi:10.1111/mec.14585
+  type: paper
+  tags: 
+    - Epichloë
+- id: doi:10.1111/mec.14711
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/4326884a-96ce-4cf1-9fa5-5e51ad560d36/mec14711-fig-0001-m.png
+  tags: 
+    - Zymoseptoria
+- id: doi:10.1111/mec.15737
+  type: paper
+  tags: 
+    - Zymoseptoria
+- id: doi:10.1111/mec.16386
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/78ac288f-eac7-4c3e-81fb-4b6ef8e7a35e/mec16386-fig-0001-m.jpg
+  tags: 
+    - Cryphonectria
+- id: doi:10.1111/mec.16435
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/db253355-db4f-4d0c-90ef-e6a24803656a/mec16435-fig-0001-m.jpg
+  tags: 
+    - Rhynchosprium
+- id: doi:10.1111/mmi.13894
+- id: doi:10.1111/mpp.12333
+- id: doi:10.1111/mpp.12391
+- id: doi:10.1111/mpp.12515
+- id: doi:10.1111/mpp.12592
+- id: doi:10.1111/mpp.12747
+- id: doi:10.1111/myc.12296
+- id: doi:10.1111/nph.14203
+  type: review
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/65924045-396c-4508-8513-9686d5a5f3c3/nph14203-fig-0001-m.jpg
+  tags: 
+    - Review
+- id: doi:10.1111/nph.14434
+  type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/40ea136e-b1c4-43e4-97e9-2b75ecc359c0/nph14434-fig-0002-m.jpg
+  tags: 
+    - Zymoseptoria
+- id: doi:10.1111/nph.15180
+  type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/70170942-2c9e-4926-950f-32c8a240700c/nph15180-fig-0001-m.jpg
+  tags: 
+    - Zymoseptoria
+- id: doi:10.1111/pce.14184
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/fea555ab-0adc-44ea-8e87-5148beefba86/pce14184-fig-0002-m.jpg
+  tags: 
+    - Zymoseptoria
+- id: doi:10.1111/ppa.12111
+  type: paper
+  image: https://bsppjournals.onlinelibrary.wiley.com/cms/asset/0f52dff7-5a47-4407-8afd-a6a162188fa4/ppa12111-fig-0001-m.png
+  tags:
+    - Rhynchosporium
+- id: doi:10.1126/science.abo2401
+  type: paper
+  tags: 
+    - Ustilago
+- id: doi:10.1128/AEM.01574-06
+- id: doi:10.1128/AEM.01908-18
+- id: doi:10.1128/AEM.01974-08
+- id: doi:10.1128/mBio.01231-16
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/mBio.01231-16/asset/85a9499f-f153-4073-ae3b-3cecf04df541/assets/graphic/mbo0051630280001.jpeg
+  tags:
+    - Zymoseptoria
+- id: doi:10.1128/mBio.01494-14
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/mBio.01494-14/asset/e3558f35-2395-4873-925e-b099074289cd/assets/graphic/mbo0041419210008.jpeg
+  tags:
+    - Human pathogens
+- id: doi:10.1128/mBio.01862-15
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/mBio.01862-15/asset/ee1ba721-7c6d-47ce-9b76-30c8e09ef804/assets/graphic/mbo0061525880003.jpeg
+  tags:
+    - Human pathogens
+- id: doi:10.1128/mBio.02377-18
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/mBio.02377-18/asset/49803a3c-953a-4665-b3d7-45fdba8a42d3/assets/graphic/mbo0061842040002.jpeg
+  tags:
+    - Human pathogens
+- id: doi:10.1128/mSphere.00737-20
+- id: doi:10.1128/spectrum.00506-22
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/spectrum.00506-22/asset/2f734217-262a-450c-a686-e5c671ead678/assets/images/medium/spectrum.00506-22-f004.gif
+  tags:
+    - Human pathogens
