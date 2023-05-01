@@ -1516,3 +1516,677 @@
   - Conservation genomics
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1111/eva.13117
+  title: Maintenance of variation in virulence and reproduction in populations of
+    an agricultural plant pathogen
+  authors:
+  - Anik Dutta
+  - Daniel Croll
+  - Bruce A. McDonald
+  - Luke G. Barrett
+  publisher: Evolutionary Applications
+  date: '2020-09-24'
+  link: https://doi.org/gr6p2h
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/f558e573-a077-4534-949d-3d48950ced1c/eva13117-fig-0002-m.jpg
+  tags:
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1420-9101.2011.02239.x
+  title: A cryptic heterogametic transition revealed by sex-linked DNA markers in
+    Palearctic green toads
+  authors:
+  - "M. ST\xD6CK"
+  - D. CROLL
+  - Z. DUMAS
+  - S. BIOLLAY
+  - J. WANG
+  - N. PERRIN
+  publisher: Journal of Evolutionary Biology
+  date: '2011-02-21'
+  link: https://doi.org/fbnw6r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1461-0248.2005.00853.x
+  title: Genetic variability in a population of arbuscular mycorrhizal fungi causes
+    variation in plant growth
+  authors:
+  - Alexander M. Koch
+  - Daniel Croll
+  - Ian R. Sanders
+  publisher: Ecology Letters
+  date: '2005-11-18'
+  link: https://doi.org/b92hs8
+  type: paper
+  tags:
+  - Mycorrhizal fungi
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1469-8137.2008.02381.x
+  title: "Genetic diversity and host plant preferences revealed by simple sequence\
+    \ repeat and mitochondrial markers in a population of the arbuscular mycorrhizal\
+    \ fungus\n            <i>Glomus intraradices</i>"
+  authors:
+  - Daniel Croll
+  - Lukas Wille
+  - Hannes A. Gamper
+  - Natarajan Mathimaran
+  - Peter J. Lammers
+  - Nicolas Corradi
+  - Ian R. Sanders
+  publisher: New Phytologist
+  date: '2008-02-20'
+  link: https://doi.org/ft7z8j
+  type: paper
+  tags:
+  - Mycorrhizal fungi
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1469-8137.2008.02602.x
+  title: Multilocus genotyping of arbuscular mycorrhizal fungi and marker suitability
+    for population genetics
+  authors:
+  - Daniel Croll
+  - Nicolas Corradi
+  - Hannes A. Gamper
+  - Ian R. Sanders
+  publisher: New Phytologist
+  date: '2008-10-15'
+  link: https://doi.org/cb2khc
+  type: paper
+  tags:
+  - Mycorrhizal fungi
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1469-8137.2008.02726.x
+  title: "Nonself vegetative fusion and genetic exchange in the arbuscular mycorrhizal\
+    \ fungus\n            <i>Glomus intraradices</i>"
+  authors:
+  - Daniel Croll
+  - Manuela Giovannetti
+  - Alexander M. Koch
+  - Cristiana Sbrana
+  - Martine Ehinger
+  - Peter J. Lammers
+  - Ian R. Sanders
+  publisher: New Phytologist
+  date: '2008-12-24'
+  link: https://doi.org/cfgnsf
+  type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/811ed3a3-5c52-44d5-8de0-ac9721716d05/nph_2726_f1.gif
+  tags:
+  - Mycorrhizal fungi
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1469-8137.2011.03948.x
+  title: "The transcriptome of the arbuscular mycorrhizal fungus\n            <i>Glomus\
+    \ intraradices</i>\n            (DAOM 197198) reveals functional tradeoffs in\
+    \ an obligate symbiont"
+  authors:
+  - E. Tisserant
+  - A. Kohler
+  - "P. Dozolme\u2010Seddas"
+  - R. Balestrini
+  - K. Benabdellah
+  - A. Colard
+  - D. Croll
+  - C. Da Silva
+  - S. K. Gomez
+  - R. Koul
+  - N. Ferrol
+  - V. Fiorilli
+  - D. Formey
+  - Ph. Franken
+  - N. Helber
+  - M. Hijri
+  - L. Lanfranco
+  - E. Lindquist
+  - Y. Liu
+  - M. Malbreil
+  - E. Morin
+  - J. Poulain
+  - H. Shapiro
+  - D. van Tuinen
+  - A. Waschke
+  - "C. Azc\xF3n\u2010Aguilar"
+  - "G. B\xE9card"
+  - P. Bonfante
+  - M. J. Harrison
+  - "H. K\xFCster"
+  - P. Lammers
+  - U. Paszkowski
+  - N. Requena
+  - S. A. Rensing
+  - C. Roux
+  - I. R. Sanders
+  - "Y. Shachar\u2010Hill"
+  - G. Tuskan
+  - J. P. W. Young
+  - "V. Gianinazzi\u2010Pearson"
+  - F. Martin
+  publisher: New Phytologist
+  date: '2011-11-16'
+  link: https://doi.org/cmqdbg
+  type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/c02e3bd8-cafe-41e2-bcbe-42194536b5a2/nph_3948_f1.gif
+  tags:
+  - Mycorrhizal fungi
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.13751
+  title: Strong reproductive isolation and narrow genomic tracts of differentiation
+    among three woodpecker species in secondary contact
+  authors:
+  - Christine Grossen
+  - Sampath S. Seneviratne
+  - Daniel Croll
+  - Darren E. Irwin
+  publisher: Molecular Ecology
+  date: '2016-08-26'
+  link: https://doi.org/f8463z
+  type: paper
+  tags:
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.13870
+  title: The genetic basis of local adaptation for pathogenic fungi in agricultural
+    ecosystems
+  authors:
+  - Daniel Croll
+  - Bruce A. McDonald
+  publisher: Molecular Ecology
+  date: '2016-10-24'
+  link: https://doi.org/gfw8gr
+  type: paper
+  tags:
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.13916
+  title: Multilocus resistance evolution to azole fungicides in fungal plant pathogen
+    populations
+  authors:
+  - "Norfarhan Mohd\u2010Assaad"
+  - Bruce A. McDonald
+  - Daniel Croll
+  publisher: Molecular Ecology
+  date: '2016-11-30'
+  link: https://doi.org/f9mjcg
+  type: paper
+  tags:
+  - Rhychosporium
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.14585
+  title: "Genomewide signatures of selection in<i>Epichlo\xEB</i>reveal candidate\
+    \ genes for host specialization"
+  authors:
+  - Melanie K. Schirrmann
+  - Stefan Zoller
+  - Daniel Croll
+  - Eva H. Stukenbrock
+  - Adrian Leuchtmann
+  - Simone Fior
+  publisher: Molecular Ecology
+  date: '2018-04-27'
+  link: https://doi.org/gdtk7f
+  type: paper
+  tags:
+  - "Epichlo\xEB"
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.14711
+  title: Genome-wide evidence for divergent selection between populations of a major
+    agricultural pathogen
+  authors:
+  - Fanny E. Hartmann
+  - Bruce A. McDonald
+  - Daniel Croll
+  publisher: Molecular Ecology
+  date: '2018-05-23'
+  link: https://doi.org/gr6p3h
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/4326884a-96ce-4cf1-9fa5-5e51ad560d36/mec14711-fig-0001-m.png
+  tags:
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.15737
+  title: The complex genomic basis of rapid convergent adaptation to pesticides across
+    continents in a fungal plant pathogen
+  authors:
+  - Fanny E. Hartmann
+  - Tiziana Vonlanthen
+  - Nikhil Kumar Singh
+  - Megan C. McDonald
+  - Andrew Milgate
+  - Daniel Croll
+  publisher: Molecular Ecology
+  date: '2020-12-12'
+  link: https://doi.org/gr6pz9
+  type: paper
+  tags:
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.16386
+  title: "Temporal changes in pathogen diversity in a perennial plant\u2013pathogen\u2013\
+    hyperparasite system"
+  authors:
+  - Lea Stauber
+  - Daniel Croll
+  - Simone Prospero
+  publisher: Molecular Ecology
+  date: '2022-02-16'
+  link: https://doi.org/gr6pz3
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/78ac288f-eac7-4c3e-81fb-4b6ef8e7a35e/mec16386-fig-0001-m.jpg
+  tags:
+  - Cryphonectria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.16435
+  title: The population genetics of adaptation through copy number variation in a
+    fungal plant pathogen
+  authors:
+  - Luzia Stalder
+  - Ursula Oggenfuss
+  - "Norfarhan Mohd\u2010Assaad"
+  - Daniel Croll
+  publisher: Molecular Ecology
+  date: '2022-04-05'
+  link: https://doi.org/gr6pz2
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/db253355-db4f-4d0c-90ef-e6a24803656a/mec16435-fig-0001-m.jpg
+  tags:
+  - Rhynchosprium
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mmi.13894
+  title: Acetate provokes mitochondrial stress and cell death in<i>Ustilago maydis</i>
+  authors:
+  - Matthias Kretschmer
+  - Scott Lambie
+  - Daniel Croll
+  - James W. Kronstad
+  publisher: Molecular Microbiology
+  date: '2018-01-03'
+  link: https://doi.org/gr6p3k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mpp.12333
+  title: Comparative transcriptomic analyses of<i>Z</i><i>ymoseptoria tritici</i>strains
+    show complex lifestyle transitions and intraspecific variability in transcription
+    profiles
+  authors:
+  - Javier Palma-Guerrero
+  - Stefano F. F. Torriani
+  - Marcello Zala
+  - Dee Carter
+  - "Mika\xEBl Courbot"
+  - Jason J. Rudd
+  - Bruce A. McDonald
+  - Daniel Croll
+  publisher: Molecular Plant Pathology
+  date: '2016-02-08'
+  link: https://doi.org/gfw8gd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mpp.12391
+  title: The putative phospholipase Lip2 counteracts oxidative damage and influences
+    the virulence of<i>Ustilago maydis</i>
+  authors:
+  - Scott C. Lambie
+  - Matthias Kretschmer
+  - Daniel Croll
+  - Tegan M. Haslam
+  - Ljerka Kunst
+  - Jana Klose
+  - James W. Kronstad
+  publisher: Molecular Plant Pathology
+  date: '2016-04-21'
+  link: https://doi.org/gr6p3n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mpp.12515
+  title: Quantitative trait locus mapping reveals complex genetic architecture of
+    quantitative virulence in the wheat pathogen<i>Zymoseptoria tritici</i>
+  authors:
+  - Ethan l. Stewart
+  - Daniel Croll
+  - Mark H. Lendenmann
+  - Andrea Sanchez-Vallet
+  - Fanny E. Hartmann
+  - Javier Palma-Guerrero
+  - Xin Ma
+  - Bruce A. McDonald
+  publisher: Molecular Plant Pathology
+  date: '2017-02-05'
+  link: https://doi.org/gfw8fx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mpp.12592
+  title: 'Nature''s genetic screens: using genome-wide association studies for effector
+    discovery'
+  authors:
+  - "Andrea S\xE1nchez-Vallet"
+  - Fanny E. Hartmann
+  - Thierry C. Marcel
+  - Daniel Croll
+  publisher: Molecular Plant Pathology
+  date: '2017-12-11'
+  link: https://doi.org/gr6p3j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mpp.12747
+  title: 'Wheat blast: from its origins in South America to its emergence as a global
+    threat'
+  authors:
+  - Paulo Cezar Ceresini
+  - "Vanina Lili\xE1n Castroagud\xEDn"
+  - "Fabr\xEDcio \xC1vila Rodrigues"
+  - Jonas Alberto Rios
+  - "Carlos Eduardo Aucique-P\xE9rez"
+  - Silvino Intra Moreira
+  - Daniel Croll
+  - Eduardo Alves
+  - Giselle de Carvalho
+  - "Jo\xE3o Leodato Nunes Maciel"
+  - Bruce Alan McDonald
+  publisher: Molecular Plant Pathology
+  date: '2018-10-24'
+  link: https://doi.org/gr6p3b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/myc.12296
+  title: Analysis of the nasal vestibule mycobiome in patients with allergic rhinitis
+  authors:
+  - Won Hee Jung
+  - Daniel Croll
+  - Jae Hoon Cho
+  - Yu Ri Kim
+  - Yang Won Lee
+  publisher: Mycoses
+  date: '2015-02-10'
+  link: https://doi.org/f63g8m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/nph.14203
+  title: What the population genetic structures of host and pathogen tell us about
+    disease evolution
+  authors:
+  - Daniel Croll
+  - "Anna\u2010Liisa Laine"
+  publisher: New Phytologist
+  date: '2016-10-13'
+  link: https://doi.org/gr6p3m
+  type: review
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/65924045-396c-4508-8513-9686d5a5f3c3/nph14203-fig-0001-m.jpg
+  tags:
+  - Review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/nph.14434
+  title: "A small secreted protein in\n            <i>Zymoseptoria tritici</i>\n \
+    \           is responsible for avirulence on wheat cultivars carrying the\n  \
+    \          <i>Stb6</i>\n            resistance gene"
+  authors:
+  - Ziming Zhong
+  - Thierry C. Marcel
+  - Fanny E. Hartmann
+  - Xin Ma
+  - "Cl\xE9mence Plissonneau"
+  - Marcello Zala
+  - "Aur\xE9lie Ducasse"
+  - Johann Confais
+  - "J\xE9r\xF4me Compain"
+  - Nicolas Lapalu
+  - "Jo\xEBlle Amselem"
+  - Bruce A. McDonald
+  - Daniel Croll
+  - "Javier Palma\u2010Guerrero"
+  publisher: New Phytologist
+  date: '2017-02-06'
+  link: https://doi.org/f9n2nj
+  type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/40ea136e-b1c4-43e4-97e9-2b75ecc359c0/nph14434-fig-0002-m.jpg
+  tags:
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/nph.15180
+  title: A fungal avirulence factor encoded in a highly plastic genomic region triggers
+    partial resistance to septoria tritici blotch
+  authors:
+  - Lukas Meile
+  - Daniel Croll
+  - Patrick C. Brunner
+  - "Cl\xE9mence Plissonneau"
+  - Fanny E. Hartmann
+  - Bruce A. McDonald
+  - "Andrea S\xE1nchez\u2010Vallet"
+  publisher: New Phytologist
+  date: '2018-04-25'
+  link: https://doi.org/gf9jnm
+  type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/70170942-2c9e-4926-950f-32c8a240700c/nph15180-fig-0001-m.jpg
+  tags:
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/pce.14184
+  title: "Soil composition and plant genotype determine benzoxazinoid\u2010mediated\
+    \ plant\u2013soil feedbacks in cereals"
+  authors:
+  - Selma Cadot
+  - Valentin Gfeller
+  - Lingfei Hu
+  - Nikhil Singh
+  - "Andrea S\xE1nchez\u2010Vallet"
+  - "Ga\xE9tan Glauser"
+  - Daniel Croll
+  - Matthias Erb
+  - Marcel G. A. van der Heijden
+  - Klaus Schlaeppi
+  publisher: Plant, Cell &amp; Environment
+  date: '2021-09-23'
+  link: https://doi.org/gnc7kg
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/fea555ab-0adc-44ea-8e87-5148beefba86/pce14184-fig-0002-m.jpg
+  tags:
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/ppa.12111
+  title: An assay for quantitative virulence in<i>Rhynchosporium commune</i>reveals
+    an association between effector genotype and virulence
+  authors:
+  - T. S. Stefansson
+  - Y. Willi
+  - D. Croll
+  - B. A. McDonald
+  publisher: Plant Pathology
+  date: '2013-08-06'
+  link: https://doi.org/gr6p3r
+  type: paper
+  image: https://bsppjournals.onlinelibrary.wiley.com/cms/asset/0f52dff7-5a47-4407-8afd-a6a162188fa4/ppa12111-fig-0001-m.png
+  tags:
+  - Rhynchosporium
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/science.abo2401
+  title: Organic acids and glucose prime late-stage fungal biotrophy in maize
+  authors:
+  - Matthias Kretschmer
+  - Djihane Damoo
+  - Sherry Sun
+  - Christopher W. J. Lee
+  - Daniel Croll
+  - Harry Brumer
+  - James Kronstad
+  publisher: Science
+  date: '2022-06-10'
+  link: https://doi.org/gp99r7
+  type: paper
+  tags:
+  - Ustilago
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/AEM.01574-06
+  title: Gene Copy Number Polymorphisms in an Arbuscular Mycorrhizal Fungal Population
+  authors:
+  - Nicolas Corradi
+  - Daniel Croll
+  - Alexandre Colard
+  - Gerrit Kuhn
+  - Martine Ehinger
+  - Ian R. Sanders
+  publisher: Applied and Environmental Microbiology
+  date: '2007-01-01'
+  link: https://doi.org/b4pntw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/AEM.01908-18
+  title: "Rapid Parallel Evolution of Azole Fungicide Resistance in Australian Populations\
+    \ of the Wheat Pathogen\n            <i>Zymoseptoria tritici</i>"
+  authors:
+  - Megan C. McDonald
+  - Melanie Renkin
+  - Merrin Spackman
+  - Beverley Orchard
+  - Daniel Croll
+  - Peter S. Solomon
+  - Andrew Milgate
+  publisher: Applied and Environmental Microbiology
+  date: '2019-02-15'
+  link: https://doi.org/gr6p3c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/AEM.01974-08
+  title: High-Level Molecular Diversity of Copper-Zinc Superoxide Dismutase Genes
+    among and within Species of Arbuscular Mycorrhizal Fungi
+  authors:
+  - Nicolas Corradi
+  - Beat Ruffner
+  - Daniel Croll
+  - Alexandre Colard
+  - "Ales Hora\u0301k"
+  - Ian R. Sanders
+  publisher: Applied and Environmental Microbiology
+  date: '2009-04-01'
+  link: https://doi.org/fht3s7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/mBio.01231-16
+  title: The Evolution of Orphan Regions in Genomes of a Fungal Pathogen of Wheat
+  authors:
+  - "Cl\xE9mence Plissonneau"
+  - "Alessandra St\xFCrchler"
+  - Daniel Croll
+  publisher: mBio
+  date: '2016-11-02'
+  link: https://doi.org/gfw8fw
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/mBio.01231-16/asset/85a9499f-f153-4073-ae3b-3cecf04df541/assets/graphic/mbo0051630280001.jpeg
+  tags:
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/mBio.01494-14
+  title: Highly Recombinant VGII Cryptococcus gattii Population Develops Clonal Outbreak
+    Clusters through both Sexual Macroevolution and Asexual Microevolution
+  authors:
+  - R. Blake Billmyre
+  - Daniel Croll
+  - Wenjun Li
+  - Piotr Mieczkowski
+  - Dee A. Carter
+  - Christina A. Cuomo
+  - James W. Kronstad
+  - Joseph Heitman
+  publisher: mBio
+  date: '2014-08-29'
+  link: https://doi.org/f6gjmq
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/mBio.01494-14/asset/e3558f35-2395-4873-925e-b099074289cd/assets/graphic/mbo0041419210008.jpeg
+  tags:
+  - Human pathogens
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/mBio.01862-15
+  title: Analysis of the Protein Kinase A-Regulated Proteome of Cryptococcus neoformans
+    Identifies a Role for the Ubiquitin-Proteasome Pathway in Capsule Formation
+  authors:
+  - J. M. H. Geddes
+  - M. Caza
+  - D. Croll
+  - N. Stoynov
+  - L. J. Foster
+  - J. W. Kronstad
+  publisher: mBio
+  date: '2016-03-02'
+  link: https://doi.org/f8j9n4
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/mBio.01862-15/asset/ee1ba721-7c6d-47ce-9b76-30c8e09ef804/assets/graphic/mbo0061525880003.jpeg
+  tags:
+  - Human pathogens
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/mBio.02377-18
+  title: The Monothiol Glutaredoxin Grx4 Regulates Iron Homeostasis and Virulence
+    in Cryptococcus neoformans
+  authors:
+  - Rodgoun Attarian
+  - Guanggan Hu
+  - "Eddy S\xE1nchez-Le\xF3n"
+  - "M\xE9lissa Caza"
+  - Daniel Croll
+  - Eunsoo Do
+  - Horacio Bach
+  - Tricia Missall
+  - Jennifer Lodge
+  - Won Hee Jung
+  - James W. Kronstad
+  publisher: mBio
+  date: '2018-12-21'
+  link: https://doi.org/gr6p3f
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/mBio.02377-18/asset/49803a3c-953a-4665-b3d7-45fdba8a42d3/assets/graphic/mbo0061842040002.jpeg
+  tags:
+  - Human pathogens
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/mSphere.00737-20
+  title: "Comparative Genomics Analyses of Lifestyle Transitions at the Origin of\
+    \ an Invasive Fungal Pathogen in the Genus\n            <i>Cryphonectria</i>"
+  authors:
+  - Lea Stauber
+  - Simone Prospero
+  - Daniel Croll
+  publisher: mSphere
+  date: '2020-10-28'
+  link: https://doi.org/gr6p2n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1128/spectrum.00506-22
+  title: Genome of Malassezia arunalokei and Its Distribution on Facial Skin
+  authors:
+  - Yong-Joon Cho
+  - Taeyune Kim
+  - Daniel Croll
+  - Minji Park
+  - Donghyeun Kim
+  - Hye Lim Keum
+  - Woo Jun Sul
+  - Won Hee Jung
+  publisher: Microbiology Spectrum
+  date: '2022-06-29'
+  link: https://doi.org/gr6pzv
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/spectrum.00506-22/asset/2f734217-262a-450c-a686-e5c671ead678/assets/images/medium/spectrum.00506-22-f004.gif
+  tags:
+  - Human pathogens
+  plugin: sources.py
+  file: sources.yaml
