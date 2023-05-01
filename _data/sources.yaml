@@ -95,3 +95,103 @@
 - id: doi:10.1016/j.fgb.2017.08.007
 - id: doi:10.1016/j.fgb.2020.103398
 - id: doi:10.1016/j.mib.2018.01.020
+- id: doi:10.1016/j.pbi.2020.04.009
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526620300492-gr2.jpg
+  tags: 
+    - Highlight
+    - Review
+- id: doi:10.1016/j.simyco.2021.100116
+- id: doi:10.1016/j.tig.2021.08.005
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168952521002298-gr1.jpg
+  tags: 
+    - Highlight
+    - Review
+- id: doi:10.1016/j.tig.2022.05.008
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168952522001160-gr1.jpg
+  tags: 
+    - Review
+- id: doi:10.1016/j.tig.2023.01.005
+  type: review
+  image: https://www.cell.com/cms/attachment/10c60bb2-af4c-42cc-90cb-dda29c8cab23/b1.jpg
+  tags: 
+    - Conservation genomics
+    - Review
+- id: doi:10.1016/j.tree.2016.12.005
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0169534716302385-gr1.jpg
+- id: doi:10.1016/j.tree.2021.11.008
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S016953472100313X-gr1.jpg
+- id: doi:10.1038/hdy.2015.111
+- id: doi:10.1038/ismej.2016.196
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fismej.2016.196/MediaObjects/41396_2017_Article_BFismej2016196_Fig1_HTML.jpg?as=webp
+  tags: 
+    - Highlight
+    - Zymoseptoria
+- id: doi:10.1038/s41396-020-00859-w
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41396-020-00859-w/MediaObjects/41396_2020_859_Fig1_HTML.png?as=webp
+  tags: 
+    - Highlight
+    - Zymoseptoria
+- id: doi:10.1038/s41396-020-0729-9
+- id: doi:10.1038/s41437-020-0306-z
+- id: doi:10.1038/s41467-020-14803-1
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-14803-1/MediaObjects/41467_2020_14803_Fig1_HTML.png?as=webp
+  tags: 
+    - Highlight
+    - Conservation genomics
+- id: doi:10.1038/s41467-021-23862-x
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-23862-x/MediaObjects/41467_2021_23862_Fig1_HTML.png?as=webp
+  buttons:
+    - type: source
+      text: Github
+      link: https://github.com/crolllab/datasets
+  tags: 
+    - Highlight
+    - Zymoseptoria
+- id: doi:10.1038/s41467-023-36674-y
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-36674-y/MediaObjects/41467_2023_36674_Fig2_HTML.png?as=webp
+  buttons:
+    - type: source
+      text: Github
+      link: https://github.com/afeurtey/WW_PopGen  
+  tags: 
+    - Highlight
+    - TEs
+    - Zymoseptoria 
+- id: doi:10.1039/9781839163005-00257
+  type: paper
+  tags: 
+    - Highlight
+- id: doi:10.1093/gbe/evaa203
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/12/12/10.1093_gbe_evaa203/1/m_evaa203f1.jpeg?Expires=1686005015&Signature=DTWbX9gkAzBxcIhO8~lCL~Mbgl6FOoMj0OJ3uUvsgCHAejjU4vtRSW7tT9SLBi6kY8x1sckO6iFiba7J125SGmSEEfBDtY6bT7zBUTvIycYpnyveORz8vde8w9CP~PeR6gJFvKU8nq-AEWneZDLGANnuDFI-JgQcjg48esU1UWO8quigcX5iqp4a4--ZW6o7VYejVHE388JncylIOlD9vZgO3qruZvPn8x2dJ7GZ45z4-OK7c~BbxXr6KEf8-vHkUJSOLf94WrUONQt5QYCRqoL4fQV0vtTLzbtFD2BMgDg2HHvNQlL5srm2z3OAZVfNHt~VC-4S2oZ5Vg3OttgriQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags: 
+    - Parastagonospora
+- id: doi:10.1093/gbe/evs091
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/4/11/10.1093_gbe_evs091/4/m_evs091f1p.jpeg?Expires=1686005874&Signature=wc6c2ri3DXb64mUyhAEEwZSa7oaiorq2iGjlsSQzrcwivsWPhW0HvoqPRW2D7VhVxT~mW7JOQwmSuUMv5vGxQltxqQ2SWP97CkRcuypLaOA59n7ew3i9zFsPl-tJwSwNq7ur9xwAUFNiusaylH~c4IaLJPct~jrgSKMSFWwzvS0yxWjwVVMrSH8mG2X6IG1z3H4BZ8JYQxxqgc5jzcAIYM4JP2eyQnK1ZQx9X~vA-qZq43J2Pg5so7i0g8ha6brMtsVGq3M9WVWylY-fekE4~Ms7h3gLOVyu2tQJN2OxcMWvgMfGXkcEK84NrlW25BA8BzXdzQwqz7y8H0TsEwAwZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags: 
+- id: doi:10.1093/gbe/evy087
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/10/5/10.1093_gbe_evy087/1/m_evy087f1.jpeg?Expires=1685519877&Signature=Tau2a68L2f4vxr49~Ex2a0LTii~8p874vN6SYvmIV5wDE2lZmdF52oR4ASNRFLOjWcltIBRBKDZZ5f6GtDAgn~5UHCDd61OJsNjS05Wmfuc3UoM4piFCr3jXCIZhFWGH6kGpcALRUnwO1H2Rih04Bi8p~iTOQfJ2nzVi1~m0Vl-Qi-NgSaEi~tYZf714qSkruCy3P7peLpW25jD7Y5BGxSU2Ep1SS0E0B3qDa298RQpetSjzMl~TXnApYr9gMK~fWncNbPIdKp39R5qCzWA7EMYIuVnzMSkA8WiLMz5Br1Tjx9xKp5FJ0C3diZegdAv2HucNZ5fqBdd4Q~Fp3wj7rA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags: 
+    - Rhynchosporium
+- id: doi:10.1093/gbe/evy100
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/10/6/10.1093_gbe_evy100/1/m_evy100f2.jpeg?Expires=1685993564&Signature=oD~ZJNO~jSpUtDt2y0M4d4KsY8ZsFildPMCUm2-maZ92BuBsFEsY911-e~a-3eTG8LgP0XU7zec7GqwsyurzrO8bsgcfbHw-lILLuvXF22bUckSw5svJeitOYMjjjr5DxoT0a1jjvhN6If50nCKLRVXKYPQkOAFkrDhc7KX0mTOzR4v19qsvF3UW7VD--VIAfbGRJX8lQY-KO~z-egOmLXRFIqJ5AXsiXy81IrCigFVQInpoR5P2LlWBUyBj3P6H55XoVa1s-m6jGzTzh9O-yCH6WY5Gb9jjfg1s1Df6fqdxF4Vk9ujXZih23V28W0kIfk14BdsFqzJ69vsMdpyStg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags: 
+    - Zymoseptoria
+- id: doi:10.1093/gbe/evz225
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/11/11/10.1093_gbe_evz225/2/m_evz225f2.jpeg?Expires=1685700151&Signature=Eh40PjZIMrMJGdoV8rxSBXOpCebe3dya31r2SIfw6Oew-f5pEzKSBLjhhv92ZkFNbxP8LKgrUCQ43mJ3fn2FCrXTzYTkwLEjPFUpEPT3cI0717UB34G0gXA-gTTwKaIKyTUbLBcuiIhoU8hfihdYeYQE8cO-d9dU8oCSHNaoH3ftDXnAMYutcCVgYMvdZuZODjRv3QyYcRRG0lVK6RdHEOlo1qUokakED~C4xQsy~ifqiI5WjkuR-bDm9llOfGTrxoo9aDVSydTlsv-K22W5eq9LWfWYC2ApZ-jk503RG6L6xHepcE0sK0f1S2-pbr~iG9Z4GYVnpqHi8bTgYly~Xw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags: 
+    - Fusarium
