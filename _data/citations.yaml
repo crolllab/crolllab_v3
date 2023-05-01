@@ -2661,3 +2661,22 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
+- id: doi:https://doi.org/10.1371/journal.pone.0281181
+  title: A highly multiplexed assay to monitor pathogenicity, fungicide resistance
+    and gene flow in the fungal wheat pathogen Zymoseptoria tritici
+  authors:
+  - Hadjer Bellah
+  - Gwilherm Gazeau
+  - "Sandrine G\xE9lisse"
+  - Reda Amezrou
+  - Thierry C. Marcel
+  - Daniel Croll
+  publisher: PLOS ONE
+  date: '2023-02-06'
+  link: https://doi.org/gr6pzf
+  type: paper
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0281181.g001
+  tags:
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
