@@ -5,8 +5,7 @@ image: images/alicel.jpg
 group: current
 role: phd
 aliases:
-  - A. Laigle
-  - A Laigle
+  - Alice Laigle
 links:
   email: alice.laigle@unine.ch
   orcid: 0000-0002-7747-4306

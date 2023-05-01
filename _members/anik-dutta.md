@@ -5,8 +5,7 @@ image: images/anik.jpg
 group: alumni
 role: phd
 aliases:
-  - A. Dutta
-  - A Dutta
+  - Anik Dutta
 links:
   orcid: 0000-0003-1196-6305
   google-scholar: Vrq_F-YAAAAJ

@@ -5,8 +5,7 @@ image: images/daniel.jpg
 group: current
 role: pi
 aliases:
-  - D. Croll
-  - D Croll
+  - Daniel Croll
 links:
   email: daniel.croll@unine.ch
   home-page: https://pathogen-genomics.org

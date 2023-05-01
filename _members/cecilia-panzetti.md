@@ -5,8 +5,7 @@ image: images/default.jpg
 group: current
 role: phd
 aliases:
-  - C. Panzetti
-  - C Panzetti
+  - Cecilia Panzetti
 links:
   email: cecilia.panzetti@agroscope.admin.ch
 ---

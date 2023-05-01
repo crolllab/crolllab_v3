@@ -5,8 +5,7 @@ image: images/alice.jpg
 group: current
 role: postdoc
 aliases:
-  - A. Feurtey
-  - A Feurtey
+  - Alice Feurtey
 links:
   email: alice.feurtey@usys.ethz.ch
   home-page: https://afeurtey.github.io
