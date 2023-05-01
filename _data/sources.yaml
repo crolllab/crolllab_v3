@@ -12,3 +12,123 @@
     - bioRxiv
     - TEs
     - Zymoseptoria
+- id: doi:10.1101/2022.12.23.521735
+  type: preprint
+  tags: 
+    - bioRxiv
+- id: doi:10.1101/2022.09.28.509846
+  type: preprint
+  tags: 
+    - bioRxiv
+- id: doi:10.1101/2022.05.16.492091
+  type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/05/17/2022.05.16.492091/F1.large.jpg?width=800&height=600&carousel=1
+  tags: 
+    - bioRxiv
+- id: doi:10.1101/203455
+  type: preprint
+  tags: 
+    - bioRxiv
+- id: doi:10.5281/zenodo.4655959
+  type: dataset
+  tags: 
+    - Zenodo
+- id: doi:10.1111/mpp.12485
+  type: paper
+  image: https://bsppjournals.onlinelibrary.wiley.com/cms/asset/63e2a819-9bdc-4135-8c71-092f0df038a2/mpp12485-fig-0001-m.jpg
+  tags: 
+    - Ustilago
+- id: doi:10.1111/mpp.12486
+- id: doi:10.1371/journal.ppat.1002608
+  type: review
+  image: https://journals.plos.org/plospathogens/article/figure/image?size=large&id=10.1371/journal.ppat.1002608.g001
+  tags: 
+    - Highlight
+    - Review
+- id: doi:10.1002/bies.201400030
+  type: review
+  tags: 
+    - Review
+- id: doi:10.1002/bies.201600195
+  type: review
+  tags: 
+    - Review
+- id: doi:10.1007/s10658-012-0080-8
+  type: paper
+  tags: 
+    - Zymoseptoria
+- id: doi:10.1007/s10681-021-02843-7
+  type: paper
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs10681-021-02843-7/MediaObjects/10681_2021_2843_Fig2_HTML.png?as=webp
+  tags: 
+    - Zymoseptoria
+- id: doi:10.1007/s13225-012-0171-z
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs13225-012-0171-z/MediaObjects/13225_2012_171_Fig2_HTML.gif?as=webp
+  tags: 
+    - Microbiome
+- id: doi:10.1007/s42161-021-00952-9
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1749461320300257-gr1.jpg
+  tags: 
+    - TEs
+- id: doi:10.1016/B978-0-12-819990-9.00042-1
+  type: review
+  tags: 
+    - Review
+    - TEs
+- id: doi:10.1016/j.csbj.2020.12.018
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020305432-gr1.jpg
+  tags: 
+    - Review
+- id: doi:10.1016/j.cub.2010.05.031
+- id: doi:10.1016/j.cub.2011.10.041
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982211012024-gr3.jpg
+  tags: 
+    - Highlight
+    - Zymoseptoria
+- id: doi:10.1016/j.fbr.2014.02.001
+- id: doi:10.1016/j.fbr.2020.07.001
+- id: doi:10.1016/j.fgb.2015.05.001
+- id: doi:10.1016/j.fgb.2017.08.007
+- id: doi:10.1016/j.fgb.2020.103398
+- id: doi:10.1016/j.mib.2018.01.020
+- id: doi:10.1016/j.pbi.2020.04.009
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526620300492-gr2.jpg
+  tags: 
+    - Highlight
+    - Review
+- id: doi:10.1016/j.simyco.2021.100116
+- id: doi:10.1016/j.tig.2021.08.005
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168952521002298-gr1.jpg
+  tags: 
+    - Highlight
+    - Review
+- id: doi:10.1016/j.tig.2022.05.008
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168952522001160-gr1.jpg
+  tags: 
+    - Review
+- id: doi:10.1016/j.tig.2023.01.005
+  type: review
+  image: https://www.cell.com/cms/attachment/10c60bb2-af4c-42cc-90cb-dda29c8cab23/b1.jpg
+  tags: 
+    - Conservation genomics
+    - Review
+- id: doi:10.1016/j.tree.2016.12.005
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0169534716302385-gr1.jpg
+- id: doi:10.1016/j.tree.2021.11.008
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S016953472100313X-gr1.jpg
+- id: doi:10.1038/hdy.2015.111
+- id: doi:10.1038/ismej.2016.196
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fismej.2016.196/MediaObjects/41396_2017_Article_BFismej2016196_Fig1_HTML.jpg?as=webp
+  tags: 
+    - Highlight
+    - Zymoseptoria
