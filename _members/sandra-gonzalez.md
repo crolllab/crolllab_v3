@@ -1,12 +1,12 @@
 ---
-name: Sandra Milena Gonzalez-Sayer
+name: Sandra Milena González-Sayer
 description: Swiss Government Excellence Scholar
 image: images/sami.png
 group: current
 role: postdoc
 aliases:
   - Sandra Milena Gonzalez-Sayer
-  - Sandra González-Sayer
+  - Sandra Gonzalez-Sayer
 links:
   email: sandra.gonzalez@unine.ch
 ---

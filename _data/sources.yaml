@@ -66,6 +66,10 @@
   tags: 
     - Zymoseptoria
 - id: doi:10.1007/s13225-012-0171-z
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs13225-012-0171-z/MediaObjects/13225_2012_171_Fig2_HTML.gif?as=webp
+  tags: 
+    - Microbiome
 - id: doi:10.1007/s42161-021-00952-9
   type: review
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1749461320300257-gr1.jpg
