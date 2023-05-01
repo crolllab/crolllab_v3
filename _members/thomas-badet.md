@@ -5,8 +5,7 @@ image: images/thomas.jpg
 group: current
 role: postdoc
 aliases:
-  - T. Badet
-  - T Badet
+  - Thomas Badet
 links:
   email: thomas.badet@unine.ch
   orcid: 0000-0001-8713-9213

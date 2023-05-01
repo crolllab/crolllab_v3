@@ -5,8 +5,7 @@ image: images/emile.jpg
 group: current
 role: postdoc
 aliases:
-  - E. Gluck-Thaler
-  - E Gluck-Thaler
+  - Emile Gluck-Thaler
 links:
   email: emile.gluck@unine.ch
   home-page: https://egluckthaler.github.io

@@ -5,8 +5,7 @@ image: images/gholam.jpg
 group: current
 role: phd
 aliases:
-  - G.-H. Jowkar
-  - G-H Jowkar
+  - Gholam-Hossein Jowkar
 links:
   email: jowk@zhaw.ch
   github: 

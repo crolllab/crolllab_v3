@@ -5,8 +5,7 @@ image: images/default.jpg
 group: current
 role: phd
 aliases:
-  - H.M. Glad
-  - HM Glad
+  - Hanna Maren Glad
 links:
   email: hanna.glad@unine.ch
   github: hannaglad

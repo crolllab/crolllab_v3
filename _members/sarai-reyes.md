@@ -5,8 +5,8 @@ image: images/sarai.jpg
 group: current
 role: phd
 aliases:
-  - C.S. Reyes-Avila
-  - CS Reyes-Avila
+  - Sarai Reyes-Avila
+  - Claudia Sarai Reyes-Avila
 links:
   email: sarai.reyes@unine.ch
   orcid: 0000-0002-6970-8862

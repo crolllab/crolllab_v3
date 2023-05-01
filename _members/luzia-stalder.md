@@ -5,8 +5,7 @@ image: images/luzia.png
 group: current
 role: phd
 aliases:
-  - L. Stalder
-  - L Stalder
+  - Luzia Stalder
 links:
   email: luzia.stalder@unine.ch
   orcid: 0000-0002-1590-5676

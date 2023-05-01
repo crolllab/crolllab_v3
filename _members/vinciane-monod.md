@@ -5,8 +5,7 @@ image: images/vinciane_monod.jpg
 group: current
 role: phd
 aliases:
-  - V. Monod
-  - V Monod
+  - Vinciane Monod
 links:
   email: vinciane.monod@agroscope.admin.ch
 ---

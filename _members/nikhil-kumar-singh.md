@@ -5,8 +5,8 @@ image: images/nikhil.jpg
 group: alumni
 role: phd
 aliases:
-  - N.K. Singh
-  - NK Singh
+  - Nikhil Singh
+  - Nikhil Kumar Singh
 links:
   orcid: 0000-0001-7236-9278
   google-scholar: y8cSxGEAAAAJ

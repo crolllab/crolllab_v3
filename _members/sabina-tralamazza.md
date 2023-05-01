@@ -5,8 +5,7 @@ image: images/sabina.jpg
 group: current
 role: postdoc
 aliases:
-  - SM Tralamazza
-  - S. Moser Tralamazza
+  - Sabina Moser Tralamazza
 links:
   email: sabina.tralamazza@unine.ch
   orcid: 0000-0002-5524-3806

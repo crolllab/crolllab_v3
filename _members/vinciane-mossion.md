@@ -5,8 +5,7 @@ image: images/vinciane_mossion.jpg
 group: alumni
 role: phd
 aliases:
-  - V. Mossion
-  - V Mossion
+  - Vinciane Mossion
 links:
   orcid: 0000-0002-8429-1014
   google-scholar: QNQ9M_kAAAAJ

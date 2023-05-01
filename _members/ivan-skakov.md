@@ -5,8 +5,7 @@ image: images/ivan.jpg
 group: current
 role: phd
 aliases:
-  - I. Skakov
-  - I Skakov
+  - Ivan Skakov
 links:
   email: ivan.skakov@unine.ch
 ---

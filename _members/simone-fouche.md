@@ -5,8 +5,7 @@ image: images/simone.jpg
 group: alumni
 role: phd
 aliases:
-  - S. Fouche
-  - S Fouche
+  - Simone Fouche
 links:
   orcid: 0000-0003-0601-6073
   google-scholar: Isor-uQAAAAJ

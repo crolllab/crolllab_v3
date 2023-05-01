@@ -5,8 +5,7 @@ image: images/default.jpg
 group: current
 role: staff
 aliases:
-  - O. Gning
-  - O Gning
+  - Ophelie Gning
 links:
   email: ophelie.gning@unine.ch
 ---

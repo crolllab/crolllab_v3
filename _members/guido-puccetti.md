@@ -5,8 +5,7 @@ image: images/guido.jpg
 group: current
 role: phd
 aliases:
-  - G. Puccetti
-  - G Puccetti
+  - Guido Puccetti
 links:
   email: guido.puccetti@unine.ch
   orcid: 0000-0002-7747-4306

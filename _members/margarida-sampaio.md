@@ -5,8 +5,7 @@ image: images/margarida.jpg
 group: current
 role: postdoc
 aliases:
-  - A.M. Novais Sampaio
-  - AM Novais Sampaio
+  - Ana Margarida Sampaio
 links:
   email: ana.novais@unine.ch
   orcid: 0000-0002-2008-8527

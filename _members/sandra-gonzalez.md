@@ -5,8 +5,7 @@ image: images/sami.png
 group: current
 role: postdoc
 aliases:
-  - S. M. Gonzalez-Sayer
-  - SM Gonzalez-Sayer
+  - Sandra Milena Gonzalez-Sayer
 links:
   email: sandra.gonzalez@unine.ch
 ---

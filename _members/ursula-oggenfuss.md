@@ -5,8 +5,7 @@ image: images/ursula.jpg
 group: alumni
 role: phd
 aliases:
-  - U. Oggenfuss
-  - U Oggenfuss
+  - Ursula Oggenfuss
 links:
   email: ursula.oggenfuss@gmail.com
   orcid: 0000-0001-9291-9185

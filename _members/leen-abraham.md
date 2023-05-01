@@ -5,9 +5,8 @@ image: images/leen.jpg
 group: current
 role: phd
 aliases:
-  - L.N. Abraham
-  - LN Abraham
-  - L Abraham
+  - Leen Abraham
+  - Leen Nanchira Abraham
 links:
   email: leen.abraham@unine.ch
   orcid: 0000-0002-9122-6456

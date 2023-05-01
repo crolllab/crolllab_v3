@@ -5,8 +5,7 @@ image: images/toby.jpg
 group: current
 role: postdoc
 aliases:
-  - T. Baril
-  - T Baril
+  - Tobias Baril
 links:
   email: tobias.baril@unine.ch
   home-page: https://tobybaril.github.io
