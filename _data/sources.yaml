@@ -38,6 +38,10 @@
   tags: 
     - Zenodo
 - id: doi:10.1111/mpp.12485
+  type: paper
+  image: https://bsppjournals.onlinelibrary.wiley.com/cms/asset/63e2a819-9bdc-4135-8c71-092f0df038a2/mpp12485-fig-0001-m.jpg
+  tags: 
+    - Ustilago
 - id: doi:10.1111/mpp.12486
 - id: doi:10.1371/journal.ppat.1002608
   type: review
@@ -178,14 +182,13 @@
     - Highlight
 - id: doi:10.1093/gbe/evaa203
   type: paper
-  image: 
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/12/12/10.1093_gbe_evaa203/1/m_evaa203f1.jpeg?Expires=1686005015&Signature=DTWbX9gkAzBxcIhO8~lCL~Mbgl6FOoMj0OJ3uUvsgCHAejjU4vtRSW7tT9SLBi6kY8x1sckO6iFiba7J125SGmSEEfBDtY6bT7zBUTvIycYpnyveORz8vde8w9CP~PeR6gJFvKU8nq-AEWneZDLGANnuDFI-JgQcjg48esU1UWO8quigcX5iqp4a4--ZW6o7VYejVHE388JncylIOlD9vZgO3qruZvPn8x2dJ7GZ45z4-OK7c~BbxXr6KEf8-vHkUJSOLf94WrUONQt5QYCRqoL4fQV0vtTLzbtFD2BMgDg2HHvNQlL5srm2z3OAZVfNHt~VC-4S2oZ5Vg3OttgriQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags: 
-    - Highlight
+    - Parastagonospora
 - id: doi:10.1093/gbe/evs091
   type: paper
-  image: 
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/4/11/10.1093_gbe_evs091/4/m_evs091f1p.jpeg?Expires=1686005874&Signature=wc6c2ri3DXb64mUyhAEEwZSa7oaiorq2iGjlsSQzrcwivsWPhW0HvoqPRW2D7VhVxT~mW7JOQwmSuUMv5vGxQltxqQ2SWP97CkRcuypLaOA59n7ew3i9zFsPl-tJwSwNq7ur9xwAUFNiusaylH~c4IaLJPct~jrgSKMSFWwzvS0yxWjwVVMrSH8mG2X6IG1z3H4BZ8JYQxxqgc5jzcAIYM4JP2eyQnK1ZQx9X~vA-qZq43J2Pg5so7i0g8ha6brMtsVGq3M9WVWylY-fekE4~Ms7h3gLOVyu2tQJN2OxcMWvgMfGXkcEK84NrlW25BA8BzXdzQwqz7y8H0TsEwAwZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags: 
-    - Highlight
 - id: doi:10.1093/gbe/evy087
   type: paper
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/10/5/10.1093_gbe_evy087/1/m_evy087f1.jpeg?Expires=1685519877&Signature=Tau2a68L2f4vxr49~Ex2a0LTii~8p874vN6SYvmIV5wDE2lZmdF52oR4ASNRFLOjWcltIBRBKDZZ5f6GtDAgn~5UHCDd61OJsNjS05Wmfuc3UoM4piFCr3jXCIZhFWGH6kGpcALRUnwO1H2Rih04Bi8p~iTOQfJ2nzVi1~m0Vl-Qi-NgSaEi~tYZf714qSkruCy3P7peLpW25jD7Y5BGxSU2Ep1SS0E0B3qDa298RQpetSjzMl~TXnApYr9gMK~fWncNbPIdKp39R5qCzWA7EMYIuVnzMSkA8WiLMz5Br1Tjx9xKp5FJ0C3diZegdAv2HucNZ5fqBdd4Q~Fp3wj7rA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -258,6 +261,10 @@
 - id: doi:10.1111/1755-0998.13478
 - id: doi:10.1111/aje.12888
 - id: doi:10.1111/eva.12490
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/1d163999-6b33-436d-a303-296c2ad4ecef/eva12490-fig-0001-m.jpg
+  tags: 
+    - Conservation genomics
 - id: doi:10.1111/eva.13117
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/f558e573-a077-4534-949d-3d48950ced1c/eva13117-fig-0002-m.jpg
@@ -318,8 +325,20 @@
 - id: doi:10.1111/mpp.12747
 - id: doi:10.1111/myc.12296
 - id: doi:10.1111/nph.14203
+  type: review
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/65924045-396c-4508-8513-9686d5a5f3c3/nph14203-fig-0001-m.jpg
+  tags: 
+    - Review
 - id: doi:10.1111/nph.14434
+  type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/40ea136e-b1c4-43e4-97e9-2b75ecc359c0/nph14434-fig-0002-m.jpg
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1111/nph.15180
+  type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/70170942-2c9e-4926-950f-32c8a240700c/nph15180-fig-0001-m.jpg
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1111/pce.14184
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/fea555ab-0adc-44ea-8e87-5148beefba86/pce14184-fig-0002-m.jpg
@@ -333,6 +352,8 @@
 - id: doi:10.1126/science.abo2401
   type: paper
   image: 
+  tags: 
+    - Ustilago
 - id: doi:10.1128/AEM.01574-06
 - id: doi:10.1128/AEM.01908-18
 - id: doi:10.1128/AEM.01974-08
@@ -373,6 +394,10 @@
   tags:
     - Microbiome
 - id: doi:10.1146/annurev-genet-102108-134239
+  type: review
+  image: 
+  tags: 
+    - Mycorrhizal fungi
 - id: doi:10.1146/annurev-phyto-080417-050036
   type: review
   image: 
@@ -437,8 +462,15 @@
     - Wheat blast   
 - id: doi:10.1371/journal.pgen.1003567
   type: paper
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1003567.g005
+  tags:
+    - Highlight 
+    - Zymoseptoria
 - id: doi:10.1371/journal.pgen.1004438
-  type: paper
+ type: paper
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1004438.g001
+  tags:
+    - Conservation genomics
 - id: doi:10.1371/journal.ppat.1008652
   type: paper
   image: https://journals.plos.org/plospathogens/article/figure/image?size=large&id=10.1371/journal.ppat.1008652.g001
@@ -446,6 +478,9 @@
     - Zymoseptoria
 - id: doi:10.1371/journal.ppat.1010149
   type: paper
+  image: https://journals.plos.org/plospathogens/article/figure/image?size=large&id=10.1371/journal.ppat.1010149.g002
+  tags:
+    - Parastagonospora
 - id: doi:10.1371/journal.ppat.1011130
   type: paper
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9970103/bin/ppat.1011130.g007.jpg
@@ -454,13 +489,29 @@
     - TEs
     - Zymoseptoria
 - id: doi:10.1534/g3.114.015289
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/g3journal/4/12/10.1534_g3.114.015289/5/m_2519f1.gif?Expires=1686005919&Signature=CjvwjNHBgzOif0rlTroEhMeZEtBCJr7SAXwhwoq~q9VpAP9ZwzAUnIUC3iWIqInsYjB2Dsbc0pA6EJdS8ieQtdhJ0dNSKufiWIMzWZUuYlSEPm4g02SDMiIwASwKWrAKQwbe295FG1wWDYoCqkuN5I3Kzy1-Vn6LC1sznU16J1b5feiqVW9So9ErmG0uLZol~dmdyGVqeNzWen6TsB-6qEQQk8wK-cu5LEaEo59LzDJfA-CO1Vm8uyXPpzJ4-J2z43ZotKPl8aaIxlsewpll78RzI1DPxIVUZyZbjECkeuwvzzgQOD8dGgOh4hwor1Ks4GHIBL4~htLfRms5V2OXlA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1534/g3.120.401375
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/g3journal/10/10/10.1534_g3.120.401375/10/m_3549f1.jpeg?Expires=1686005960&Signature=d-GojJQPreX5CCAZ78A9LYAnx09RJygKYepxYAkzs6UY2gSKHO21E55Rmmi9rltbd8HxDtmVMJNIAbWnDGk9x9xPSN1ZUl8tmCQSX~IyeXc4Opp5mrd6AAq5WjOotA~490yF-OZJfbIjPeFU5Vz~ATiPDl7PeP2nNjZgieLXLkrkK8~oyKdK4WspPpJcaqATcOueudjYxgreKKcXOQrbpI9tzK3FqC1Uxw4rBvYawLtIisjGDcG7-NqoPJdOkFJWH0PjDDSkI6ZTKh~pq4Sr0wTGN6~9Ew64FIw2E9XOpf1lY4mSlmXSJ8PAeICDRTy1rJBMMo4QY-afQsESfRipiw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags: 
+    - Fusarium
 - id: doi:10.1534/genetics.115.180968
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/201/3/10.1534_genetics.115.180968/7/m_1213fig2.jpeg?Expires=1686005988&Signature=D79rhnLVM4aF-2A7t5LdAW-tkFv6f1cots4IF94FZFZQVuXgcOtU9zh13R2VrybRD4VBLkRMbbUcC0A6BYun33QyAWUci9RAEozM93LqiukT2Sd7DtAlCQ2HxjGLFWNV0o7YyAqr4pa-FbKDmOODZmuqjcnn~zR6oYWrgwYI8p~KcX7sG-WYEnGocjTvxhmVZTm8y6cY~jL5qsH6ZZpYZyZFxVMal7z49~1QWgwe-8576JERfUTDE399U0yYPKclG6gfMUsXjY-3rnl4ktG8FKhgBjLEJ~BGcmyXvO2fV-nAro6yo2m3XsItHCHrgSCJi~irTGUN~8ocMpGzq~RZhQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags: 
+    - Zymoseptoria
 - id: doi:10.1590/1678-4685-GMB-2021-0051
   type: paper
   image: https://minio.scielo.br/documentstore/1678-4685/hfKvwbdD9dqHy4xPSrCTDFv/178177a297130f3f85bc84c3dfec869cf10dff63.jpg
 - id: doi:10.3389/fmicb.2018.00660
 - id: doi:10.3389/fpls.2017.00119
+  type: review
+  image: https://www.frontiersin.org/files/Articles/231749/fpls-08-00119-HTML/image_m/fpls-08-00119-g001.jpg
+  tags: 
+    - Review
 - id: doi:10.3767/persoonia.2021.46.04
 - id: doi:10.7554/eLife.56279
   type: paper
