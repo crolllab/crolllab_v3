@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: crolllab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Evolutionary genomics of pathogens
+subtitle: Croll lab at University of Neuchatel
+description: The lab of Daniel Croll wants to understand how pathogens evolve to cause disease. For this, we mainly focus on major crop pathogens to unravel mechanisms of rapid adaptation. We want to understand how host resistance mechanisms are circumvented, pesticides become ineffective and how pathogens cope with climate challenges.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@crolllab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: daniel.croll@unine.ch
+  orcid: 0000-0002-2072-380X
+  google-scholar: 82WR4DYAAAAJ
   github: crolllab
-  twitter: crolllab
-  youtube: crolllab
+  twitter: danielcroll
+  
 
 ### jekyll settings
 

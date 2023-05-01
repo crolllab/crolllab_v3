@@ -2,32 +2,31 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are always happy to receive a message! 
+
+_Interested in joining our lab?_ You can either propose to apply for a fellowship (SNSF Postdoctoral Fellowship, Marie Curie, EMBO, HFSP, Swiss Government Excellence, etc.) or inquire about PhD student/postdoc openings in the lab. Please make sure to briefly explain why you’d like to join us, what your background is and what general interests you have moving forward.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="daniel.croll@unine.ch"
+  link="daniel.croll@unine.ch"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+41 (0) 32 718 23 30"
+  link="+41 (0) 32 718 23 30"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Rue+Emile-Argand+11,+2000+Neuchâtel/@46.9974915,6.9359098,14.92z/data=!4m6!3m5!1s0x478e0a2666edbb0f:0xf582a3f51b276226!8m2!3d46.9999234!4d6.9493576!16s%2Fg%2F11c26rx1gw"
 %}
 
 {% include section.html %}
@@ -36,8 +35,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/contact_1.jpeg"
+  caption="View of the Alps"
 %}
 
 {% endcapture %}
@@ -46,32 +45,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/contact_2.jpeg"
+  caption="BBQ time"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
+{%
+  include figure.html
+  image="images/contact_3.jpeg"
+  caption="Jura mountains"
+%}
+
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}

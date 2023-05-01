@@ -1,27 +1,19 @@
 ---
 title: Research
 nav:
-  order: 1
-  tooltip: Published works
+  order: 2
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Research in our lab
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Many of the world’s staple crops are vulnerable to the emergence of new pathogens. Genetic homogeneity of crop plants and fungicide applications drive rapid adaptive evolution in pathogen populations. Our group investigates the genetic architecture of adaptive traits and retraces genome evolution in major crop pathogens.
 
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
+{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include section.html %}
+
+{% include list.html component="card" data="projects" filters="group: featured" %}
+
+{% include section.html %}
