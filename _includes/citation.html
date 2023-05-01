@@ -38,7 +38,7 @@
 
     <div
       class="citation-authors"
-      {% if citation.authors.size > 10 %}
+      {% if citation.authors.size > 15 %}
         data-tooltip="{{ citation.authors | join: ", " }} "
       {% endif %}
       tabindex="0"
@@ -73,24 +73,25 @@
         </div>
       {% endif %}
 
-      {% if citation.buttons.size > 0 %}
-        <div class="citation-buttons">
-          {% for button in citation.buttons %}
-            {%
-              include button.html
-              type=button.type
-              icon=button.icon
-              text=button.text
-              link=button.link
-              style="bare"
-            %}
-          {% endfor %}
-        </div>
-      {% endif %}
 
       {% if citation.tags.size > 0 or citation.repo %}
         {% include tags.html tags=citation.tags repo=citation.repo %}
       {% endif %}
     {% endif %}
+
+    {% if citation.buttons.size > 0 %}
+    <div class="citation-buttons">
+      {% for button in citation.buttons %}
+        {%
+          include button.html
+          type=button.type
+          icon=button.icon
+          text=button.text
+          link=button.link
+          style="bare"
+        %}
+      {% endfor %}
+    </div>
+  {% endif %}
   </div>
 </div>
