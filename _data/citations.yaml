@@ -251,6 +251,10 @@
   publisher: Fungal Diversity
   date: '2012-04-24'
   link: https://doi.org/f3xwz3
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs13225-012-0171-z/MediaObjects/13225_2012_171_Fig2_HTML.gif?as=webp
+  tags:
+  - Microbiome
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s42161-021-00952-9
