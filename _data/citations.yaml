@@ -75,6 +75,7 @@
   date: '2022-09-28'
   link: https://doi.org/gr6pzq
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/09/28/2022.09.28.509846/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - bioRxiv
   plugin: sources.py
@@ -128,7 +129,7 @@
   publisher: Zenodo
   date: '2021-04-01'
   link: https://doi.org/gr6snq
-  type: dataset
+  type: preprint
   tags:
   - Zenodo
   plugin: sources.py
@@ -1170,9 +1171,9 @@
   publisher: Food Chemistry, Function and Analysis
   date: '2021-01-01'
   link: https://doi.org/gr6snv
-  type: paper
+  type: review
   tags:
-  - Highlight
+  - Review
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/gbe/evaa203
@@ -1510,7 +1511,7 @@
   type: paper
   image: https://ami-journals.onlinelibrary.wiley.com/cms/asset/dbac6cac-1c5d-404e-9ae6-bd9ceed2af32/emi15752-fig-0001-m.png
   tags:
-  - Mycorhizal fungi
+  - Mycorrhizal fungi
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/1755-0998.13452
