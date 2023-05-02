@@ -1,0 +1,12 @@
+Body 	      { color: white; font-size: x-small; font-family: Arial; background-color: black; margin-left: 0; scrollbar-3d-light-color: #000000; scrollbar-arrow-color: #446ce0; scrollbar-base-color: #000000; scrollbar-dark-shadow-color: #446ce0; scrollbar-face-color: #000000; scrollbar-highlight-color: #446ce0; scrollbar-shadow-color: #446ce0; scrollbar-track-color: #000000  }
+
+a:link 	          { color: #8f97db; text-decoration: none }
+a:visited 	          { color: #8f97db; text-decoration: none }
+a:active 	            { color: #bcc5ff; text-decoration: underline blink }
+a:hover 	            { color: #bcc5ff; text-decoration: underline blink }
+p  		     { color: white; font-size: 13px; font-family: Arial }
+td    { color: white; font-size: 13px; font-family: Arial }
+h1    { color: white; font-weight: bold; font-size: 20px; font-family: Arial }
+h2 		    { color: white; font-weight: bold; font-size: 16px; font-family: Arial }
+h3 		     { color: white; font-weight: bold; font-size: 13px; font-family: Arial }
+h4  { color: white; font-size: 11px; font-family: Arial }
