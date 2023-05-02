@@ -136,6 +136,10 @@
     - Highlight
     - Review
 - id: doi:10.1016/j.simyco.2021.100116
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0166061621000038-gr6.jpg
+  tags: 
+    - Fusarium
 - id: doi:10.1016/j.tig.2021.08.005
   type: review
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0168952521002298-gr1.jpg
@@ -177,7 +181,15 @@
     - Highlight
     - Zymoseptoria
 - id: doi:10.1038/s41396-020-0729-9
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41396-020-0729-9/MediaObjects/41396_2020_729_Fig1_HTML.png?as=webp
+  tags: 
+    - Microbiome
 - id: doi:10.1038/s41437-020-0306-z
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41437-020-0306-z/MediaObjects/41437_2020_306_Fig3_HTML.png?as=webp
+  tags: 
+    - Armillaria
 - id: doi:10.1038/s41467-020-14803-1
   type: paper
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-14803-1/MediaObjects/41467_2020_14803_Fig1_HTML.png?as=webp
@@ -325,6 +337,10 @@
   tags: 
     - Zymoseptoria
 - id: doi:10.1111/j.1420-9101.2011.02239.x
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/bac3bd9d-d0f2-4a76-91d8-68f07de6d6a3/jeb_2239_t1.gif
+  tags: 
+    - Frogs
 - id: doi:10.1111/j.1461-0248.2005.00853.x
   type: paper
   tags: 
