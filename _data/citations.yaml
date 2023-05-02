@@ -159,6 +159,10 @@
   publisher: Molecular Plant Pathology
   date: '2016-11-14'
   link: https://doi.org/gr6p3q
+  type: paper
+  image: https://bsppjournals.onlinelibrary.wiley.com/cms/asset/1162d83f-d5bf-4b42-954c-fe1ca61d786a/mpp12486-fig-0002-m.png
+  tags:
+  - Ustilago
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.ppat.1002608
@@ -328,6 +332,10 @@
   publisher: Current Biology
   date: '2010-07-01'
   link: https://doi.org/dhg9c5
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982210005993-gr2.jpg
+  tags:
+  - Mycorrhizal fungi
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cub.2011.10.041
@@ -356,6 +364,10 @@
   publisher: Fungal Biology Reviews
   date: '2014-05-01'
   link: https://doi.org/gfw8b5
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1749461314000025-gr2.jpg
+  tags:
+  - Review
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.fbr.2020.07.001
@@ -369,6 +381,11 @@
   publisher: Fungal Biology Reviews
   date: '2020-09-01'
   link: https://doi.org/gr6p27
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1749461320300257-gr1.jpg
+  tags:
+  - Review
+  - TEs
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.fgb.2015.05.001
@@ -381,6 +398,10 @@
   publisher: Fungal Genetics and Biology
   date: '2015-07-01'
   link: https://doi.org/f7g29b
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1087184515000973-gr3.jpg
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.fgb.2017.08.007
@@ -397,6 +418,10 @@
   publisher: Fungal Genetics and Biology
   date: '2017-11-01'
   link: https://doi.org/gcmmfh
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1087184517301354-gr2.jpg
+  tags:
+  - Armillaria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.fgb.2020.103398
@@ -410,6 +435,10 @@
   publisher: Fungal Genetics and Biology
   date: '2020-08-01'
   link: https://doi.org/gr6p28
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S108718452030089X-gr3.jpg
+  tags:
+  - Parastagonospora
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.mib.2018.01.020
@@ -422,6 +451,11 @@
   publisher: Current Opinion in Microbiology
   date: '2018-12-01'
   link: https://doi.org/gpf83m
+  type: review
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369527417300632-gr1.jpg
+  tags:
+  - Review
+  - Highlight
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.pbi.2020.04.009
@@ -955,6 +989,10 @@
   publisher: Heredity
   date: '2016-01-13'
   link: https://doi.org/f8vb77
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fhdy.2015.111/MediaObjects/41437_2016_Article_BFhdy2015111_Fig2_HTML.jpg?as=webp
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/ismej.2016.196
@@ -1331,6 +1369,10 @@
   publisher: "Molecular Plant-Microbe Interactions\xAE"
   date: '2017-03-01'
   link: https://doi.org/f94ncw
+  type: paper
+  image: https://apsjournals.apsnet.org/cms/10.1094/MPMI-07-16-0146-R/asset/images/medium/mpmi-07-16-0146-r_f5.gif
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1094/PHYTO-06-18-0199-LE
@@ -1355,6 +1397,10 @@
   publisher: "Phytopathology\xAE"
   date: '2019-04-01'
   link: https://doi.org/gmd6wq
+  type: paper
+  image: https://apsjournals.apsnet.org/cms/10.1094/PHYTO-06-18-0199-LE/asset/images/medium/phyto-06-18-0199-le_f1.gif
+  tags:
+  - Wheat blast
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1099/mgen.0.000540
@@ -1426,6 +1472,9 @@
   publisher: Environmental Microbiology
   date: '2019-04-11'
   link: https://doi.org/gpf88b
+  type: paper
+  tags:
+  - Rhynchosporium
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/1462-2920.15752
@@ -1446,6 +1495,10 @@
   publisher: Environmental Microbiology
   date: '2021-09-15'
   link: https://doi.org/gmprjb
+  type: paper
+  image: https://ami-journals.onlinelibrary.wiley.com/cms/asset/dbac6cac-1c5d-404e-9ae6-bd9ceed2af32/emi15752-fig-0001-m.png
+  tags:
+  - Mycorhizal fungi
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/1755-0998.13452
@@ -1463,6 +1516,10 @@
   publisher: Molecular Ecology Resources
   date: '2021-07-07'
   link: https://doi.org/gr6pz5
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/beeef05a-7903-4c0f-a21e-41971e88bc3b/men13452-fig-0001-m.png
+  tags:
+  - Conservation genomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/1755-0998.13478
@@ -1479,6 +1536,10 @@
   publisher: Molecular Ecology Resources
   date: '2021-08-07'
   link: https://doi.org/gr6pz6
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/020cd0d5-a4a6-423c-a5e8-b3cdec00007c/men13478-fig-0001-m.jpg
+  tags:
+  - Ferns
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/aje.12888
@@ -1496,6 +1557,9 @@
   publisher: African Journal of Ecology
   date: '2021-06-09'
   link: https://doi.org/gkhbzq
+  type: paper
+  tags:
+  - Conservation
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/eva.12490
@@ -1814,6 +1878,10 @@
   publisher: Molecular Microbiology
   date: '2018-01-03'
   link: https://doi.org/gr6p3k
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/dcab7f8b-7400-48ff-932e-35056c36d1e7/mmi13894-fig-0001-m.png
+  tags:
+  - Ustilago
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mpp.12333
@@ -1832,6 +1900,10 @@
   publisher: Molecular Plant Pathology
   date: '2016-02-08'
   link: https://doi.org/gfw8gd
+  type: paper
+  image: https://bsppjournals.onlinelibrary.wiley.com/cms/asset/e7044c10-90fc-4321-9e2e-fd151d7e726e/mpp12333-fig-0001-m.png
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mpp.12391
@@ -1848,6 +1920,10 @@
   publisher: Molecular Plant Pathology
   date: '2016-04-21'
   link: https://doi.org/gr6p3n
+  type: paper
+  image: https://bsppjournals.onlinelibrary.wiley.com/cms/asset/a5915ab9-f67c-4ddd-86ca-4e789ab9aeb2/mpp12391-fig-0003-m.png
+  tags:
+  - Ustilago
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mpp.12515
@@ -1865,6 +1941,10 @@
   publisher: Molecular Plant Pathology
   date: '2017-02-05'
   link: https://doi.org/gfw8fx
+  type: paper
+  image: https://bsppjournals.onlinelibrary.wiley.com/cms/asset/4d95898a-7a0b-4152-8f63-0b6abb41c3da/mpp12515-fig-0002-m.jpg
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mpp.12592
@@ -1878,6 +1958,10 @@
   publisher: Molecular Plant Pathology
   date: '2017-12-11'
   link: https://doi.org/gr6p3j
+  type: paper
+  image: https://bsppjournals.onlinelibrary.wiley.com/cms/asset/32750348-a464-4880-aea3-68342cf2ff5f/mpp12592-fig-0001-m.jpg
+  tags:
+  - Review
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mpp.12747
@@ -1898,6 +1982,11 @@
   publisher: Molecular Plant Pathology
   date: '2018-10-24'
   link: https://doi.org/gr6p3b
+  type: paper
+  image: https://bsppjournals.onlinelibrary.wiley.com/cms/asset/24765f74-09ef-4390-99bb-217e6caf0fa7/mpp12747-fig-0001-m.png
+  tags:
+  - Review
+  - Wheat blast
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/myc.12296
@@ -1911,6 +2000,9 @@
   publisher: Mycoses
   date: '2015-02-10'
   link: https://doi.org/f63g8m
+  type: paper
+  tags:
+  - Human pathogen
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/nph.14203
@@ -2046,6 +2138,10 @@
   publisher: Applied and Environmental Microbiology
   date: '2007-01-01'
   link: https://doi.org/b4pntw
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/AEM.01574-06/asset/ea9539ee-81a3-4f56-8050-bfc8b7d526f5/assets/graphic/zam0010773710001.jpeg
+  tags:
+  - Mycorrhizal fungi
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/AEM.01908-18
@@ -2062,6 +2158,10 @@
   publisher: Applied and Environmental Microbiology
   date: '2019-02-15'
   link: https://doi.org/gr6p3c
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/AEM.01908-18/asset/b1da267b-b0b9-4bdb-a24d-dbcdd8c05abe/assets/graphic/aem.01908-18-f0002.jpeg
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/AEM.01974-08
@@ -2077,6 +2177,10 @@
   publisher: Applied and Environmental Microbiology
   date: '2009-04-01'
   link: https://doi.org/fht3s7
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/AEM.01974-08/asset/88e9a298-2cbe-4e01-adb5-180a3db48089/assets/graphic/zam0070997700001.jpeg
+  tags:
+  - Mycorrhizal fungi
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/mBio.01231-16
@@ -2168,6 +2272,10 @@
   publisher: mSphere
   date: '2020-10-28'
   link: https://doi.org/gr6p2n
+  type: paper
+  image: https://journals.asm.org/cms/10.1128/mSphere.00737-20/asset/bbef084b-6b23-4495-82fc-4027f8350dff/assets/graphic/msphere.00737-20-f0001.jpeg
+  tags:
+  - Cryphonectria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/spectrum.00506-22
@@ -2701,6 +2809,10 @@
   publisher: Frontiers in Microbiology
   date: '2018-04-06'
   link: https://doi.org/gdd5sw
+  type: paper
+  image: https://www.frontiersin.org/files/Articles/308142/fmicb-09-00660-HTML/image_m/fmicb-09-00660-g001.jpg
+  tags:
+  - Ustilago
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fpls.2017.00119
