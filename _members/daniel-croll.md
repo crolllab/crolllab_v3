@@ -9,7 +9,7 @@ aliases:
 links:
   email: daniel.croll@unine.ch
   home-page: https://pathogen-genomics.org
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-2072-380X
   google-scholar: 82WR4DYAAAAJ
   github: crolllab
   twitter: danielcroll
