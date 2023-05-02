@@ -18,6 +18,7 @@
     - bioRxiv
 - id: doi:10.1101/2022.09.28.509846
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/09/28/2022.09.28.509846/F1.large.jpg?width=800&height=600&carousel=1
   tags: 
     - bioRxiv
 - id: doi:10.1101/2022.05.16.492091
@@ -30,7 +31,7 @@
   tags: 
     - bioRxiv
 - id: doi:10.5281/zenodo.4655959
-  type: dataset
+  type: preprint
   tags: 
     - Zenodo
 - id: doi:10.1111/mpp.12485
@@ -218,9 +219,9 @@
     - TEs
     - Zymoseptoria 
 - id: doi:10.1039/9781839163005-00257
-  type: paper
+  type: review
   tags: 
-    - Highlight
+    - Review
 - id: doi:10.1093/gbe/evaa203
   type: paper
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/12/12/10.1093_gbe_evaa203/1/m_evaa203f1.jpeg?Expires=1686005015&Signature=DTWbX9gkAzBxcIhO8~lCL~Mbgl6FOoMj0OJ3uUvsgCHAejjU4vtRSW7tT9SLBi6kY8x1sckO6iFiba7J125SGmSEEfBDtY6bT7zBUTvIycYpnyveORz8vde8w9CP~PeR6gJFvKU8nq-AEWneZDLGANnuDFI-JgQcjg48esU1UWO8quigcX5iqp4a4--ZW6o7VYejVHE388JncylIOlD9vZgO3qruZvPn8x2dJ7GZ45z4-OK7c~BbxXr6KEf8-vHkUJSOLf94WrUONQt5QYCRqoL4fQV0vtTLzbtFD2BMgDg2HHvNQlL5srm2z3OAZVfNHt~VC-4S2oZ5Vg3OttgriQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -311,7 +312,7 @@
   type: paper
   image: https://ami-journals.onlinelibrary.wiley.com/cms/asset/dbac6cac-1c5d-404e-9ae6-bd9ceed2af32/emi15752-fig-0001-m.png
   tags: 
-    - Mycorhizal fungi
+    - Mycorrhizal fungi
 - id: doi:10.1111/1755-0998.13452
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/beeef05a-7903-4c0f-a21e-41971e88bc3b/men13452-fig-0001-m.png
