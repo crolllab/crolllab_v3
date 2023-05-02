@@ -281,9 +281,9 @@
   date: '2021-11-12'
   link: https://doi.org/gr6sns
   type: review
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1749461320300257-gr1.jpg
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs42161-021-00952-9/MediaObjects/42161_2021_952_Fig1_HTML.jpg?as=webp
   tags:
-  - TEs
+  - Grapevine
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/B978-0-12-819990-9.00042-1
@@ -980,6 +980,9 @@
   link: https://doi.org/hfhc
   type: review
   image: https://ars.els-cdn.com/content/image/1-s2.0-S016953472100313X-gr1.jpg
+  tags:
+  - Review
+  - Conservation genomics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/hdy.2015.111
@@ -2331,7 +2334,7 @@
   type: paper
   image: https://journals.asm.org/cms/10.1128/spectrum.02513-22/asset/7c8dbf9a-c852-4c77-968a-914b40ea236a/assets/images/medium/spectrum.02513-22-f001.gif
   tags:
-  - Zymoseptoria
+  - Microbiome
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/spectrum.04443-22
@@ -2347,7 +2350,7 @@
   type: paper
   image: https://journals.asm.org/cms/10.1128/spectrum.02513-22/asset/7c8dbf9a-c852-4c77-968a-914b40ea236a/assets/images/medium/spectrum.02513-22-f001.gif
   tags:
-  - Microbiome
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1146/annurev-genet-102108-134239
@@ -2361,6 +2364,7 @@
   link: https://doi.org/crh9gt
   type: review
   tags:
+  - Review
   - Mycorrhizal fungi
   plugin: sources.py
   file: sources.yaml
