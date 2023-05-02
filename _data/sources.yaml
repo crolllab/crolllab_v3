@@ -438,3 +438,18 @@
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12915-017-0457-4/MediaObjects/12915_2017_457_Fig2_HTML.gif?as=webp
   tags:
     - Zymoseptoria
+- id: doi:10.1186/s12915-018-0543-2
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12915-018-0543-2/MediaObjects/12915_2018_543_Fig1_HTML.png?as=webp
+  tags:
+    - Zymoseptoria
+- id: doi:10.1186/s12915-020-0744-3
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12915-020-0744-3/MediaObjects/12915_2020_744_Fig2_HTML.png?as=webp
+  tags:
+    - Zymoseptoria
+- id: doi:10.1186/s12915-022-01422-z
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12915-022-01422-z/MediaObjects/12915_2022_1422_Fig5_HTML.png?as=webp
+  tags:
+    - Zymoseptoria
