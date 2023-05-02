@@ -74,9 +74,9 @@
     - Microbiome
 - id: doi:10.1007/s42161-021-00952-9
   type: review
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1749461320300257-gr1.jpg
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs42161-021-00952-9/MediaObjects/42161_2021_952_Fig1_HTML.jpg?as=webp
   tags: 
-    - TEs
+    - Grapevine
 - id: doi:10.1016/B978-0-12-819990-9.00042-1
   type: review
   tags: 
@@ -164,6 +164,9 @@
 - id: doi:10.1016/j.tree.2021.11.008
   type: review
   image: https://ars.els-cdn.com/content/image/1-s2.0-S016953472100313X-gr1.jpg
+  tags: 
+    - Review
+    - Conservation genomics
 - id: doi:10.1038/hdy.2015.111
   type: paper
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fhdy.2015.111/MediaObjects/41437_2016_Article_BFhdy2015111_Fig2_HTML.jpg?as=webp
@@ -512,12 +515,12 @@
   type: paper
   image: https://journals.asm.org/cms/10.1128/spectrum.02513-22/asset/7c8dbf9a-c852-4c77-968a-914b40ea236a/assets/images/medium/spectrum.02513-22-f001.gif
   tags:
-    - Zymoseptoria
+    - Microbiome
 - id: doi:10.1128/spectrum.04443-22
   type: paper
   image: https://journals.asm.org/cms/10.1128/spectrum.02513-22/asset/7c8dbf9a-c852-4c77-968a-914b40ea236a/assets/images/medium/spectrum.02513-22-f001.gif
   tags:
-    - Microbiome
+    - Zymoseptoria
 - id: doi:10.1146/annurev-genet-102108-134239
   type: review
   tags: 
