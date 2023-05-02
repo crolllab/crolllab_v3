@@ -606,6 +606,10 @@
   publisher: Studies in Mycology
   date: '2021-03-01'
   link: https://doi.org/gnhq7v
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0166061621000038-gr6.jpg
+  tags:
+  - Fusarium
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.tig.2021.08.005
@@ -1045,6 +1049,10 @@
   publisher: The ISME Journal
   date: '2020-09-02'
   link: https://doi.org/ghw49g
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41396-020-0729-9/MediaObjects/41396_2020_729_Fig1_HTML.png?as=webp
+  tags:
+  - Microbiome
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41437-020-0306-z
@@ -1059,6 +1067,10 @@
   publisher: Heredity
   date: '2020-03-13'
   link: https://doi.org/gr6p26
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41437-020-0306-z/MediaObjects/41437_2020_306_Fig3_HTML.png?as=webp
+  tags:
+  - Armillaria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-020-14803-1
@@ -1610,6 +1622,10 @@
   publisher: Journal of Evolutionary Biology
   date: '2011-02-21'
   link: https://doi.org/fbnw6r
+  type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/bac3bd9d-d0f2-4a76-91d8-68f07de6d6a3/jeb_2239_t1.gif
+  tags:
+  - Frogs
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/j.1461-0248.2005.00853.x
