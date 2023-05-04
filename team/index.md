@@ -23,7 +23,7 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: current" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: msc, group: current" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: current" %}
 {% include list.html data="members" component="portrait" filters="role: staff, group: current" %}
 
 {% include section.html background="images/background.jpg" dark=true %}

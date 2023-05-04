@@ -3,7 +3,7 @@ name: Noémie Freymond
 description: MSc student
 image: images/default.jpg
 group: current
-role: msc
+role: undergrad
 aliases:
 links:
   email: noemie.freymond@unine.ch 

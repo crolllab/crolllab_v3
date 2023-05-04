@@ -3,7 +3,7 @@ name: Chloé Leseigneur
 description: MSc student
 image: images/default.jpg
 group: current
-role: msc
+role: undergrad
 aliases:
 links:
   email: chloe.leseigneur@unine.ch 
