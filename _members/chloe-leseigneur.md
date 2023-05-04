@@ -9,4 +9,4 @@ links:
   email: chloe.leseigneur@unine.ch 
 ---
 
-MSc student investigating near-infrared spectra of microorganisms.
+Chloé is doing her MSc and wants to investigate near-infrared spectra of microorganisms in collaboration with the EPFL Lausanne.
