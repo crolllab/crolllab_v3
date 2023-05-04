@@ -1,6 +1,6 @@
 ---
 name: Cristela Bondo Mateus
-description: Lab technician
+description: Lab apprentice
 image: images/default.jpg
 group: current
 role: staff
