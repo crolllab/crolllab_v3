@@ -2,7 +2,7 @@
 name: Leen Abraham
 description: PhD student
 image: images/leen.jpg
-group: current
+group: alumni
 role: phd
 aliases:
   - Leen Abraham
@@ -14,4 +14,4 @@ links:
   twitter: leennabraham
 ---
 
-Transcriptional control of host-pathogen interactions.
+Hadjer was a PhD student in our lab and graduated in 2023. She is currently a postdoc with Juliette de Meaux at Köln University.
