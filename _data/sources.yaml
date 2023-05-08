@@ -224,6 +224,7 @@
 - id: doi:10.1039/9781839163005-00257
   type: review
   tags: 
+    - Book chapter
     - Review
 - id: doi:10.1093/gbe/evaa203
   type: paper
@@ -672,3 +673,9 @@
   tags: 
     - bioRxiv
     - Zymoseptoria
+- id: isbn-13:978-3031291982
+  type: review
+  image: https://m.media-amazon.com/images/I/41SCSh55CjL.jpg
+  tags: 
+    - Book chapter
+    - Review

@@ -1,4 +1,4 @@
-- title: The genetic basis of adaptive evolution in crop pathogens
+- title: The genetic basis of crop pathogen emergence
   subtitle: 
   group: featured
   image: images/research_1.png
@@ -6,15 +6,15 @@
   description: Our main model is a worldwide pathogen of wheat called Zymoseptoria tritici, which causes the most economically damaging foliar disease in Europe. The pathogen has overcome most resistance of the host and all currently available fungicides. Genomes of this pathogen show an extraordinary level of sequence and chromosomal polymorphism unlike many other pathogens. One of our major aims is to understand how major adaptive traits evolved. For this, we perform genome-wide association studies (GWAS) to map phenotypic traits to individual loci in the genome. We focus in particular on different components of pathogenicity but are also interested in stress tolerance against fungicides, temperature and conditions experienced during infection (low pH, oxidative stress). To understand the process of adaptive evolution, we analyse major effect loci for signatures of selection and sequence rearrangements.
   repo: 
   tags:
-- title: The evolution of genome architecture and eukaryotic pangenomes
+- title: Selfish elements, genome defences and adaptive evolution
   subtitle: 
   group: featured
-  image: images/research_2.jpg
+  image: images/research_2.png
   link:
-  description: Our group is also interested in understanding the evolution of genome architecture. In particular, we want to retrace the emergence of novelty (e.g. new genes) and major structural rearrangements. For this, we assemble and analyse complete fungal genomes. We found that homologous Z. tritici chromosomes segregate significant structural rearrangements within populations and that such variation created key adaptations to overcome host resistance. The genome of Z. tritici also comprises a highly polymorphic complement of eight chromosomes that are not found in every member of the species. During meiosis, accessory chromosomes frequently undergo rearrangements, fusions and non-disjunction events. Our aims are to precisely identify the mechanisms responsible for the chromosomal abberrations and how chromosomal polymorphism is generated and maintained in populations.
+  description: We are fascinated by the rapid dynamics of transposable elements (TE) in genomes. We believe that the compact yet dynamic genomes of fungal plant pathogens are quite unique models to address fundamental questions about the genome biology of TEs. We focus on what facilitates and constrains TE evolution in genomes by analyzing the shortest possible time scales (i.e. within species, populations or pedigrees). We investigate some highly active TEs that simultaneously made contributions to recent adaptation, the instability of chromosomes and the expansion of genomes. We also use large-scale screens of trait variation among individuals to associate TE dynamics to recent adaptation.
   repo: 
   tags:
-- title: The evolution of genome architecture and eukaryotic pangenomes
+- title: The evolution of genome architecture and pangenomes
   subtitle: 
   group: featured
   image: images/research_3.png
