@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: isbn-13:978-3031291982
+  title: Book not found | ISBNdb
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://isbndb.com/book/978%3f
+  type: book
+  image: https://m.media-amazon.com/images/I/41SCSh55CjL.jpg
+  tags:
+  - Book chapter
+  - Review
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.03.29.534750
   title: Population-level transposable element expression dynamics influence trait
     evolution in a fungal crop pathogen
@@ -298,8 +311,9 @@
   publisher: Encyclopedia of Mycology
   date: '2021-01-01'
   link: https://doi.org/gr6snt
-  type: review
+  type: book
   tags:
+  - Book chapter
   - Review
   - TEs
   plugin: sources.py
@@ -2972,18 +2986,5 @@
   tags:
   - bioRxiv
   - Zymoseptoria
-  plugin: sources.py
-  file: sources.yaml
-- id: isbn-13:978-3031291982
-  title: Book not found | ISBNdb
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://isbndb.com/book/978%3f
-  type: book
-  image: https://m.media-amazon.com/images/I/41SCSh55CjL.jpg
-  tags:
-  - Book chapter
-  - Review
   plugin: sources.py
   file: sources.yaml
