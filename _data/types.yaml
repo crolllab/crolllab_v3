@@ -153,6 +153,11 @@ paper:
   text: Paper
   tooltip: Paper
 
+review:
+  icon: fa-solid fa-scroll
+  text: Review
+  tooltip: Review
+
 book:
   icon: fa-solid fa-book
   text: Book
