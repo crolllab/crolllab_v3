@@ -1,3 +1,9 @@
+- id: isbn-13:978-3031291982
+  type: book
+  image: https://m.media-amazon.com/images/I/41SCSh55CjL.jpg
+  tags: 
+    - Book chapter
+    - Review
 - id: doi:10.1101/2023.03.29.534750
   type: preprint
   image: https://www.biorxiv.org/content/biorxiv/early/2023/03/29/2023.03.29.534750/F3.large.jpg?width=800&height=600&carousel=1
@@ -78,8 +84,9 @@
   tags: 
     - Grapevine
 - id: doi:10.1016/B978-0-12-819990-9.00042-1
-  type: review
+  type: book
   tags: 
+    - Book chapter
     - Review
     - TEs
 - id: doi:10.1016/j.csbj.2020.12.018
@@ -673,9 +680,3 @@
   tags: 
     - bioRxiv
     - Zymoseptoria
-- id: isbn-13:978-3031291982
-  type: book
-  image: https://m.media-amazon.com/images/I/41SCSh55CjL.jpg
-  tags: 
-    - Book chapter
-    - Review
