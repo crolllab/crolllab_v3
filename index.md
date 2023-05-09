@@ -72,7 +72,7 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
-8 May 2023 | Huge congrats to Leen for successfully obtaining your PhD! We are so proud of you!!
+8 May 2023 | Huge congrats to Leen for successfully obtaining your PhD! We are so proud of you!! Check out [our blog](/blog/)
 26 April 2023 | We had a great meet-up with [Greg Bonito from MSU](https://www.canr.msu.edu/people/greg_bonito) - thanks for passing by!
 6 March 2023 | Great to see so many colleagues at ECFG16 in Innsbruck! Awesome talks & posters by our lab!
 24 February 2023 |Our 1000 pathogen genome paper just came out in Nature Communications. [Check it out](https://www.nature.com/articles/s41467-023-36674-y) 
