@@ -72,6 +72,8 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+8 May 2023 | Emile Gluck-Thaler will move on to a faculty position in Wisconsin-Madison. Huge congrats!! We'll sorely miss you! Check also the [blog](/blog/)
+9 May 2023 | Congratulations to Wided Abdedayem from the National Agronomic Institute of Tunisia to win a scholarship to pursue a year of your PhD with us!
 8 May 2023 | Huge congrats to Leen for successfully obtaining your PhD! We are so proud of you!! Check out [our blog](/blog/)
 26 April 2023 | We had a great meet-up with [Greg Bonito from MSU](https://www.canr.msu.edu/people/greg_bonito) - thanks for passing by!
 6 March 2023 | Great to see so many colleagues at ECFG16 in Innsbruck! Awesome talks & posters by our lab!
