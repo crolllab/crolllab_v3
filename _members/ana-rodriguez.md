@@ -1,7 +1,7 @@
 ---
 name: Ana Rodríguez López
 description: Visitor
-image: images/default.jpg
+image: images/ana-rodriguez-lopez.jpg
 group: current
 role: phd student
 aliases:
