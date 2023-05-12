@@ -680,3 +680,8 @@
   tags: 
     - bioRxiv
     - Zymoseptoria
+- id: doi:10.1371/journal.ppat.1011376
+  type: paper
+  image: https://journals.plos.org/plospathogens/article/figure/image?size=large&id=10.1371/journal.ppat.1011376.g001
+  tags:
+    - Zymoseptoria
