@@ -2988,3 +2988,29 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1371/journal.ppat.1011376
+  title: A secreted protease-like protein in Zymoseptoria tritici is responsible for
+    avirulence on Stb9 resistance gene in wheat
+  authors:
+  - Reda Amezrou
+  - "Colette Aud\xE9on"
+  - "J\xE9r\xF4me Compain"
+  - "Sandrine G\xE9lisse"
+  - "Aur\xE9lie Ducasse"
+  - Cyrille Saintenac
+  - Nicolas Lapalu
+  - "Cl\xE9mentine Louet"
+  - Simon Orford
+  - Daniel Croll
+  - "Jo\xEBlle Amselem"
+  - Sabine Fillinger
+  - Thierry C. Marcel
+  publisher: PLOS Pathogens
+  date: '2023-05-12'
+  link: https://doi.org/gr77hg
+  type: paper
+  image: https://journals.plos.org/plospathogens/article/figure/image?size=large&id=10.1371/journal.ppat.1011376.g001
+  tags:
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
