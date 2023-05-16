@@ -472,7 +472,9 @@
     - Rhynchosporium
 - id: doi:10.1126/science.abo2401
   type: paper
+  image: https://www.science.org/cms/10.1126/science.abo2401/asset/ee4f671d-5281-417b-91f4-bd63debd404d/assets/images/large/science.abo2401-f1.jpg
   tags: 
+    - Highlight
     - Ustilago
 - id: doi:10.1128/AEM.01574-06
   type: paper
