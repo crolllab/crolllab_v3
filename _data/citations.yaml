@@ -2157,7 +2157,9 @@
   date: '2022-06-10'
   link: https://doi.org/gp99r7
   type: paper
+  image: https://www.science.org/cms/10.1126/science.abo2401/asset/ee4f671d-5281-417b-91f4-bd63debd404d/assets/images/large/science.abo2401-f1.jpg
   tags:
+  - Highlight
   - Ustilago
   plugin: sources.py
   file: sources.yaml
