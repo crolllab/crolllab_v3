@@ -20,8 +20,10 @@
     - Zymoseptoria
 - id: doi:10.1101/2022.12.23.521735
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/12/23/2022.12.23.521735/F2.large.jpg?width=800&height=600&carousel=1
   tags: 
     - bioRxiv
+    - Zymoseptoria
 - id: doi:10.1101/2022.09.28.509846
   type: preprint
   image: https://www.biorxiv.org/content/biorxiv/early/2022/09/28/2022.09.28.509846/F1.large.jpg?width=800&height=600&carousel=1
@@ -311,10 +313,6 @@
   image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/10/mgen000678-f1.gif
   tags: 
     - Zymoseptoria
-- id: doi:10.1101/2022.10.31.514577
-  type: preprint
-  tags: 
-    - bioRxiv
 - id: doi:10.1111/1462-2920.14583
   type: paper
   tags: 
@@ -336,6 +334,7 @@
     - Ferns
 - id: doi:10.1111/aje.12888
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/65e27dd2-6e97-461e-8529-44c3c2e7fcd2/aje12888-fig-0003-m.jpg
   tags: 
     - Conservation
 - id: doi:10.1111/eva.12490
