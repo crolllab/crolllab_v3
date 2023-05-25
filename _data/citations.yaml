@@ -70,8 +70,10 @@
   date: '2022-12-23'
   link: https://doi.org/gr6pzg
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/12/23/2022.12.23.521735/F2.large.jpg?width=800&height=600&carousel=1
   tags:
   - bioRxiv
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.09.28.509846
@@ -1468,31 +1470,6 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2022.10.31.514577
-  title: A secreted protease-like protein in<i>Zymoseptoria tritici</i>is responsible
-    for avirulence on<i>Stb9</i>resistance gene in wheat
-  authors:
-  - Reda Amezrou
-  - "Colette Aud\xE9on"
-  - "J\xE9r\xF4me compain"
-  - "Sandrine G\xE9lisse"
-  - "Aur\xE9lie Ducasse"
-  - Cyrille Saintenac
-  - Nicolas Lapalu
-  - "Cl\xE9mentine Louet"
-  - Simon Orford
-  - Daniel Croll
-  - "Jo\xEBlle Amselem"
-  - Sabine Fillinger
-  - Thierry C Marcel
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-11-01'
-  link: https://doi.org/gr6pzj
-  type: preprint
-  tags:
-  - bioRxiv
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1111/1462-2920.14583
   title: "The emergence of the multi\u2010species NIP1 effector in<i>Rhynchosporium</i>was\
     \ accompanied by high rates of gene duplications and losses"
@@ -1589,6 +1566,7 @@
   date: '2021-06-09'
   link: https://doi.org/gkhbzq
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/65e27dd2-6e97-461e-8529-44c3c2e7fcd2/aje12888-fig-0003-m.jpg
   tags:
   - Conservation
   plugin: sources.py
