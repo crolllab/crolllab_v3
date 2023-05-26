@@ -36,6 +36,7 @@
     - bioRxiv
 - id: doi:10.1101/203455
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/16/203455/F2.medium.gif
   tags: 
     - bioRxiv
 - id: doi:10.5281/zenodo.4655959
@@ -60,14 +61,17 @@
     - Review
 - id: doi:10.1002/bies.201400030
   type: review
+  image: https://onlinelibrary.wiley.com/cms/asset/78a62e03-b354-4eda-b9f7-7cea516f5a56/bies.v36.4.cover.jpg
   tags: 
     - Review
 - id: doi:10.1002/bies.201600195
   type: review
+  image: https://onlinelibrary.wiley.com/cms/asset/bf738604-b454-4ea7-8954-a5dd78465b1e/bies.v38.12.cover.jpg
   tags: 
     - Review
 - id: doi:10.1007/s10658-012-0080-8
   type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10658-012-0080-8/MediaObjects/10658_2012_80_Fig1_HTML.gif?as=webp
   tags: 
     - Zymoseptoria
 - id: doi:10.1007/s10681-021-02843-7
@@ -87,6 +91,7 @@
     - Grapevine
 - id: doi:10.1016/B978-0-12-819990-9.00042-1
   type: book
+  image: https://ars.els-cdn.com/content/image/3-s2.0-B9780128199909000421-f00042-02-9780128199909.sml
   tags: 
     - Book chapter
     - Review
@@ -230,8 +235,9 @@
     - Highlight
     - TEs
     - Zymoseptoria 
-- id: doi:10.1039/9781839163005-00257
+- id: isbn:1839163011
   type: book
+  image: https://books.google.ch/books/publisher/content?id=9OAmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&h=160&stbn=1
   tags: 
     - Book chapter
     - Review
@@ -315,6 +321,7 @@
     - Zymoseptoria
 - id: doi:10.1111/1462-2920.14583
   type: paper
+  image: https://ami-journals.onlinelibrary.wiley.com/cms/asset/32f9d8c4-141e-4cb1-84e7-f72d6f25cf49/emi14583-fig-0002-m.png
   tags: 
     - Rhynchosporium
 - id: doi:10.1111/1462-2920.15752
@@ -354,14 +361,17 @@
     - Frogs
 - id: doi:10.1111/j.1461-0248.2005.00853.x
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/cfbcd60a-0743-4214-ad3d-918ebb148be4/ele_853_f1.gif
   tags: 
     - Mycorrhizal fungi
 - id: doi:10.1111/j.1469-8137.2008.02381.x
   type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/7e8f1916-1096-47dd-bf32-cad247bfe54d/nph_2381_f2.gif
   tags: 
     - Mycorrhizal fungi
 - id: doi:10.1111/j.1469-8137.2008.02602.x
   type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/ccf22da0-466a-4f0f-8533-c19567b16a1b/nph.2008.180.issue-3.cover.gif
   tags: 
     - Mycorrhizal fungi
 - id: doi:10.1111/j.1469-8137.2008.02726.x
@@ -376,18 +386,21 @@
     - Mycorrhizal fungi
 - id: doi:10.1111/mec.13751
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/7eae2c58-bbd2-40dc-974b-961069959f5b/mec13751-fig-0001-m.png
   tags: 
-    - Zymoseptoria
 - id: doi:10.1111/mec.13870
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/af8e48d3-fa21-45ce-bf93-22d37c752c36/mec13870-fig-0001-m.png
   tags: 
     - Zymoseptoria
 - id: doi:10.1111/mec.13916
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/66adfc87-525c-4d81-b587-7616cd1a24ec/mec13916-fig-0001-m.png
   tags: 
     - Rhychosporium
 - id: doi:10.1111/mec.14585
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/34969f7b-59f0-48f3-8b0b-8f892b792132/mec14585-fig-0001-m.png
   tags: 
     - Epichloë
 - id: doi:10.1111/mec.14711
@@ -397,6 +410,7 @@
     - Zymoseptoria
 - id: doi:10.1111/mec.15737
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/a313d124-c11f-49e0-bf9a-3c129be5fd5f/mec15737-fig-0001-m.png
   tags: 
     - Zymoseptoria
 - id: doi:10.1111/mec.16386
@@ -442,6 +456,7 @@
     - Wheat blast
 - id: doi:10.1111/myc.12296
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/ae49cc76-a181-4e8f-b4f5-b155e490ea0f/myc12296-fig-0003-m.png
   tags: 
     - Human pathogen
 - id: doi:10.1111/nph.14203
@@ -532,11 +547,13 @@
     - Zymoseptoria
 - id: doi:10.1146/annurev-genet-102108-134239
   type: review
+  image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/genet/2010/genet.2010.44.issue-1/annurev-genet-102108-134239/production/images/medium/ge440271.f1.gif
   tags: 
     - Review
     - Mycorrhizal fungi
 - id: doi:10.1146/annurev-phyto-080417-050036
   type: review
+  image: https://pathogen-genomics.org/images/pubs/cersini_2018.png
   tags:
     - Review
     - Wheat blast
@@ -654,7 +671,7 @@
     - Review
 - id: doi:10.3767/persoonia.2021.46.04
   type: paper
-  image: https://www.persoonia.org/wp-content/uploads/2021/03/fig-1-1.jpg
+  image: https://pathogen-genomics.org/images/pubs/croll_2021.png
   tags: 
     - Parastagonospora
 - id: doi:10.7554/eLife.56279
