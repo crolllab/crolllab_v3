@@ -146,6 +146,7 @@
   date: '2021-04-01'
   link: https://doi.org/gr6snq
   type: preprint
+  image: https://pathogen-genomics.org/images/pubs/croll_zenodo.png
   tags:
   - Zenodo
   plugin: sources.py
@@ -1511,7 +1512,7 @@
   date: '2021-09-15'
   link: https://doi.org/gmprjb
   type: paper
-  image: https://ami-journals.onlinelibrary.wiley.com/cms/asset/dbac6cac-1c5d-404e-9ae6-bd9ceed2af32/emi15752-fig-0001-m.png
+  image: https://ami-journals.onlinelibrary.wiley.com/cms/asset/c2cde51d-2088-4a5d-8e8b-e55329b28add/emi15752-fig-0001-m.jpg
   tags:
   - Mycorrhizal fungi
   plugin: sources.py
@@ -1532,7 +1533,7 @@
   date: '2021-07-07'
   link: https://doi.org/gr6pz5
   type: paper
-  image: https://onlinelibrary.wiley.com/cms/asset/beeef05a-7903-4c0f-a21e-41971e88bc3b/men13452-fig-0001-m.png
+  image: https://onlinelibrary.wiley.com/cms/asset/54ad25ce-4591-4158-a7c1-f85aba439e79/men13452-fig-0001-m.jpg
   tags:
   - Conservation genomics
   plugin: sources.py
@@ -1552,7 +1553,7 @@
   date: '2021-08-07'
   link: https://doi.org/gr6pz6
   type: paper
-  image: https://onlinelibrary.wiley.com/cms/asset/020cd0d5-a4a6-423c-a5e8-b3cdec00007c/men13478-fig-0001-m.jpg
+  image: https://onlinelibrary.wiley.com/cms/asset/26b905bd-e8ba-42b8-a557-3538d34b87d4/men13478-fig-0001-m.png
   tags:
   - Ferns
   plugin: sources.py
@@ -2395,7 +2396,7 @@
   date: '2018-08-25'
   link: https://doi.org/ggczzp
   type: review
-  image: https://pathogen-genomics.org/images/pubs/cersini_2018.png
+  image: https://pathogen-genomics.org/images/pubs/ceresini_2018.png
   tags:
   - Review
   - Wheat blast
