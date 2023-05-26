@@ -131,6 +131,7 @@
   date: '2017-10-16'
   link: https://doi.org/gkwk9r
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/16/203455/F2.medium.gif
   tags:
   - bioRxiv
   plugin: sources.py
@@ -205,6 +206,7 @@
   date: '2014-03-05'
   link: https://doi.org/f2sg7b
   type: review
+  image: https://onlinelibrary.wiley.com/cms/asset/78a62e03-b354-4eda-b9f7-7cea516f5a56/bies.v36.4.cover.jpg
   tags:
   - Review
   plugin: sources.py
@@ -218,6 +220,7 @@
   date: '2016-09-19'
   link: https://doi.org/f3rgmf
   type: review
+  image: https://onlinelibrary.wiley.com/cms/asset/bf738604-b454-4ea7-8954-a5dd78465b1e/bies.v38.12.cover.jpg
   tags:
   - Review
   plugin: sources.py
@@ -235,6 +238,7 @@
   date: '2012-09-14'
   link: https://doi.org/gr6p3s
   type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10658-012-0080-8/MediaObjects/10658_2012_80_Fig1_HTML.gif?as=webp
   tags:
   - Zymoseptoria
   plugin: sources.py
@@ -314,6 +318,7 @@
   date: '2021-01-01'
   link: https://doi.org/gr6snt
   type: book
+  image: https://ars.els-cdn.com/content/image/3-s2.0-B9780128199909000421-f00042-02-9780128199909.sml
   tags:
   - Book chapter
   - Review
@@ -1179,18 +1184,14 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1039/9781839163005-00257
-  title: 'Chapter 10. Omics-based Detection, Identification and Quantification of
-    GM Food and Feed: Current Challenges and Perspectives'
-  authors:
-  - Sylvain Aubry
-  - Sarai Reyes Avila
-  - Daniel Croll
-  - Bastien Christ
-  publisher: Food Chemistry, Function and Analysis
+- id: isbn:1839163011
+  title: 'Foodomics: omic strategies and applications in food science'
+  authors: []
+  publisher: Royal Society of Chemistry
   date: '2021-01-01'
-  link: https://doi.org/gr6snv
+  link: ''
   type: book
+  image: https://books.google.ch/books/publisher/content?id=9OAmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&h=160&stbn=1
   tags:
   - Book chapter
   - Review
@@ -1481,6 +1482,7 @@
   date: '2019-04-11'
   link: https://doi.org/gpf88b
   type: paper
+  image: https://ami-journals.onlinelibrary.wiley.com/cms/asset/32f9d8c4-141e-4cb1-84e7-f72d6f25cf49/emi14583-fig-0002-m.png
   tags:
   - Rhynchosporium
   plugin: sources.py
@@ -1636,6 +1638,7 @@
   date: '2005-11-18'
   link: https://doi.org/b92hs8
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/cfbcd60a-0743-4214-ad3d-918ebb148be4/ele_853_f1.gif
   tags:
   - Mycorrhizal fungi
   plugin: sources.py
@@ -1656,6 +1659,7 @@
   date: '2008-02-20'
   link: https://doi.org/ft7z8j
   type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/7e8f1916-1096-47dd-bf32-cad247bfe54d/nph_2381_f2.gif
   tags:
   - Mycorrhizal fungi
   plugin: sources.py
@@ -1672,6 +1676,7 @@
   date: '2008-10-15'
   link: https://doi.org/cb2khc
   type: paper
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/ccf22da0-466a-4f0f-8533-c19567b16a1b/nph.2008.180.issue-3.cover.gif
   tags:
   - Mycorrhizal fungi
   plugin: sources.py
@@ -1763,8 +1768,8 @@
   date: '2016-08-26'
   link: https://doi.org/f8463z
   type: paper
-  tags:
-  - Zymoseptoria
+  image: https://onlinelibrary.wiley.com/cms/asset/7eae2c58-bbd2-40dc-974b-961069959f5b/mec13751-fig-0001-m.png
+  tags: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mec.13870
@@ -1777,6 +1782,7 @@
   date: '2016-10-24'
   link: https://doi.org/gfw8gr
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/af8e48d3-fa21-45ce-bf93-22d37c752c36/mec13870-fig-0001-m.png
   tags:
   - Zymoseptoria
   plugin: sources.py
@@ -1792,6 +1798,7 @@
   date: '2016-11-30'
   link: https://doi.org/f9mjcg
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/66adfc87-525c-4d81-b587-7616cd1a24ec/mec13916-fig-0001-m.png
   tags:
   - Rhychosporium
   plugin: sources.py
@@ -1810,6 +1817,7 @@
   date: '2018-04-27'
   link: https://doi.org/gdtk7f
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/34969f7b-59f0-48f3-8b0b-8f892b792132/mec14585-fig-0001-m.png
   tags:
   - "Epichlo\xEB"
   plugin: sources.py
@@ -1844,6 +1852,7 @@
   date: '2020-12-12'
   link: https://doi.org/gr6pz9
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/a313d124-c11f-49e0-bf9a-3c129be5fd5f/mec15737-fig-0001-m.png
   tags:
   - Zymoseptoria
   plugin: sources.py
@@ -2014,6 +2023,7 @@
   date: '2015-02-10'
   link: https://doi.org/f63g8m
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/ae49cc76-a181-4e8f-b4f5-b155e490ea0f/myc12296-fig-0003-m.png
   tags:
   - Human pathogen
   plugin: sources.py
@@ -2358,6 +2368,7 @@
   date: '2010-12-01'
   link: https://doi.org/crh9gt
   type: review
+  image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/genet/2010/genet.2010.44.issue-1/annurev-genet-102108-134239/production/images/medium/ge440271.f1.gif
   tags:
   - Review
   - Mycorrhizal fungi
@@ -2379,6 +2390,7 @@
   date: '2018-08-25'
   link: https://doi.org/ggczzp
   type: review
+  image: https://pathogen-genomics.org/images/pubs/cersini_2018.png
   tags:
   - Review
   - Wheat blast
@@ -2864,7 +2876,7 @@
   date: '2021-01-01'
   link: https://doi.org/gr6snw
   type: paper
-  image: https://www.persoonia.org/wp-content/uploads/2021/03/fig-1-1.jpg
+  image: https://pathogen-genomics.org/images/pubs/croll_2021.png
   tags:
   - Parastagonospora
   plugin: sources.py
