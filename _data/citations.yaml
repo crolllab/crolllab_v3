@@ -2994,3 +2994,22 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2023.05.23.541976
+  title: A systemic approach allows to identify the pedoclimatic conditions most critical
+    in the susceptibility of a grapevine cultivar to esca/Botryosphaeria dieback
+  authors:
+  - Vinciane Monod
+  - Vivian Zufferey
+  - Matthieu Wilhelm
+  - Olivier Viret
+  - Katia Gindro
+  - Daniel Croll
+  - Valerie Hofstetter
+  publisher: bioRxiv
+  date: '2023-05-24'
+  link: https://doi.org/gr9dd6
+  type: preprint
+  tags:
+  - bioRxiv
+  plugin: sources.py
+  file: sources.yaml
