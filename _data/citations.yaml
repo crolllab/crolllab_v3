@@ -1184,12 +1184,17 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
-- id: isbn:1839163011
-  title: 'Foodomics: omic strategies and applications in food science'
-  authors: []
-  publisher: Royal Society of Chemistry
+- id: doi:10.1039/9781839163005-00257
+  title: 'Chapter 10. Omics-based Detection, Identification and Quantification of
+    GM Food and Feed: Current Challenges and Perspectives'
+  authors:
+  - Sylvain Aubry
+  - Sarai Reyes Avila
+  - Daniel Croll
+  - Bastien Christ
+  publisher: Food Chemistry, Function and Analysis
   date: '2021-01-01'
-  link: ''
+  link: https://doi.org/gr6snv
   type: book
   image: https://books.google.ch/books/publisher/content?id=9OAmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&h=160&stbn=1
   tags:
