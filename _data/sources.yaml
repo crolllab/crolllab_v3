@@ -41,6 +41,7 @@
     - bioRxiv
 - id: doi:10.5281/zenodo.4655959
   type: preprint
+  image: https://pathogen-genomics.org/images/pubs/croll_zenodo.png
   tags: 
     - Zenodo
 - id: doi:10.1111/mpp.12485
@@ -326,17 +327,17 @@
     - Rhynchosporium
 - id: doi:10.1111/1462-2920.15752
   type: paper
-  image: https://ami-journals.onlinelibrary.wiley.com/cms/asset/dbac6cac-1c5d-404e-9ae6-bd9ceed2af32/emi15752-fig-0001-m.png
+  image: https://ami-journals.onlinelibrary.wiley.com/cms/asset/c2cde51d-2088-4a5d-8e8b-e55329b28add/emi15752-fig-0001-m.jpg
   tags: 
     - Mycorrhizal fungi
 - id: doi:10.1111/1755-0998.13452
   type: paper
-  image: https://onlinelibrary.wiley.com/cms/asset/beeef05a-7903-4c0f-a21e-41971e88bc3b/men13452-fig-0001-m.png
+  image: https://onlinelibrary.wiley.com/cms/asset/54ad25ce-4591-4158-a7c1-f85aba439e79/men13452-fig-0001-m.jpg
   tags: 
     - Conservation genomics
 - id: doi:10.1111/1755-0998.13478
   type: paper
-  image: https://onlinelibrary.wiley.com/cms/asset/020cd0d5-a4a6-423c-a5e8-b3cdec00007c/men13478-fig-0001-m.jpg
+  image: https://onlinelibrary.wiley.com/cms/asset/26b905bd-e8ba-42b8-a557-3538d34b87d4/men13478-fig-0001-m.png
   tags: 
     - Ferns
 - id: doi:10.1111/aje.12888
@@ -553,7 +554,7 @@
     - Mycorrhizal fungi
 - id: doi:10.1146/annurev-phyto-080417-050036
   type: review
-  image: https://pathogen-genomics.org/images/pubs/cersini_2018.png
+  image: https://pathogen-genomics.org/images/pubs/ceresini_2018.png
   tags:
     - Review
     - Wheat blast
