@@ -3009,7 +3009,7 @@
   date: '2023-05-24'
   link: https://doi.org/gr9dd6
   type: preprint
-  image: /images/pubs/monod_2023.png
+  image: https://pathogen-genomics.org/images/pubs/monod_2023.png
   tags:
   - bioRxiv
   plugin: sources.py
