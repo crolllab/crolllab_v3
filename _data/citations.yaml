@@ -3022,7 +3022,7 @@
   - Olivier Viret
   - Katia Gindro
   - Daniel Croll
-  - Valerie Hofstetter
+  - "Val\xE9rie Hofstetter"
   publisher: Cold Spring Harbor Laboratory
   date: '2023-05-24'
   link: https://doi.org/gr9dd6
@@ -3030,5 +3030,21 @@
   image: https://pathogen-genomics.org/images/pubs/monod_2023.png
   tags:
   - bioRxiv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1094/PHYTO-09-22-0348-R
+  title: Virulence associations and global context of the AvrStb6 genetic diversity
+    in Iranian populations of Zymoseptoria tritici
+  authors:
+  - Sepideh Hatami Rad
+  - Leila Ebrahimi
+  - Daniel Croll
+  publisher: "Phytopathology\xAE"
+  date: '2023-06-01'
+  link: https://doi.org/gr933q
+  type: paper
+  image: https://apsjournals.apsnet.org/na101/home/literatum/publisher/aps/journals/covergifs/phyto/cover.jpg
+  tags:
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
