@@ -709,3 +709,8 @@
   image: https://pathogen-genomics.org/images/pubs/monod_2023.png
   tags: 
     - bioRxiv
+- id: doi:10.1094/PHYTO-09-22-0348-R
+  type: paper
+  image: https://apsjournals.apsnet.org/na101/home/literatum/publisher/aps/journals/covergifs/phyto/cover.jpg
+  tags: 
+    - Zymoseptoria
