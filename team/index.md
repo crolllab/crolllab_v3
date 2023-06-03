@@ -6,7 +6,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are a diverse group of people combining skills in evolutionary biology, microbiology, bioinformatics and genomics. But we are also passionate about conservation genetics and many other topics. To see what we are doing for fun, have a look at our blog.
+We are a diverse group of people with interests in evolutionary biology, microbiology, bioinformatics and genomics. But we are also passionate about conservation genetics and many other topics. To see what we are doing for fun, have a look at our [blog](/blog).
 
 {% capture content %}
 
