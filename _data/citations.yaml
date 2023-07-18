@@ -1,9 +1,9 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: isbn:3031291980
-  title: EVOLUTION OF FUNGI AND FUNGAL-LIKE ORGANISMS
+  title: Evolution of fungi and fungal-like organisms
   authors: []
-  publisher: SPRINGER INTERNATIONAL PU
+  publisher: Springer
   date: '2023-01-01'
   link: ''
   type: book
@@ -3049,6 +3049,37 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2023.07.14.549109
+  title: Genome-wide expression QTL mapping reveals the highly dynamic regulatory
+    landscape of a major wheat pathogen
+  authors:
+  - Leen Nanchira Abraham
+  - Daniel Croll
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-07-16'
+  link: https://doi.org/gsg74w
+  type: preprint
+  tags:
+  - bioRxiv
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.07.16.549241
+  title: The expression landscape and pangenome of long non-coding RNA in the fungal
+    wheat pathogen Zymoseptoria tritici
+  authors:
+  - Hanna M. Glad
+  - Sabina Moser Tralamazza
+  - Daniel Croll
+  publisher: bioRxiv
+  date: '2023-07-17'
+  link: https://doi.org/gsg8p4
+  type: preprint
+  tags:
+  - bioRxiv
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.07.14.549097
   title: Recurrent chromosome destabilization through repeat-mediated rearrangements
     in a fungal pathogen
@@ -3063,5 +3094,24 @@
   type: preprint
   tags:
   - bioRxiv
+  - TEs
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.07.17.549274
+  title: High-resolution profiling of bacterial and fungal communities using pangenome-informed
+    taxon-specific amplicons and long-read sequence
+  authors:
+  - Luzia Stalder
+  - Monika Maurhofer
+  - Daniel Croll
+  publisher: bioRxiv
+  date: '2023-07-17'
+  link: https://doi.org/gsg8p5
+  type: preprint
+  tags:
+  - bioRxiv
+  - Microbiome
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
