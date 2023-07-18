@@ -3100,13 +3100,13 @@
   file: sources.yaml
 - id: doi:10.1101/2023.07.17.549274
   title: High-resolution profiling of bacterial and fungal communities using pangenome-informed
-    taxon-specific amplicons and long-read sequence
+    taxon-specific amplicons and long-read sequencing
   authors:
   - Luzia Stalder
   - Monika Maurhofer
   - Daniel Croll
   publisher: bioRxiv
-  date: '2023-07-17'
+  date: '2023-07-18'
   link: https://doi.org/gsg8p5
   type: preprint
   tags:
