@@ -714,7 +714,19 @@
   image: https://apsjournals.apsnet.org/na101/home/literatum/publisher/aps/journals/covergifs/phyto/cover.jpg
   tags: 
     - Zymoseptoria
+- id: doi:10.1101/2023.07.14.549109
+  type: preprint
+  tags: 
+    - bioRxiv
+    - Zymoseptoria
+- id: doi:10.1101/2023.07.16.549241
+  type: preprint
+  tags: 
+    - bioRxiv
+    - Zymoseptoria
 - id: doi:10.1101/2023.07.14.549097
   type: preprint
   tags: 
     - bioRxiv
+    - TEs
+    - Zymoseptoria
