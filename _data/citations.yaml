@@ -1,7 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: isbn:3031291980
-  title: Evolution of fungi and fungal-like organisms
+  title: Evolution Of Fungi And Fungal-Like Organisms
   authors: []
   publisher: Springer
   date: '2023-01-01'
@@ -61,7 +61,7 @@
   - Laetitia Dupont
   - Johann Confais
   - Henriette Goyeau
-  - Gert HJ Kema
+  - Gert Ghj Kema
   - Daniel Croll
   - "Jo\xEBlle Amselem"
   - Andrea Sanchez-Vallet
@@ -3066,12 +3066,12 @@
   file: sources.yaml
 - id: doi:10.1101/2023.07.16.549241
   title: The expression landscape and pangenome of long non-coding RNA in the fungal
-    wheat pathogen Zymoseptoria tritici
+    wheat pathogen<i>Zymoseptoria tritici</i>
   authors:
   - Hanna M. Glad
   - Sabina Moser Tralamazza
   - Daniel Croll
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: '2023-07-17'
   link: https://doi.org/gsg8p4
   type: preprint
@@ -3084,7 +3084,7 @@
   title: Recurrent chromosome destabilization through repeat-mediated rearrangements
     in a fungal pathogen
   authors:
-  - Simone Fouche
+  - "Simone Fouch\xE9"
   - Ursula Oggenfuss
   - Bruce A. McDonald
   - Daniel Croll
@@ -3105,8 +3105,8 @@
   - Luzia Stalder
   - Monika Maurhofer
   - Daniel Croll
-  publisher: bioRxiv
-  date: '2023-07-18'
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-07-17'
   link: https://doi.org/gsg8p5
   type: preprint
   tags:
