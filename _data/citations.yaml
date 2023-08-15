@@ -1,11 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: isbn:3031291980
-  title: Evolution of fungi and fungal-like organisms
-  authors: []
-  publisher: Springer
+- id: doi:https://doi.org/10.1007/978-3-031-29199-9_5
+  title: 'Genome Evolution in Fungal Plant Pathogens: From Populations to Kingdom-Wide
+    Dynamics'
+  authors:
+  - Ursula Oggenfuss
+  - Alice Feurtey
+  - Claudia Sarai Reyes-Avila
+  - Emile Gluck-Thaler
+  - Guido Puccetti
+  - Hanna Maren Glad
+  - Leen Nanchira Abraham
+  - Luzia Stalder
+  - Sabina Moser Tralamazza
+  - "Sandra Milena Gonz\xE1lez-S\xE1yer"
+  - Daniel Croll
+  publisher: Evolution of Fungi and Fungal-Like Organisms
   date: '2023-01-01'
-  link: ''
+  link: https://doi.org/gsk8f6
   type: book
   image: https://m.media-amazon.com/images/I/41SCSh55CjL.jpg
   tags:
@@ -61,7 +73,7 @@
   - Laetitia Dupont
   - Johann Confais
   - Henriette Goyeau
-  - Gert HJ Kema
+  - Gert Ghj Kema
   - Daniel Croll
   - "Jo\xEBlle Amselem"
   - Andrea Sanchez-Vallet
@@ -1299,7 +1311,7 @@
   date: '2022-01-01'
   link: https://doi.org/gr6pzm
   type: paper
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/11/10.1093_gigascience_giac090/2/giac090fig1.jpeg?Expires=1685759088&Signature=sYBxGTiJBF-jnKbuAazVi-ACMznC6WB7cI7UKkjTv1xLESr1jT6741lLEA3B80s~KJO~8dIh2N5~4SqxYHTIP-icsLAPy~fKmLRcZpl2gnK-zEB3~ePNNkhfXA9bUrYeCFXbqhcaSYRZ8qcmt6NSelJlFPOsB-QuMTxidBKYnGoESe-5u1FNkhWCxQygfNfvPyQVjlP3XAesgaBQ~IJ~EvWwhDh6B4qI0mIMHcPlvy3SlO1Z-3xMEXARCQmyW6gatb-o03tpd2nMGJm-898M0ZbgsdyfeIuSX7GTcP-097VGX7TydzIVDphJC8y9Up9IdCGF8pZsfYp78TTz0JlZ0w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/11/10.1093_gigascience_giac090/2/giac090fig1.jpeg?Expires=1695154937&Signature=E9CWWeJLhEbhyR54Q9D5cwIFsvwqhImAt9XaSiEbhMbD5fNE0hMnkHZQ7J~ANvgFfW-nmoLg4Oi9ixZ0Z3gDV6BuUo3yiyub-Yj2Nx-C9y7eThjLQ4UB5S~eDxrkTShJpctbgW7NxHUqwK0Pvz9F5RuAGaphX9owimEFuJZUh2Om348Lic8ShLqJoStTJdGPTKARh~vmQhaKepZNUsbWdDsIr6tjnJyFhoNuWK~PHz05kyyCfc9iWj87zXo2EDU8DiMwTs9LUA2uGGrlgGxn0hOe3ozAe7xtDIIq5YbOzHDLkFI5Pw5QZQOyp3Cje0mw8q8w4LbLU3G6-iUFR3kKTQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - Conservation genomics
   plugin: sources.py
@@ -1317,7 +1329,7 @@
   date: '2021-11-09'
   link: https://doi.org/gn32s6
   type: paper
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/39/1/10.1093_molbev_msab323/1/msab323f1.jpeg?Expires=1685971830&Signature=QaedLnp6tz9rvm7FJuIEAGieBMYINe0fz2Hor~-fzByGYNUzZOVGlIJNjyi-sI04FskD6jj3768W-HUPcbFVhnHuziLXttKztFVZYUV4N9L1WyMqIxkKzl0T3CAcuLZnS349vh9ks16b2RK1otWiPD~W-VbFzzaaAnc3qRHkOgyzojVGePzFx-MbrdA2TmbYfV5LSsD-KTMkhqD1nekagmoB7iAqbgoesR2a-9SxCAdq1nqtUmiSrlFsucDFKGtYqUYEZV1vDEGxob3wsFusOLVHdee0IPUXj1-039V0QsOVTyXKBmwBJkpHUFp87viBn6l3gOfSvlBQwfeHREjj7w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/39/1/10.1093_molbev_msab323/1/msab323f1.jpeg?Expires=1695154882&Signature=EMVbdDgFCep4g-MrmvLsRpCM5eXoVaFQXAFC0dYhWDmtv3pQT9QQAUo8uZqIRNwhanJ8bTQicCaW4ZBbFcEF~Idv0e-nrvNFmtB0aFp8tlfG6OaBYX0Bjie1Pdg2xb7A6~nBsbqvF3AghPoGjvigE38clbWJ3ulh-K2~8m3n-eErUEanX2NmlbBeBrCT5jwTjgih7olJ6L82YXhbdfqb7x4T1f-~8Q7Z-UswB0Oh3VU-EbDPKBep03b9V-0KKLPqf82smKuNZiDEIkNBreUNgmAYAulYMwjls-zmDo~U-8EOsqGHBy6Ym6s5wkIjklTe2O1UizUiz91yjeVrzMAcqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - Highlight
   plugin: sources.py
@@ -3059,6 +3071,7 @@
   date: '2023-07-16'
   link: https://doi.org/gsg74w
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/07/16/2023.07.14.549109/F2.large.jpg?width=800&height=600&carousel=1
   tags:
   - bioRxiv
   - Zymoseptoria
@@ -3066,15 +3079,16 @@
   file: sources.yaml
 - id: doi:10.1101/2023.07.16.549241
   title: The expression landscape and pangenome of long non-coding RNA in the fungal
-    wheat pathogen Zymoseptoria tritici
+    wheat pathogen<i>Zymoseptoria tritici</i>
   authors:
   - Hanna M. Glad
   - Sabina Moser Tralamazza
   - Daniel Croll
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: '2023-07-17'
   link: https://doi.org/gsg8p4
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/07/17/2023.07.16.549241/F6.large.jpg?width=800&height=600&carousel=1
   tags:
   - bioRxiv
   - Zymoseptoria
@@ -3084,7 +3098,7 @@
   title: Recurrent chromosome destabilization through repeat-mediated rearrangements
     in a fungal pathogen
   authors:
-  - Simone Fouche
+  - "Simone Fouch\xE9"
   - Ursula Oggenfuss
   - Bruce A. McDonald
   - Daniel Croll
@@ -3092,6 +3106,7 @@
   date: '2023-07-15'
   link: https://doi.org/gsgwnx
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/07/15/2023.07.14.549097/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - bioRxiv
   - TEs
@@ -3105,10 +3120,11 @@
   - Luzia Stalder
   - Monika Maurhofer
   - Daniel Croll
-  publisher: bioRxiv
-  date: '2023-07-18'
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-07-17'
   link: https://doi.org/gsg8p5
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/07/18/2023.07.17.549274/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - bioRxiv
   - Microbiome
