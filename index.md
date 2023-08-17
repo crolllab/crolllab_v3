@@ -72,6 +72,7 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+18 Aug 2023 | We sadly had to say good-bye to Sami, our amazing fellowship postdoc from Colombia, and Cristela, our fantastic apprentice. We'll miss you!
 17 July 2023 | We celebrated Ana Rodriguez EMBO short-term stay with our lab for the past three months. It was great hosting you! 
 9 May 2023 | Emile Gluck-Thaler will move on to a faculty position in Wisconsin-Madison. Huge congrats!! We'll sorely miss you! Check also the [blog](/blog/)
 9 May 2023 | Congratulations to Wided Abdedayem from the National Agronomic Institute of Tunisia to win a scholarship to pursue a year of your PhD with us!
