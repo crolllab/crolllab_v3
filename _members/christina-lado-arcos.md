@@ -6,7 +6,7 @@ group: current
 role: staff
 aliases:
 links:
-  email: luyinda.bondo@unine.ch 
+  email: christina.lado@unine.ch
 ---
 
 Laboratory apprentice.
