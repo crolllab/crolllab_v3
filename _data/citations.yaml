@@ -1407,8 +1407,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1094/MPMI-07-16-0146-R
-  title: Comparative Transcriptome Analyses in <i>Zymoseptoria tritici</i> Reveal
-    Significant Differences in Gene Expression Among Strains During Plant Infection
+  title: Comparative Transcriptome Analyses in<i>Zymoseptoria tritici</i>Reveal Significant
+    Differences in Gene Expression Among Strains During Plant Infection
   authors:
   - Javier Palma-Guerrero
   - Xin Ma
