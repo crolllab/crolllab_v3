@@ -2,7 +2,7 @@
 name: Ana Rodríguez López
 description: Visitor
 image: images/ana-rodriguez-lopez.jpg
-group: current
+group: alumni
 role: phd student
 aliases:
 links:
@@ -11,4 +11,4 @@ links:
   orcid: 0000-0002-1931-5083
 ---
 
-Ana joins us April - July 2023 for a short term EMBO fellowship to work on Fusarium transposons. She is a PhD student in Antonio Di Pietro's lab at the Universidad de Córdoba.
+Ana joined us April - July 2023 for a short term EMBO fellowship to work on Fusarium transposons. She is a PhD student in Antonio Di Pietro's lab at the Universidad de Córdoba.

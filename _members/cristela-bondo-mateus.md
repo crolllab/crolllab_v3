@@ -2,11 +2,11 @@
 name: Cristela Bondo Mateus
 description: Lab apprentice
 image: images/default.jpg
-group: current
+group: alumni
 role: staff
 aliases:
 links:
   email: luyinda.bondo@unine.ch 
 ---
 
-Laboratory apprentice
+Laboratory apprentice 2020-23. Congratulations on your degree!
