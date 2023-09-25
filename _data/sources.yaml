@@ -740,3 +740,9 @@
     - bioRxiv
     - Microbiome
     - Zymoseptoria
+- id: doi:10.1101/2023.09.22.559077
+  type: preprint
+  image: https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png
+  tags: 
+    - bioRxiv
+    - Zymoseptoria
