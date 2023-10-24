@@ -164,8 +164,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mpp.12485
-  title: Chloroplast-associated metabolic functions influence the susceptibility of
-    maize to <i>Ustilago maydis</i>
+  title: "Chloroplast\u2010associated metabolic functions influence the susceptibility\
+    \ of maize to <i>Ustilago maydis</i>"
   authors:
   - Matthias Kretschmer
   - Daniel Croll
@@ -180,7 +180,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mpp.12486
-  title: Maize susceptibility to<i>Ustilago maydis</i>is influenced by genetic and
+  title: Maize susceptibility to <i>Ustilago maydis</i> is influenced by genetic and
     chemical perturbation of carbohydrate allocation
   authors:
   - Matthias Kretschmer
@@ -225,8 +225,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/bies.201600195
-  title: 'Evolution in the absence of sex: Ideas revisited in the post-genomics age
-    (retrospective on DOI 10.1002/bies.201300155)'
+  title: "Evolution in the absence of sex: Ideas revisited in the post\u2010genomics\
+    \ age (retrospective on DOI 10.1002/bies.201300155)"
   authors:
   - Daniel Croll
   publisher: BioEssays
@@ -1626,8 +1626,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/j.1420-9101.2011.02239.x
-  title: A cryptic heterogametic transition revealed by sex-linked DNA markers in
-    Palearctic green toads
+  title: "A cryptic heterogametic transition revealed by sex\u2010linked DNA markers\
+    \ in Palearctic green toads"
   authors:
   - "M. ST\xD6CK"
   - D. CROLL
@@ -1652,7 +1652,7 @@
   - Daniel Croll
   - Ian R. Sanders
   publisher: Ecology Letters
-  date: '2005-11-18'
+  date: '2005-11-22'
   link: https://doi.org/b92hs8
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/cfbcd60a-0743-4214-ad3d-918ebb148be4/ele_853_f1.gif
@@ -1907,7 +1907,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mmi.13894
-  title: Acetate provokes mitochondrial stress and cell death in<i>Ustilago maydis</i>
+  title: Acetate provokes mitochondrial stress and cell death in <i>Ustilago maydis</i>
   authors:
   - Matthias Kretschmer
   - Scott Lambie
@@ -2130,8 +2130,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/ppa.12111
-  title: An assay for quantitative virulence in<i>Rhynchosporium commune</i>reveals
-    an association between effector genotype and virulence
+  title: An assay for quantitative virulence in <i><scp>R</scp>hynchosporium commune</i>
+    reveals an association between effector genotype and virulence
   authors:
   - T. S. Stefansson
   - Y. Willi
@@ -3136,13 +3136,31 @@
   - Emile Gluck-Thaler
   - Alice Feurtey
   - Daniel Croll
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: '2023-09-24'
   link: https://doi.org/gssg6k
   type: preprint
   image: https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png
   tags:
   - bioRxiv
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.10.20.563377
+  title: A systematic screen for co-option of transposable elements across the fungal
+    kingdom
+  authors:
+  - Ursula Oggenfuss
+  - Thomas Badet
+  - Daniel Croll
+  publisher: bioRxiv
+  date: '2023-10-23'
+  link: https://doi.org/gsw4pv
+  type: preprint
+  image: https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png
+  tags:
+  - bioRxiv
+  - TEs
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
