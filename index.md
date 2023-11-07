@@ -72,6 +72,8 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+7 Nov 2023 | The last days, Hanna, Leen, Toby and Anik had papers accepted for publication. Congrats all of you! [Check out the preprints](https://pathogen-genomics.org/publications/)
+2 Nov 2023 | Our lab went for the annual retreat near the beautiful [Creux du Van](https://pathogen-genomics.org/blog/). Sadly the weather was not the best, but we had a great time together!
 18 Aug 2023 | We sadly had to say good-bye to Sami, our amazing fellowship postdoc from Colombia, and Cristela, our fantastic apprentice. We'll miss you!
 17 July 2023 | We celebrated Ana Rodriguez EMBO short-term stay with our lab for the past three months. It was great hosting you! 
 16 July 2023 | Four preprints are newly out on bioRxiv. Amazing work led by Leen, Luzia, Simone and Hanna! [Check out our publications](https://pathogen-genomics.org/publications/)
