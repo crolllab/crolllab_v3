@@ -29,11 +29,12 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2022/09/28/2022.09.28.509846/F1.large.jpg?width=800&height=600&carousel=1
   tags: 
     - bioRxiv
-- id: doi:10.1101/2022.05.16.492091
-  type: preprint
+- id: 10.1371/journal.ppat.1011801
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2022/05/17/2022.05.16.492091/F1.large.jpg?width=800&height=600&carousel=1
   tags: 
-    - bioRxiv
+    - Highlight
+    - Zymoseptoria
 - id: doi:10.1101/203455
   type: preprint
   image: https://www.biorxiv.org/content/biorxiv/early/2017/10/16/203455/F2.medium.gif
@@ -752,5 +753,11 @@
   image: https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png
   tags: 
     - bioRxiv
+    - TEs
+    - Zymoseptoria
+- id: doi:10.1186/s13104-023-06613-7
+  type: paper
+  image: https://media.springernature.com/w120/springer-static/cover/journal/13104.jpg?as=webp
+  tags:
     - TEs
     - Zymoseptoria
