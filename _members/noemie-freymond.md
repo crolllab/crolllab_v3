@@ -2,7 +2,7 @@
 name: Noémie Freymond
 description: MSc student
 image: images/default.jpg
-group: current
+group: alumni
 role: undergrad
 aliases:
 links:
