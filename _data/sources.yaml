@@ -715,11 +715,11 @@
   image: https://apsjournals.apsnet.org/na101/home/literatum/publisher/aps/journals/covergifs/phyto/cover.jpg
   tags: 
     - Zymoseptoria
-- id: doi:10.1101/2023.07.14.549109
+- id: doi:10.1186/s12915-023-01763-3
   type: preprint
   image: https://www.biorxiv.org/content/biorxiv/early/2023/07/16/2023.07.14.549109/F2.large.jpg?width=800&height=600&carousel=1
   tags: 
-    - bioRxiv
+    - Highlight
     - Zymoseptoria
 - id: doi:10.1101/2023.07.16.549241
   type: preprint
