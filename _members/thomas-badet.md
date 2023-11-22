@@ -8,7 +8,7 @@ aliases:
   - Thomas Badet
 links:
   email: thomas.badet@unine.ch
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0001-6130-441X
   google-scholar: i1IP7FYAAAAJ
   twitter: badet_thomas
 ---
