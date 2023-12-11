@@ -11,13 +11,6 @@
     - bioRxiv
     - TEs
     - Zymoseptoria
-- id: doi:10.1101/2023.03.29.534637
-  type: preprint
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/03/29/2023.03.29.534637/F5.large.jpg?width=800&height=600&carousel=1
-  tags: 
-    - bioRxiv
-    - TEs
-    - Zymoseptoria
 - id: doi:10.1101/2022.12.23.521735
   type: preprint
   image: https://www.biorxiv.org/content/biorxiv/early/2022/12/23/2022.12.23.521735/F2.large.jpg?width=800&height=600&carousel=1
@@ -762,3 +755,11 @@
     - Zymoseptoria
 - id: doi:10.1111/mec.17242
   type: paper
+- id: doi:10.1093/nar/gkad1214
+  type: paper
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/03/29/2023.03.29.534637/F5.large.jpg?width=800&height=600&carousel=1
+  tags: 
+    - Highlight
+    - TEs
+    - Zymoseptoria
+
