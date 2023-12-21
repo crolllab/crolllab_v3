@@ -755,6 +755,7 @@
     - Zymoseptoria
 - id: doi:10.1111/mec.17242
   type: paper
+  image: https://onlinelibrary.wiley.com/cms/asset/049c2781-74e6-4949-b727-907e1e69bd4b/mec17242-fig-0001-m.jpg
 - id: doi:10.1093/nar/gkad1214
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2023/03/29/2023.03.29.534637/F5.large.jpg?width=800&height=600&carousel=1
@@ -762,4 +763,3 @@
     - Highlight
     - TEs
     - Zymoseptoria
-

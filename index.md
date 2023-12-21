@@ -72,6 +72,8 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+21 Dec 2023 | Big congratulations to Vinciane Monod for a very successful PhD exam!
+8 Dec 2023 | We had a wonderful Christmas dinner together. Thanks to everyone for making this a wonderful 2023!
 7 Nov 2023 | The last days, Hanna, Leen, Toby and Anik had papers accepted for publication. Congrats all of you! [Check out the preprints](https://pathogen-genomics.org/publications/)
 2 Nov 2023 | Our lab went for the annual retreat near the beautiful [Creux du Van](https://pathogen-genomics.org/blog/). Sadly the weather was not the best, but we had a great time together!
 18 Aug 2023 | We sadly had to say good-bye to Sami, our amazing fellowship postdoc from Colombia, and Cristela, our fantastic apprentice. We'll miss you!
