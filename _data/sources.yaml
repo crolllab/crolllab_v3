@@ -740,13 +740,6 @@
     - bioRxiv
     - TEs
     - Zymoseptoria
-- id: doi:10.1101/2023.10.20.563377
-  type: preprint
-  image: https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png
-  tags: 
-    - bioRxiv
-    - TEs
-    - Zymoseptoria
 - id: doi:10.1186/s13104-023-06613-7
   type: paper
   image: https://media.springernature.com/w120/springer-static/cover/journal/13104.jpg?as=webp
@@ -767,3 +760,8 @@
   type: preprint
   tags: 
     - bioRxiv
+- id: doi:10.1186/s13100-024-00312-1
+  type: paper
+  image: https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png
+  tags:
+    - TEs
