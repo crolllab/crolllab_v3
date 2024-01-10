@@ -735,7 +735,7 @@
     - Zymoseptoria
 - id: doi:10.1101/2023.09.22.559077
   type: preprint
-  image: https://www.biorxiv.org/sites/default/files/site_logo/bioRxiv_logo_homepage.png
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/09/24/2023.09.22.559077/F1.large.jpg?width=800&height=600&carousel=1
   tags: 
     - bioRxiv
     - TEs
@@ -748,7 +748,7 @@
     - Zymoseptoria
 - id: doi:10.1111/mec.17242
   type: paper
-  image: https://onlinelibrary.wiley.com/cms/asset/049c2781-74e6-4949-b727-907e1e69bd4b/mec17242-fig-0001-m.jpg
+  image: https://onlinelibrary.wiley.com/cms/asset/d87a79dc-d70a-45c0-957c-6aeff45dc93d/mec17242-fig-0001-m.jpg
 - id: doi:10.1093/nar/gkad1214
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2023/03/29/2023.03.29.534637/F5.large.jpg?width=800&height=600&carousel=1
@@ -758,6 +758,7 @@
     - Zymoseptoria
 - id: doi:10.1101/2023.12.22.573157
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/12/23/2023.12.22.573157/F1.large.jpg?width=800&height=600&carousel=1
   tags: 
     - bioRxiv
 - id: doi:10.1186/s13100-024-00312-1
