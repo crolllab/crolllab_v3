@@ -1043,9 +1043,9 @@
     constraints across heterogeneous environments
   authors:
   - Anik Dutta
-  - Fanny E. Hartmann
+  - Fanny E Hartmann
   - Carolina Sardinha Francisco
-  - Bruce A. McDonald
+  - Bruce A McDonald
   - Daniel Croll
   publisher: The ISME Journal
   date: '2021-01-15'
@@ -1059,7 +1059,7 @@
   file: sources.yaml
 - id: doi:10.1038/s41396-020-0729-9
   title: Transcriptome plasticity underlying plant root colonization and insect invasion
-    by Pseudomonas protegens
+    by <i>Pseudomonas protegens</i>
   authors:
   - Pilar Vesga
   - Pascale Flury
