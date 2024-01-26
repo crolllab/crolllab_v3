@@ -72,6 +72,7 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+24 Jan 2024 | We are very excited to co-organize ISCLB2024 in Zurich! [Check out the website](https://www.isclb2024.com)
 21 Dec 2023 | Big congratulations to Vinciane Monod for a very successful PhD exam!
 8 Dec 2023 | We had a wonderful Christmas dinner together. Thanks to everyone for making this a wonderful 2023!
 7 Nov 2023 | The last days, Hanna, Leen, Toby and Anik had papers accepted for publication. Congrats all of you! [Check out the preprints](https://pathogen-genomics.org/publications/)
