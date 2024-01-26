@@ -1043,9 +1043,9 @@
     constraints across heterogeneous environments
   authors:
   - Anik Dutta
-  - Fanny E. Hartmann
+  - Fanny E Hartmann
   - Carolina Sardinha Francisco
-  - Bruce A. McDonald
+  - Bruce A McDonald
   - Daniel Croll
   publisher: The ISME Journal
   date: '2021-01-15'
@@ -1059,7 +1059,7 @@
   file: sources.yaml
 - id: doi:10.1038/s41396-020-0729-9
   title: Transcriptome plasticity underlying plant root colonization and insect invasion
-    by Pseudomonas protegens
+    by <i>Pseudomonas protegens</i>
   authors:
   - Pilar Vesga
   - Pascale Flury
@@ -3197,20 +3197,32 @@
   - bioRxiv
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.10.20.563377
+- id: doi:10.1186/s13100-024-00312-1
   title: A systematic screen for co-option of transposable elements across the fungal
     kingdom
   authors:
   - Ursula Oggenfuss
   - Thomas Badet
   - Daniel Croll
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-23'
-  link: https://doi.org/gsw4pv
-  type: preprint
+  publisher: Mobile DNA
+  date: '2024-01-20'
+  link: https://doi.org/gtfz7k
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2023/10/23/2023.10.20.563377/F1.medium.gif
   tags:
   - TEs
   - bioRxiv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12915-023-01786-w
+  title: 'Dimensions of genome dynamics in fungal pathogens: from fundamentals to
+    applications'
+  authors:
+  - Daniel Croll
+  publisher: BMC Biology
+  date: '2024-01-26'
+  link: https://doi.org/gtfz7n
+  type: paper
+  image: https://media.springernature.com/lw450/springer-cms/rest/v1/content/26609250/data/v1
   plugin: sources.py
   file: sources.yaml
