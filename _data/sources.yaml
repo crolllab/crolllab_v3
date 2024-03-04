@@ -11,11 +11,11 @@
     - Highlight
     - TEs
     - Zymoseptoria
-- id: doi:10.1101/2022.12.23.521735
-  type: preprint
+- id: doi:10.1038/s41467-024-46191-1
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2022/12/23/2022.12.23.521735/F2.large.jpg?width=800&height=600&carousel=1
   tags: 
-    - bioRxiv
+    - Highlight
     - Zymoseptoria
 - id: doi:10.1101/2022.09.28.509846
   type: preprint
