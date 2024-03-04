@@ -43,7 +43,7 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2022.12.23.521735
+- id: doi:10.1038/s41467-024-46191-1
   title: Quantitative pathogenicity and host adaptation in a fungal plant pathogen
     revealed by whole-genome sequencing
   authors:
@@ -55,18 +55,18 @@
   - Laetitia Dupont
   - Johann Confais
   - Henriette Goyeau
-  - Gert HJ Kema
+  - Gert H. J. Kema
   - Daniel Croll
   - "Jo\xEBlle Amselem"
   - Andrea Sanchez-Vallet
-  - Thierry C Marcel
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-12-23'
-  link: https://doi.org/gr6pzg
-  type: preprint
+  - Thierry C. Marcel
+  publisher: Nature Communications
+  date: '2024-03-02'
+  link: https://doi.org/gtkmnr
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2022/12/23/2022.12.23.521735/F2.large.jpg?width=800&height=600&carousel=1
   tags:
-  - bioRxiv
+  - Highlight
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
