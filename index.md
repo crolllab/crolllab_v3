@@ -72,6 +72,7 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+19 Mar 2024 | Gholam-Hossein Jowkar successfully defended his PhD thesis today! Big congrats Dr.!
 13 Feb 2024 | It was a big day for Vinciane! Big congrats for your amazing PhD!
 24 Jan 2024 | We are very excited to co-organize ISCLB2024 in Zurich! [Check out the website](https://www.isclb2024.com)
 21 Dec 2023 | Big congratulations to Vinciane Monod for a very successful PhD exam!
