@@ -13,4 +13,4 @@ links:
   twitter: niksingh29
 ---
 
-Nikhil was a PhD student in our lab and graduated in 2021. He currently is research associate with Remco Stam at Kiel University.
+Nikhil was a PhD student in our lab and graduated in 2021. He moved on to do a postdoc with Remco Stam at Kiel University and is currently a Young Professional II at ICAR-IIAB in Ranchi, Jharkhand.
