@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: http://pathogen-genomics.org/sitemap.xml
