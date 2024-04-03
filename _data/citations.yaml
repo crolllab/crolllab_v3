@@ -3226,3 +3226,28 @@
   image: https://media.springernature.com/lw450/springer-cms/rest/v1/content/26609250/data/v1
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2024.03.29.587348
+  title: Million years old recombination suppression and balancing selection in a
+    region linked to the mating-type locus in the invasive chestnut blight fungal
+    pathogen Cryphonectria parasitica
+  authors:
+  - Fanny E Hartmann
+  - Ricardo C Rodriguez de la Vega
+  - Quentin Rougemont
+  - Arthur Demene
+  - Thomas Badet
+  - Daniel Croll
+  - Amandine Labat
+  - Simone Prospero
+  - Alodie Snirc
+  - Lea Stauber
+  - Cyril Dutech
+  - Tatiana Giraud
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-03-30'
+  link: https://doi.org/gtptnw
+  type: preprint
+  tags:
+  - bioRxiv
+  plugin: sources.py
+  file: sources.yaml
