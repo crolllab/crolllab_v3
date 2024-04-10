@@ -9,6 +9,6 @@ nav:
 {% include search-box.html %}
 {% include search-info.html %}
 
-{% include tags.html tags="Highlight, TEs, Zymoseptoria" %}
+{% include tags.html tags="Highlight, bioRxiv, Review, TEs, Zymoseptoria, Microbiome, Mycorrhizal fungi, Wheat blast, Human pathogens, Conservation genomics" %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
