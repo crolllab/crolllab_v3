@@ -760,6 +760,7 @@
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2023/12/23/2023.12.22.573157/F1.large.jpg?width=800&height=600&carousel=1
   tags: 
+    - GMO detection
 - id: doi:10.1186/s13100-024-00312-1
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2023/10/23/2023.10.20.563377/F1.medium.gif
