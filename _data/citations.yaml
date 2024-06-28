@@ -3275,3 +3275,37 @@
   - Microbiome
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2024.06.24.599926
+  title: A highly contiguous reference genome for the Alpine ibex (Capra ibex)
+  authors:
+  - "F. G\xF6zde \xC7ilingir"
+  - Fabio Landuzzi
+  - Alice Brambilla
+  - Debora Charrance
+  - Federica Furia
+  - Sara Trova
+  - Alberto Peracino
+  - Glauco Camenisch
+  - Dominique Waldvogel
+  - Jo Howard-McCombe
+  - Yeraldin Chiquinquira Castillo De Spelorzi
+  - Edoardo Henzen
+  - Andrea Bernagozzi
+  - Alessandro Coppe
+  - Jean Marc Christille
+  - Manuela Vecchi
+  - Diego Vozzi
+  - Andrea Cavalli
+  - Bruno Bassano
+  - Stefano Gustincich
+  - Daniel Croll
+  - Luca Pandolfini
+  - Christine Grossen
+  publisher: bioRxiv
+  date: '2024-06-27'
+  link: https://doi.org/gt22nt
+  type: preprint
+  tags:
+  - Conservation genomics
+  plugin: sources.py
+  file: sources.yaml
