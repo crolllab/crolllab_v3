@@ -1,6 +1,6 @@
 ---
 name: Ursula Oggenfuss
-description: PhD student
+description: 
 image: images/ursula.jpg
 group: current
 role: postdoc
