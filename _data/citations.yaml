@@ -3309,3 +3309,22 @@
   - Conservation genomics
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2024.06.28.601215
+  title: Giant transposons promote strain heterogeneity in a major fungal pathogen
+  authors:
+  - Emile Gluck-Thaler
+  - Adrian Forsythe
+  - Charles Puerner
+  - Jason E Stajich
+  - Daniel Croll
+  - Robert A Cramer
+  - Aaron A Vogan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-06-28'
+  link: https://doi.org/gt26zt
+  type: preprint
+  tags:
+  - bioRxiv
+  - TEs
+  plugin: sources.py
+  file: sources.yaml
