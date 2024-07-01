@@ -72,6 +72,7 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+1 Jul 2024 | Big congrats Luzia for amazing PhD exam!
 11 Jun 2024 | We have just hosted [ISCLB2024](https://isclb2024.com)!
 19 Mar 2024 | Gholam-Hossein Jowkar successfully defended his PhD thesis today! Big congrats Dr.!
 13 Feb 2024 | It was a big day for Vinciane! Big congrats for your amazing PhD!
