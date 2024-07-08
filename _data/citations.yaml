@@ -1949,7 +1949,7 @@
   file: sources.yaml
 - id: doi:10.1111/mpp.12515
   title: Quantitative trait locus mapping reveals complex genetic architecture of
-    quantitative virulence in the wheat pathogen <i>Zymoseptoria tritici</i>
+    quantitative virulence in the wheat pathogen<i>Zymoseptoria tritici</i>
   authors:
   - Ethan l. Stewart
   - Daniel Croll
@@ -3094,7 +3094,7 @@
   file: sources.yaml
 - id: doi:10.1101/2023.07.17.549274
   title: High-resolution profiling of bacterial and fungal communities using pangenome-informed
-    taxon-specific amplicons and long-read sequencing
+    taxon-specific long-read amplicons
   authors:
   - Luzia Stalder
   - Monika Maurhofer
@@ -3110,21 +3110,21 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.09.22.559077
-  title: Copy number variation introduced by a massive mobile element underpins global
-    thermal adaptation in a fungal wheat pathogen
+- id: doi:10.1038/s41467-024-49913-7
+  title: Copy number variation introduced by a massive mobile element facilitates
+    global thermal adaptation in a fungal wheat pathogen
   authors:
   - Sabina Moser Tralamazza
   - Emile Gluck-Thaler
   - Alice Feurtey
   - Daniel Croll
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-09-24'
-  link: https://doi.org/gssg6k
-  type: preprint
+  publisher: Nature Communications
+  date: '2024-07-08'
+  link: https://doi.org/gt3ts4
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/24/2023.09.22.559077/F1.large.jpg?width=800&height=600&carousel=1
   tags:
-  - bioRxiv
+  - Highlight
   - TEs
   - Zymoseptoria
   plugin: sources.py
@@ -3195,7 +3195,6 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2023/12/23/2023.12.22.573157/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - GMO detection
-  - Highlight
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13100-024-00312-1
@@ -3231,19 +3230,20 @@
   file: sources.yaml
 - id: doi:10.1101/2024.03.29.587348
   title: Million years old recombination suppression and balancing selection in a
-    region linked to the mating-type locus in the invasive chestnut blight fungal
-    pathogen Cryphonectria parasitica
+    region partially linked to the mating-type locus in the invasive chestnut blight
+    fungal pathogen<i>Cryphonectria parasitica</i>
   authors:
-  - Fanny E Hartmann
-  - Ricardo C Rodriguez de la Vega
-  - Quentin Rougemont
-  - Arthur Demene
+  - Fanny E. Hartmann
+  - Ricardo C. Rodriguez de la Vega
+  - "Arthur Demen\xE9"
   - Thomas Badet
-  - Daniel Croll
+  - Jean-Philippe Vernadet
+  - Quentin Rougemont
   - Amandine Labat
-  - Simone Prospero
   - Alodie Snirc
   - Lea Stauber
+  - Daniel Croll
+  - Simone Prospero
   - Cyril Dutech
   - Tatiana Giraud
   publisher: Cold Spring Harbor Laboratory
