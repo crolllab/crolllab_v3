@@ -72,6 +72,7 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+8 Jul 2024 | Congrats Sabina, Alice F and Emile for your new paper in Nature Comms! [Check it out](https://www.nature.com/articles/s41467-024-49913-7)
 5 Jul 2024 | Examiner for three PhD exams in one week! Big congrats to all the new doctors!
 1 Jul 2024 | Big congrats Luzia for an amazing PhD exam!
 11 Jun 2024 | We have just hosted [ISCLB2024](https://isclb2024.com)!
