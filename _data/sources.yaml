@@ -733,11 +733,11 @@
     - bioRxiv
     - Microbiome
     - Zymoseptoria
-- id: doi:10.1101/2023.09.22.559077
-  type: preprint
+- id: doi:10.1038/s41467-024-49913-7
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/24/2023.09.22.559077/F1.large.jpg?width=800&height=600&carousel=1
   tags: 
-    - bioRxiv
+    - Highlight
     - TEs
     - Zymoseptoria
 - id: doi:10.1186/s13104-023-06613-7
@@ -761,7 +761,6 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2023/12/23/2023.12.22.573157/F1.large.jpg?width=800&height=600&carousel=1
   tags: 
     - GMO detection
-    - Highlight
 - id: doi:10.1186/s13100-024-00312-1
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2023/10/23/2023.10.20.563377/F1.medium.gif
@@ -786,10 +785,18 @@
     - Microbiome
 - id: doi:10.1101/2024.06.24.599926
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/06/27/2024.06.24.599926/F1.large.jpg?width=800&height=600&carousel=1
   tags:
     - Conservation genomics
 - id: doi:10.1101/2024.06.28.601215
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/06/28/2024.06.28.601215/F4.large.jpg?width=800&height=600&carousel=1
+  tags: 
+    - bioRxiv
+    - TEs
+- id: doi:10.1101/2024.07.02.601708
+  type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/07/04/2024.07.02.601708/F3.large.jpg?width=800&height=600&carousel=1
   tags: 
     - bioRxiv
     - TEs
