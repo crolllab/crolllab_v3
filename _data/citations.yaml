@@ -3330,3 +3330,25 @@
   - TEs
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2024.07.02.601708
+  title: Genomic Signatures of Domestication in a Fungus Obligately Farmed by Leafcutter
+    Ants
+  authors:
+  - Caio A. Leal-Dutra
+  - Joel Vizueta
+  - Tobias Baril
+  - Pepijn W. Kooij
+  - "Asta R\xF8dsgaard-J\xF8rgensen"
+  - Benjamin H. Schantz-Conlon
+  - Daniel Croll
+  - Jonathan Z. Shik
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-07-04'
+  link: https://doi.org/gt3xpz
+  type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/07/04/2024.07.02.601708/F3.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - bioRxiv
+  - TEs
+  plugin: sources.py
+  file: sources.yaml
