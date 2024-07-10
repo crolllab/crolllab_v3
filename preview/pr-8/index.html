@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<html lang="en" data-dark="false">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!--
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1217317-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1217317-3');
+</script>
+-->
+
+  <!--
+  put your search engine verification (e.g. Google Search Console) tag here
+-->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Evolutionary genomics of pathogens</title>
+
+<link rel="icon" href="/preview/pr-8/images/icon.png">
+
+<meta name="title" content="">
+<meta name="description" content="Croll lab at University of Neuchatel. The lab of Daniel Croll wants to understand how pathogens evolve to cause disease. For this, we mainly focus on major crop pathogens to unravel mechanisms of rapid adaptation. We want to understand how host resistance mechanisms are circumvented, pesticides become ineffective and how pathogens cope with climate challenges.">
+
+<meta property="og:title" content="">
+<meta property="og:site_title" content="Evolutionary genomics of pathogens">
+<meta property="og:description" content="Croll lab at University of Neuchatel. The lab of Daniel Croll wants to understand how pathogens evolve to cause disease. For this, we mainly focus on major crop pathogens to unravel mechanisms of rapid adaptation. We want to understand how host resistance mechanisms are circumvented, pesticides become ineffective and how pathogens cope with climate challenges.">
+<meta property="og:url" content="/preview/pr-8">
+<meta property="og:image" content="/preview/pr-8/images/share.jpg">
+<meta property="og:locale" content="en_US">
+
+<meta property="twitter:title" content="">
+<meta property="twitter:description" content="Croll lab at University of Neuchatel. The lab of Daniel Croll wants to understand how pathogens evolve to cause disease. For this, we mainly focus on major crop pathogens to unravel mechanisms of rapid adaptation. We want to understand how host resistance mechanisms are circumvented, pesticides become ineffective and how pathogens cope with climate challenges.">
+<meta property="twitter:url" content="/preview/pr-8">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="/preview/pr-8/images/share.jpg">
+
+
+  <meta property="og:type" content="website">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "WebSite",
+    
+    "name": "",
+    "description": "Croll lab at University of Neuchatel. The lab of Daniel Croll wants to understand how pathogens evolve to cause disease. For this, we mainly focus on major crop pathogens to unravel mechanisms of rapid adaptation. We want to understand how host resistance mechanisms are circumvented, pesticides become ineffective and how pathogens cope with climate challenges.",
+    "headline": "",
+    "publisher": {
+      "@type": "Organization",
+      "logo": { "@type": "ImageObject", "url": "/preview/pr-8/images/icon.png" }
+    },
+    "url": "/preview/pr-8"
+  }
+</script>
+
+<link rel="alternate" type="application/rss+xml" href="/preview/pr-8/feed.xml">
+
+  <!-- Google Fonts -->
+<!-- automatically get url from fonts used in theme file -->
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+
+<!-- Font Awesome icons (load asynchronously due to size) -->
+
+<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<noscript>
+  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
+</noscript>
+
+  <!-- third party styles -->
+<!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
+<link href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css" rel="stylesheet">
+
+<!-- include all sass in styles folder -->
+
+
+  
+    <link href="/preview/pr-8/_styles/-theme.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/alert.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/all.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/anchor.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/background.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/body.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/bold.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/button.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/card.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/checkbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/citation.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/code.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/cols.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/feature.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/figure.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/float.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/font.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/footer.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/form.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/grid.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/header.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/heading.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/highlight.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/icon.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/image.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/link.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/list.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/main.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/paragraph.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/portrait.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/post-excerpt.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/post-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/post-nav.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/quote.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/rule.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/search-box.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/search-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/section.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/table.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/tags.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/textbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/tooltip.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-8/_styles/util.css" rel="stylesheet">
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+<!-- include all css in styles folder -->
+
+
+
+  <!-- third party scripts -->
+<script src="https://unpkg.com/@popperjs/core@2" defer></script>
+<script src="https://unpkg.com/tippy.js@6" defer></script>
+<script src="https://unpkg.com/mark.js@8" defer></script>
+
+<!-- include all js in scripts folder -->
+
+
+  <script src="/preview/pr-8/_scripts/anchors.js"></script>
+
+  <script src="/preview/pr-8/_scripts/dark-mode.js"></script>
+
+  <script src="/preview/pr-8/_scripts/fetch-tags.js"></script>
+
+  <script src="/preview/pr-8/_scripts/search.js"></script>
+
+  <script src="/preview/pr-8/_scripts/site-search.js"></script>
+
+  <script src="/preview/pr-8/_scripts/table-wrap.js"></script>
+
+  <script src="/preview/pr-8/_scripts/tooltip.js"></script>
+
+
+</head>
+
+  <body>
+    
+
+
+
+
+
+
+
+<header class="background" style="--image: url('/preview/pr-8/images/background.jpg')" data-dark="true" data-big>
+  <a href="/preview/pr-8/" class="home">
+    
+      <span class="logo">
+        
+          <img src="/preview/pr-8/images/logo.jpg" alt="logo">
+        
+      </span>
+    
+    
+       <span class="title-text" data-tooltip="Home">
+         
+           <span class="title">Evolutionary genomics of pathogens</span>
+         
+         
+           <span class="subtitle">Croll lab at University of Neuchatel</span>
+    
+  </span>
+
+  </a>
+
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+
+  <nav>
+    
+    
+      
+        <a href="/preview/pr-8/team/" data-tooltip="">
+          Team
+        </a>
+      
+    
+      
+        <a href="/preview/pr-8/research/" data-tooltip="">
+          Research
+        </a>
+      
+    
+      
+        <a href="/preview/pr-8/publications/" data-tooltip="">
+          Publications
+        </a>
+      
+    
+      
+        <a href="/preview/pr-8/blog/" data-tooltip="">
+          Blog
+        </a>
+      
+    
+      
+        <a href="/preview/pr-8/contact/" data-tooltip="">
+          Contact
+        </a>
+      
+    
+  </nav>
+</header>
+
+    <main>
+      <!--
+  modify main content of page:
+  - add section breaks
+  - attach section properties
+  - filter out blank sections
+-->
+
+
+
+
+
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <h1 id="welcome-to-our-lab">Welcome to our lab!</h1>
+
+<p>The lab of Daniel Croll wants to understand how pathogens evolve to cause disease. For this, we mainly focus on major crop pathogens and investigate mechanisms of rapid adaptation. We are interested how host resistance mechanisms have been circumvented, pesticides become ineffective and how pathogens are able to cope with climate challenges. We take a broad view in our work and have strong interests in evolutionary processes at all levels from transposable elements to genomes and broad species comparisons. We also have a passion for projects related to conservation genomics. We combine computational work with empirical analyses from the field to the bench.</p>
+
+<p>We are at the University of Neuchâtel (Switzerland) and run the <a href="https://www.unine.ch/evobot/lab_evol_genet.html">Laboratory of Evolutionary Genetics</a></p>
+
+<p>Check here for <a href="/#news-from-the-lab">news</a> or our <a href="/blog">blog</a>.</p>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h1 id="highlights">Highlights</h1>
+
+<div class="feature">
+  <a href="/preview/pr-8/research" class="feature-image" aria-label="Our Research focus">
+    <img src="/preview/pr-8/images/front_1.png" loading="lazy" alt="Our Research focus" onerror="this.src = '/preview/pr-8/images/fallback.svg'; this.onerror = null;">
+  </a>
+  <div class="feature-text">
+    
+      <p class="feature-title">Our Research focus</p>
+  
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<p>Many of the world’s staple crops are vulnerable to the emergence of new pathogens. Our group investigates how pathogens emerge on crops, gain virulence and reshape their genome in the process.</p>
+
+<div class="button-wrapper">
+    <a class="button" href="/preview/pr-8/research" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
+      <i class="icon fa-solid fa-arrow-right"></i>
+      
+        <span>See our research</span>
+      
+    </a>
+  </div>
+
+
+  </section>
+</div>
+</div>
+
+<div class="feature" data-flip="">
+  <a href="/preview/pr-8/team" class="feature-image" aria-label="Meet our team">
+    <img src="/preview/pr-8/images/front_2.jpeg" loading="lazy" alt="Meet our team" onerror="this.src = '/preview/pr-8/images/fallback.svg'; this.onerror = null;">
+  </a>
+  <div class="feature-text">
+    
+      <p class="feature-title">Meet our team</p>
+    
+    
+<p>We are a diverse group of people combining skills in evolutionary biology, microbiology, bioinformatics and genomics. We also like to laugh and have fun.</p>
+
+<div class="button-wrapper">
+    <a class="button" href="/preview/pr-8/team" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
+      <i class="icon fa-solid fa-arrow-right"></i>
+      
+        <span>Our laboratory</span>
+      
+    </a>
+  </div>
+
+
+  </div>
+</div>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h1 id="news-from-the-lab">News from the lab</h1>
+
+<table class="table__news">
+  <tbody>
+    <tr>
+      <td>1 Jul 2024</td>
+      <td> Big congrats Luzia for an amazing PhD exam!</td>
+    </tr>
+    <tr>
+      <td>11 Jun 2024</td>
+      <td> We have just hosted <a href="https://isclb2024.com">ISCLB2024</a>!</td>
+    </tr>
+    <tr>
+      <td>19 Mar 2024</td>
+      <td> Gholam-Hossein Jowkar successfully defended his PhD thesis today! Big congrats Dr.!</td>
+    </tr>
+    <tr>
+      <td>13 Feb 2024</td>
+      <td> It was a big day for Vinciane! Big congrats for your amazing PhD!</td>
+    </tr>
+    <tr>
+      <td>24 Jan 2024</td>
+      <td> We are very excited to co-organize ISCLB2024 in Zurich! <a href="https://www.isclb2024.com">Check out the website</a>
+</td>
+    </tr>
+    <tr>
+      <td>21 Dec 2023</td>
+      <td>Big congratulations to Vinciane Monod for a very successful PhD exam!</td>
+    </tr>
+    <tr>
+      <td>8 Dec 2023</td>
+      <td>We had a wonderful Christmas dinner together. Thanks to everyone for making this a wonderful 2023!</td>
+    </tr>
+    <tr>
+      <td>7 Nov 2023</td>
+      <td>The last days, Hanna, Leen, Toby and Anik had papers accepted for publication. Congrats all of you! <a href="https://pathogen-genomics.org/publications/">Check out the preprints</a>
+</td>
+    </tr>
+    <tr>
+      <td>2 Nov 2023</td>
+      <td>Our lab went for the annual retreat near the beautiful <a href="https://pathogen-genomics.org/blog/">Creux du Van</a>. Sadly the weather was not the best, but we had a great time together!</td>
+    </tr>
+    <tr>
+      <td>18 Aug 2023</td>
+      <td>We sadly had to say good-bye to Sami, our amazing fellowship postdoc from Colombia, and Cristela, our fantastic apprentice. We’ll miss you!</td>
+    </tr>
+    <tr>
+      <td>17 July 2023</td>
+      <td>We celebrated Ana Rodriguez EMBO short-term stay with our lab for the past three months. It was great hosting you!</td>
+    </tr>
+    <tr>
+      <td>16 July 2023</td>
+      <td>Four preprints are newly out on bioRxiv. Amazing work led by Leen, Luzia, Simone and Hanna! <a href="https://pathogen-genomics.org/publications/">Check out our publications</a>
+</td>
+    </tr>
+    <tr>
+      <td>9 May 2023</td>
+      <td>Emile Gluck-Thaler will move on to a faculty position in Wisconsin-Madison. Huge congrats!! We’ll sorely miss you! Check also the <a href="/blog/">blog</a>
+</td>
+    </tr>
+    <tr>
+      <td>9 May 2023</td>
+      <td>Congratulations to Wided Abdedayem from the National Agronomic Institute of Tunisia to win a scholarship to pursue a year of your PhD with us!</td>
+    </tr>
+    <tr>
+      <td>8 May 2023</td>
+      <td>Huge congrats to Leen for successfully obtaining your PhD! We are so proud of you!! Check out <a href="/blog/">our blog</a>
+</td>
+    </tr>
+    <tr>
+      <td>26 April 2023</td>
+      <td>We had a great meet-up with <a href="https://www.canr.msu.edu/people/greg_bonito">Greg Bonito from MSU</a> - thanks for passing by!</td>
+    </tr>
+    <tr>
+      <td>6 March 2023</td>
+      <td>Great to see so many colleagues at ECFG16 in Innsbruck! Awesome talks &amp; posters by our lab!</td>
+    </tr>
+    <tr>
+      <td>24 February 2023</td>
+      <td>Our 1000 pathogen genome paper just came out in Nature Communications. <a href="https://www.nature.com/articles/s41467-023-36674-y">Check it out</a>
+</td>
+    </tr>
+    <tr>
+      <td>15 February 2023</td>
+      <td>A bunch of our lab went for an awesome ski trip to La Berra! Jealous :-)</td>
+    </tr>
+    <tr>
+      <td>14 February 2023</td>
+      <td>Big congrats to Ursula and Hadjer having together three papers published! <a href="https://pathogen-genomics.org/publications/">Check out our publications</a>.</td>
+    </tr>
+    <tr>
+      <td>1 February 2023</td>
+      <td>Hadjer gave a wonderful PhD public presentation. Congrats Dr. Bellah - very proud!</td>
+    </tr>
+    <tr>
+      <td>1 February 2023</td>
+      <td>Welcome to Tobias Baril joining our lab today for a postdoc. Very excited to host you!</td>
+    </tr>
+    <tr>
+      <td>14 November 2022</td>
+      <td>Both Leen Abraham and Hadjer Bellah successfully passed their PhD exams recently - Big congrats! We are very proud of you!</td>
+    </tr>
+    <tr>
+      <td>3 November 2022</td>
+      <td>Alice Laigle is starting her PhD in our lab - welcome!</td>
+    </tr>
+    <tr>
+      <td>19 October 2022</td>
+      <td>Little celebration after our “lab data clean-up / reorg” session. Tasting amazing dishes from everyone’s home country.</td>
+    </tr>
+    <tr>
+      <td>3 October 2022</td>
+      <td>A very warm welcome to Sami, Margarida and Ivan joining our lab these days!</td>
+    </tr>
+    <tr>
+      <td>30 September 2022</td>
+      <td>Emile organized a wonderful little trip to see the spectacular waterfall of the Doubs river. Check out <a href="https://pathogen-genomics.org/blog/">our blog</a>.</td>
+    </tr>
+    <tr>
+      <td>18 July 2022</td>
+      <td>We have some amazing new PhD students and postdocs joining our lab in autumn. Stay tuned!</td>
+    </tr>
+    <tr>
+      <td>16 June 2022</td>
+      <td>Open PhD and postdoc positions in the lab! See above please.</td>
+    </tr>
+    <tr>
+      <td>9 June 2022</td>
+      <td>Big congrats to Sami Sayer from Colombia for being awarded a postdoctoral scholarship to join us in autumn!</td>
+    </tr>
+    <tr>
+      <td>2 June 2022</td>
+      <td>Emile helped put together the amazing <a href="https://conferences.uwo.ca/canfunnet/">CanFunNet22 conference</a> happening now! Hadjer and Daniel gave talks.</td>
+    </tr>
+    <tr>
+      <td>13 May 2022</td>
+      <td>Alice, Guido and Daniel attended their first physical conference in a long time! The <a href="https://www.isclb2022.com">ISCLB22</a> in Tunisia was amazing.</td>
+    </tr>
+    <tr>
+      <td>28 April 2022</td>
+      <td>
+<a href="https://rmwaterhouse.org">Robert Waterhouse (UNIL)</a> gave an excellent institute seminar. Thanks for spending time with us!</td>
+    </tr>
+    <tr>
+      <td>29 March 2022</td>
+      <td>Ursula Oggenfuss gave her <a href="https://pathogen-genomics.org/blog/">public presentation</a> and is now Dr. Oggenfuss!</td>
+    </tr>
+    <tr>
+      <td>15 March 2022</td>
+      <td>Awesome PhD defence by Ursula Oggenfuss today. Congratulations!</td>
+    </tr>
+    <tr>
+      <td>9 March 2022</td>
+      <td>Daniel has been nominated as a Full Professor effective in 2023. The biggest thanks to all the amazing lab members who made this possible.</td>
+    </tr>
+    <tr>
+      <td>17 Feb 2022</td>
+      <td>Big congrats to Vinciane for <a href="https://pathogen-genomics.org/blog/">getting your PhD</a>!</td>
+    </tr>
+    <tr>
+      <td>28 Jan 2022</td>
+      <td>We are restarting now our regular group meetings. Looking very much forward to a wonderful 2022 with an amazing lab!</td>
+    </tr>
+    <tr>
+      <td>17 Dec 2021</td>
+      <td>A big month for Leen and Ursula winning a Doc.Mobility and Postdoc.Mobility grant, respectively! Warmest congratulations for these amazing feats!</td>
+    </tr>
+    <tr>
+      <td>9 Dec 2021</td>
+      <td>Congratulations Sabina for your paper now officially published in <a href="https://doi.org/10.1093/molbev/msab323">MBE</a>!</td>
+    </tr>
+    <tr>
+      <td>16 Nov 2021</td>
+      <td>Lea Stauber has just <a href="https://pathogen-genomics.org/blog/">won an award</a> for her PhD thesis!</td>
+    </tr>
+    <tr>
+      <td>5 Nov 2021</td>
+      <td>Fantastic PhD defence by Vinciane Mossion - congrats!</td>
+    </tr>
+    <tr>
+      <td>15 Oct 2021</td>
+      <td>Congrats Nikhil for <a href="https://pathogen-genomics.org/blog/">getting your PhD</a>!</td>
+    </tr>
+    <tr>
+      <td>17 Sep 2021</td>
+      <td>Congratulations Ursula for your paper coming out in <a href="https://doi.org/10.7554/eLife.69249">eLife</a> today!</td>
+    </tr>
+    <tr>
+      <td>3 Sep 2021</td>
+      <td>Happy to see our Opinion piece out today in <a href="https://authors.elsevier.com/a/1dhDvcQbI-uqw">Trends in Genetics</a>.</td>
+    </tr>
+    <tr>
+      <td>1 Sep 2021</td>
+      <td>Welcome to <a href="http://www.twitter.com/mycomile">Emile Gluck-Thaler</a> joining our lab as a Marie Curie postdoc!</td>
+    </tr>
+    <tr>
+      <td>30 Aug 2021</td>
+      <td>Congratulations Ursula, Nikhil and Ben for your recently accepted <a href="https://pathogen-genomics.org/publications/">publications</a>!</td>
+    </tr>
+    <tr>
+      <td>25 Aug 2021</td>
+      <td>Our tasty <a href="https://pathogen-genomics.org/blog/">international apéro</a> is happening!</td>
+    </tr>
+    <tr>
+      <td>2 Aug 2021</td>
+      <td>A very warm welcome to Hanna Glad starting her PhD in our lab!</td>
+    </tr>
+    <tr>
+      <td>21 June 2021</td>
+      <td>We went on a cool <a href="https://pathogen-genomics.org/blog/">litte walk</a>. Fun without Zoom!</td>
+    </tr>
+    <tr>
+      <td>10 June 2021</td>
+      <td>Our paper showing how sequence rearrangements can be predicted is <a href="https://doi.org/10.1038/s41467-021-23862-x">out in Nature Communications</a>.​ Here’s a <a href="https://natureecoevocommunity.nature.com/posts/predicting-sequence-evolution-through-machine-learning">blog post</a> summarizing our work.</td>
+    </tr>
+    <tr>
+      <td>10 June 2021</td>
+      <td>Congratulations Hanna Glad for an awesome MSc thesis &amp; presentation today!</td>
+    </tr>
+    <tr>
+      <td>31 March 2021</td>
+      <td>Here’s our contribution to the analysis of the Zambian wheat blast outbreak on <a href="https://doi.org/10.5281/zenodo.4655959">Zenodo DOI</a>
+</td>
+    </tr>
+    <tr>
+      <td>13 March 2021</td>
+      <td>We went on a <a href="https://pathogen-genomics.org/blog/">hike to Mürren</a>. Great to spend some time together outdoors.</td>
+    </tr>
+    <tr>
+      <td>5 March 2021</td>
+      <td>Our paper on chestnut blight emergence is now <a href="https://doi.org/10.7554/eLife.56279">out in eLife</a>
+</td>
+    </tr>
+    <tr>
+      <td>5 February 2021</td>
+      <td>Congratulations to Lea Stauber for passing her PhD defence!</td>
+    </tr>
+    <tr>
+      <td>15 January 2020</td>
+      <td>Our paper on pathogen trade-offs is now <a href="https://doi.org/10.1038/s41396-020-00859-w">out in The ISME Journal</a>.​</td>
+    </tr>
+    <tr>
+      <td>4 January 2021</td>
+      <td>Happy New Year everyone!</td>
+    </tr>
+    <tr>
+      <td>15 December 2020</td>
+      <td>We celebrated our lab at a little outdoor event.</td>
+    </tr>
+    <tr>
+      <td>19 September 2020</td>
+      <td>Welcome to our MSc students Hanna, Laetitia, Nicolas, Fanny, Elizabete and Sara!</td>
+    </tr>
+    <tr>
+      <td>13 July 2020</td>
+      <td>Our lab went on outdoor trip!</td>
+    </tr>
+    <tr>
+      <td>1 July 2020</td>
+      <td>Welcome to Sabina Tralamazza joining us as a postdoc.</td>
+    </tr>
+    <tr>
+      <td>1 May 2020</td>
+      <td>Welcome Alice Feurtey! She joins us as a postdoc in collab. with the ETH.</td>
+    </tr>
+    <tr>
+      <td>16 March 2020</td>
+      <td>Our lab is now in home office with plenty of Zoom and Slack going on. We wish you all the best out there and hope to meet you soon in person again. Take care and stay healthy!</td>
+    </tr>
+    <tr>
+      <td>1 March 2020</td>
+      <td>Welcome back Simone Fouché! She joins us as a new postdoc.</td>
+    </tr>
+    <tr>
+      <td>21 February 2020</td>
+      <td>Our paper on deleterious mutations in ibex is now <a href="https://doi.org/10.1038/s41467-020-14803-1">out in Nature Communications</a>.​</td>
+    </tr>
+  </tbody>
+</table>
+  </section>
+
+
+    </main>
+    
+
+
+<footer class="background" style="--image: url('/preview/pr-8/images/background.jpg')" data-dark="true" data-size="wide">
+  <!--
+    <div>
+      Extra details like contact info or address
+    </div>
+  -->
+
+  <div>
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="mailto:daniel.croll@unine.ch" data-tooltip="Email" data-style="bare" aria-label="Email">
+      <i class="icon fa-solid fa-envelope"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://orcid.org/0000-0002-2072-380X" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
+      <i class="icon fa-brands fa-orcid"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://scholar.google.com/citations?user=82WR4DYAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
+      <i class="icon fa-brands fa-google"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://github.com/crolllab" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
+      <i class="icon fa-brands fa-github"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://twitter.com/danielcroll" data-tooltip="Twitter" data-style="bare" aria-label="Twitter">
+      <i class="icon fa-brands fa-twitter"></i>
+      
+    </a>
+  </div>
+
+
+    
+  </div>
+
+  <div>
+    © 2024
+    Evolutionary genomics of pathogens
+      |   Built with
+    <a href="https://github.com/greenelab/lab-website-template">
+      Lab Website Template
+    </a>
+  </div>
+
+  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+</footer>
+
+  </body>
+</html>
