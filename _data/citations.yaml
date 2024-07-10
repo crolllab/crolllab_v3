@@ -3180,8 +3180,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.foodcont.2024.110670
-  title: Detection Of Genetically Modified Organisms Using Highly Multiplexed Amplicon
-    Sequencing
+  title: Detection of genetically modified organisms using highly multiplexed amplicon
+    sequencing
   authors:
   - C. Sarai Reyes-Avila
   - Dominique Waldvogel
@@ -3189,7 +3189,7 @@
   - Sylvain Aubry
   - Daniel Croll
   publisher: Food Control
-  date: '2024-06-01'
+  date: '2024-11-01'
   link: https://doi.org/gt2kgs
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2023/12/23/2023.12.22.573157/F1.large.jpg?width=800&height=600&carousel=1
@@ -3276,7 +3276,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.06.24.599926
-  title: A highly contiguous reference genome for the Alpine ibex (Capra ibex)
+  title: A highly contiguous reference genome for the Alpine ibex (<i>Capra ibex</i>)
   authors:
   - "F. G\xF6zde \xC7ilingir"
   - Fabio Landuzzi
@@ -3301,7 +3301,7 @@
   - Daniel Croll
   - Luca Pandolfini
   - Christine Grossen
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: '2024-06-27'
   link: https://doi.org/gt22nt
   type: preprint
@@ -3316,10 +3316,10 @@
   - Emile Gluck-Thaler
   - Adrian Forsythe
   - Charles Puerner
-  - Jason E Stajich
+  - Jason E. Stajich
   - Daniel Croll
-  - Robert A Cramer
-  - Aaron A Vogan
+  - Robert A. Cramer
+  - Aaron A. Vogan
   publisher: Cold Spring Harbor Laboratory
   date: '2024-06-28'
   link: https://doi.org/gt26zt
