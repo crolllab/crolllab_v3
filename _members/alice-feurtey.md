@@ -2,7 +2,7 @@
 name: Alice Feurtey
 description: Junior Group Leader
 image: images/alice.jpg
-group: current
+group: alumni
 role: postdoc
 aliases:
   - Alice Feurtey
@@ -15,4 +15,6 @@ links:
   twitter: AliceFeurtey
 ---
 
-Alice Feurtey is a genomicist, and evolutionary biologist, using big data and data science methods to answer biological questions. After a PhD in Paris Saclay (France) with Tatiana Giraud, she worked as a postdoctoral researcher at the Max Planck Institute of Evolutionary Biology (Germany) with Eva Stukenbrock. She is currently a junior group leader at the ETH Zürich (Switzerland). Her ongoing research adresses the evolution of fungal genomes and the adaptation of plant pathogen to their host and environment.
+Alice Feurtey is a genomicist, and evolutionary biologist, using big data and data science methods to answer biological questions. After a PhD in Paris Saclay (France) with Tatiana Giraud, she worked as a postdoctoral researcher at the Max Planck Institute of Evolutionary Biology (Germany) with Eva Stukenbrock. She was a junior group leader at the ETH Zürich (Switzerland) and adressed the evolution of fungal genomes and the adaptation of plant pathogen to their host and environment.
+
+Alice is currently a data scientist at Roche.

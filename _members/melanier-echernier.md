@@ -2,7 +2,7 @@
 name: Mélanie Echernier
 description: Visitor
 image: images/default.jpg
-group: current
+group: alumni
 role: undergrad
 aliases:
 links:
@@ -11,5 +11,5 @@ links:
   orcid: 0000-0002-1931-5083
 ---
 
-Mélanie joins us in summer 2024 from the Université Clermont Auvergne for a MSc internship research project. She's excited about Zymoseptoria tritici and the evolution of fungicide resistance. 
+Mélanie joined us in summer 2024 from the Université Clermont Auvergne for a MSc internship research project. She's excited about Zymoseptoria tritici and the evolution of fungicide resistance. 
 ```

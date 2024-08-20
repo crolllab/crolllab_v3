@@ -2,7 +2,7 @@
 name: Gema Puebla Planas
 description: Visitor
 image: images/default.jpg
-group: current
+group: alumni
 role: phd student
 aliases:
 links:
@@ -11,4 +11,4 @@ links:
   orcid: 0000-0003-4776-1459
 ---
 
-Gema joins us May-July 2024 for a short term EMBO fellowship to work on Fusarium genomes. She is a PhD student in Antonio Di Pietro's lab at the Universidad de Córdoba.
+Gema joined us May-July 2024 for a short term EMBO fellowship to work on Fusarium genomes. She is a PhD student in Antonio Di Pietro's lab at the Universidad de Córdoba.
