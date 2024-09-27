@@ -3310,26 +3310,6 @@
   - Conservation genomics
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.06.28.601215
-  title: Giant transposons promote strain heterogeneity in a major fungal pathogen
-  authors:
-  - Emile Gluck-Thaler
-  - Adrian Forsythe
-  - Charles Puerner
-  - Jason E. Stajich
-  - Daniel Croll
-  - Robert A. Cramer
-  - Aaron A. Vogan
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-06-28'
-  link: https://doi.org/gt26zt
-  type: preprint
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/06/28/2024.06.28.601215/F4.large.jpg?width=800&height=600&carousel=1
-  tags:
-  - bioRxiv
-  - TEs
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1093/molbev/msae197
   title: Genomic Signatures of Domestication in a Fungus Obligately Farmed by Leafcutter
     Ants
@@ -3348,6 +3328,26 @@
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2024/07/04/2024.07.02.601708/F3.large.jpg?width=800&height=600&carousel=1
   tags:
+  - TEs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.06.28.601215
+  title: Giant transposons promote strain heterogeneity in a major fungal pathogen
+  authors:
+  - Emile Gluck-Thaler
+  - Adrian Forsythe
+  - Charles Puerner
+  - Jason E. Stajich
+  - Daniel Croll
+  - Robert A. Cramer
+  - Aaron A. Vogan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-06-28'
+  link: https://doi.org/gt26zt
+  type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/06/28/2024.06.28.601215/F4.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - bioRxiv
   - TEs
   plugin: sources.py
   file: sources.yaml
