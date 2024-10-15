@@ -10,3 +10,5 @@ links:
 ---
 
 Chloé was doing her MSc with us and investigated near-infrared spectra of microorganisms in collaboration with the EPFL Lausanne.
+
+Congrats on your degree!
