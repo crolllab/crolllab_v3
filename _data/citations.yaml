@@ -70,23 +70,21 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2022.09.28.509846
-  title: Global diversification of the common moonwort ferns (<i>Botrychium lunaria</i>group,
-    Ophioglossaceae) was mainly driven by Pleistocene climatic shifts
+- id: doi:10.1093/aob/mcae228
+  title: Global diversification of the common moonwort ferns (<i>Botrychium lunaria</i>
+    group, Ophioglossaceae) was mainly driven by Pleistocene climatic shifts
   authors:
   - Vinciane Mossion
   - Erik Koenen
   - Jason Grant
   - Daniel Croll
-  - Donald R. Farrar
+  - Donald R Farrar
   - Michael Kessler
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-09-28'
-  link: https://doi.org/gr6pzq
-  type: preprint
+  publisher: Annals of Botany
+  date: '2025-01-11'
+  link: https://doi.org/g8zkj3
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2022/09/28/2022.09.28.509846/F1.large.jpg?width=800&height=600&carousel=1
-  tags:
-  - bioRxiv
   plugin: sources.py
   file: sources.yaml
 - id: 10.1371/journal.ppat.1011801
@@ -3005,24 +3003,24 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.05.23.541976
-  title: A systemic approach allows to identify the pedoclimatic conditions most critical
-    in the susceptibility of a grapevine cultivar to esca/Botryosphaeria dieback
+- id: doi:10.20870/oeno-one.2025.59.1.7659
+  title: Identifying the pedoclimatic conditions most critical in the susceptibility
+    of a grapevine cultivar to esca disease
   authors:
+  - "Val\xE9rie Hofstetter"
   - Vinciane Monod
-  - Vivian Zufferey
   - Matthieu Wilhelm
   - Olivier Viret
   - Katia Gindro
   - Daniel Croll
-  - "Val\xE9rie Hofstetter"
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-05-24'
-  link: https://doi.org/gr9dd6
-  type: preprint
+  - Vivian Zufferey
+  publisher: OENO One
+  date: '2025-01-08'
+  link: https://doi.org/g8zkkj
+  type: paper
   image: https://pathogen-genomics.org/images/pubs/monod_2023.png
   tags:
-  - bioRxiv
+  - Microbiome
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1094/PHYTO-09-22-0348-R
