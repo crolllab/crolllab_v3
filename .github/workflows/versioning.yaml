@@ -18,7 +18,7 @@ jobs:
     if: |
       github.repository == 'greenelab/lab-website-template' &&
       github.event_name == 'pull_request'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       # for debugging
       - uses: crazy-max/ghaction-dump-context@v2
