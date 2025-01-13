@@ -17,11 +17,9 @@
   tags: 
     - Highlight
     - Zymoseptoria
-- id: doi:10.1101/2022.09.28.509846
-  type: preprint
+- id: doi:10.1093/aob/mcae228
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2022/09/28/2022.09.28.509846/F1.large.jpg?width=800&height=600&carousel=1
-  tags: 
-    - bioRxiv
 - id: 10.1371/journal.ppat.1011801
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2022/05/17/2022.05.16.492091/F1.large.jpg?width=800&height=600&carousel=1
@@ -698,11 +696,11 @@
   image: https://journals.plos.org/plospathogens/article/figure/image?size=large&id=10.1371/journal.ppat.1011376.g001
   tags:
     - Zymoseptoria
-- id: doi:10.1101/2023.05.23.541976
-  type: preprint
+- id: doi:10.20870/oeno-one.2025.59.1.7659
+  type: paper
   image: https://pathogen-genomics.org/images/pubs/monod_2023.png
   tags: 
-    - bioRxiv
+    - Microbiome
 - id: doi:10.1094/PHYTO-09-22-0348-R
   type: paper
   image: https://apsjournals.apsnet.org/na101/home/literatum/publisher/aps/journals/covergifs/phyto/cover.jpg
