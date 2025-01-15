@@ -5,7 +5,7 @@
 
 The lab of Daniel Croll wants to understand how pathogens evolve to cause disease. For this, we mainly focus on major crop pathogens and investigate mechanisms of rapid adaptation. We are interested how host resistance mechanisms have been circumvented, pesticides become ineffective and how pathogens are able to cope with climate challenges. We take a broad view in our work and have strong interests in evolutionary processes at all levels from transposable elements to genomes and broad species comparisons. We also have a passion for projects related to conservation genomics. We combine computational work with empirical analyses from the field to the bench.
 
-We are at the University of Neuchâtel (Switzerland) and run the [Laboratory of Evolutionary Genetics](https://www.unine.ch/evobot/lab_evol_genet.html)
+We are at the University of Neuchâtel (Switzerland) and run the [Laboratory of Evolutionary Genetics](https://www.unine.ch/lab-evol-gen/)
 
 Check here for [news](/#news-from-the-lab) or our [blog](/blog).
 
