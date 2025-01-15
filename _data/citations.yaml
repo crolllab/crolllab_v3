@@ -3410,3 +3410,18 @@
   - bioRxiv
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2025.01.10.632494
+  title: A systematic screen for genetic factors underpinning transposon defense systems
+    across the fungal kingdom
+  authors:
+  - Thomas Badet
+  - Daniel Croll
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-14'
+  link: https://doi.org/g8ztm7
+  type: preprint
+  tags:
+  - bioRxiv
+  - TEs
+  plugin: sources.py
+  file: sources.yaml
