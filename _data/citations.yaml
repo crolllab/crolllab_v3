@@ -3425,3 +3425,24 @@
   - TEs
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2025.01.24.634825
+  title: Wheat infection by<i>Fusarium graminearum</i>species complex members is facilitated
+    by a transcriptionally conserved non-ribosomal peptide synthetase gene cluster
+  authors:
+  - Sabina Moser Tralamazza
+  - Mikkel Rank Nielsen
+  - Leen Nanchira Abraham
+  - Anna K Atanasoff-Kardjalieff
+  - Gaetan Glauser
+  - Jens Laurids Sorensen
+  - Lena Studt-Reinhold
+  - Benedito Correa
+  - Daniel Croll
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-25'
+  link: https://doi.org/g825kr
+  type: preprint
+  tags:
+  - bioRxiv
+  plugin: sources.py
+  file: sources.yaml
