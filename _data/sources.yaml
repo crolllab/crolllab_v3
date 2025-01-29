@@ -805,18 +805,22 @@
     - TEs
 - id: doi:10.1101/2024.10.15.618441
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/10/18/2024.10.15.618441/F1.large.jpg?width=800&height=600&carousel=1
   tags: 
     - bioRxiv
 - id: doi:10.1101/2024.11.15.623740
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/11/15/2024.11.15.623740/F3.large.jpg?width=800&height=600&carousel=1
   tags: 
     - bioRxiv
 - id: doi:10.1101/2025.01.10.632494
   type: preprint
   tags: 
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/01/14/2025.01.10.632494/F1.large.jpg?width=800&height=600&carousel=1
     - bioRxiv
     - TEs
 - id: doi:10.1101/2025.01.24.634825
   type: preprint
   tags: 
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/01/25/2025.01.24.634825/F5.large.jpg?width=800&height=600&carousel=1
     - bioRxiv
