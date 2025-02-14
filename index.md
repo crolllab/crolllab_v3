@@ -72,6 +72,9 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+14 Feb 2025 | Multiple fellowship applications under review. Thanks all for your interest and fingers crossed!
+15 Jan 2025 | Two PhD defenses scheduled for the coming months. Big final push and we can celebrate!
+10 Dec 2024 | Celebrated wonderful Christmas events with the lab and institute. Thanks to everyone for making this a wonderful 2024!
 27 Sep 2024 | Luzia is now officially a Dr.! Big congrats and all the best in Holland with your postdoc!
 8 Jul 2024 | Congrats Sabina, Alice F and Emile for your new paper in Nature Comms! [Check it out](https://www.nature.com/articles/s41467-024-49913-7)
 5 Jul 2024 | Examiner for three PhD exams in one week! Big congrats to all the new doctors!
