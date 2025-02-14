@@ -3226,12 +3226,12 @@
   - Review
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.03.29.587348
-  title: An old inversion polymorphism involving giant mobile elements in an invasive
-    fungal pathogen
+- id: doi:10.1093/molbev/msaf026
+  title: An inversion polymorphism under balancing selection, involving giant mobile
+    elements, in an invasive fungal pathogen
   authors:
-  - Fanny E. Hartmann
-  - Ricardo C. Rodriguez de la Vega
+  - Fanny E Hartmann
+  - "Ricardo C Rodr\xEDguez de la Vega"
   - "Arthur Demen\xE9"
   - Thomas Badet
   - Jean-Philippe Vernadet
@@ -3243,13 +3243,11 @@
   - Simone Prospero
   - Cyril Dutech
   - Tatiana Giraud
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-03-30'
-  link: https://doi.org/gtptnw
-  type: preprint
+  publisher: Molecular Biology and Evolution
+  date: '2025-02-05'
+  link: https://doi.org/g84jtj
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2024/03/30/2024.03.29.587348/F3.large.jpg?width=800&height=600&carousel=1
-  tags:
-  - bioRxiv
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.04.05.588363
