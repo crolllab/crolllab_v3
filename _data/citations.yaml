@@ -3420,9 +3420,10 @@
   date: '2025-01-14'
   link: https://doi.org/g8ztm7
   type: preprint
-  tags: null
   image: https://www.biorxiv.org/content/biorxiv/early/2025/01/14/2025.01.10.632494/F1.large.jpg?width=800&height=600&carousel=1
-    - bioRxiv - TEs
+  tags:
+  - bioRxiv
+  - TEs
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.01.24.634825
@@ -3442,8 +3443,8 @@
   date: '2025-01-25'
   link: https://doi.org/g825kr
   type: preprint
-  tags: null
   image: https://www.biorxiv.org/content/biorxiv/early/2025/01/25/2025.01.24.634825/F5.large.jpg?width=800&height=600&carousel=1
-    - bioRxiv
+  tags:
+  - bioRxiv
   plugin: sources.py
   file: sources.yaml
