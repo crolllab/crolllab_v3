@@ -54,7 +54,7 @@ jobs:
 
       - name: Build updated citations
         run: python _cite/cite.py
-        timeout-minutes: 15
+        timeout-minutes: 120
 
       - name: Check if citations changed
         id: changed
