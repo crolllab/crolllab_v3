@@ -10,7 +10,7 @@ links:
   email: ana.novais@unine.ch
   orcid: 0000-0002-2008-8527
   google-scholar: C8t7BDIAAAAJ
-  twitter: MargaridaSamp16
+  bluesky: margaridasampaio.bsky.social
 ---
 
-Ana Margarida Sampaio is a plant biologist interested in plant-pathogen interactions. She finished a MSc in Plant Molecular Biology at University of Minho (Portugal) in 2015, and a PhD in Plant Sciences at ITQB-NOVA (Portugal) in 2021. She was research assistant from 2020-2021 and postdoctoral researcher at PRIMA-DiVicia project from 2021-2022 at ITQB-NOVA (Portugal). Currently, she is interested in fungi effector evolution and how the presence of fungal resistant varieties can influence this evolution.
+Ana Margarida Sampaio is a Plant Biologist interested in plant-pathogen interactions. She completed her PhD in Plant Sciences at Nova University of Lisbon (Portugal) in 2021, where she investigated resistance mechanisms of legume species to soilborne pathogens. Her current research focuses on the evolution of fungal effectors, aiming to better understand how they evolve to evade host recognition. To explore this, she primarly works with _Zymoseptoria tritici_ and _Magnaporthe oryzae_ pathosystems.
