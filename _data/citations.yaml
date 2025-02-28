@@ -3227,8 +3227,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/molbev/msaf026
-  title: An inversion polymorphism under balancing selection, involving giant mobile
-    elements, in an invasive fungal pathogen
+  title: An Inversion Polymorphism Under Balancing Selection, Involving Giant Mobile
+    Elements, in an Invasive Fungal Pathogen
   authors:
   - Fanny E Hartmann
   - "Ricardo C Rodr\xEDguez de la Vega"
@@ -3244,7 +3244,7 @@
   - Cyril Dutech
   - Tatiana Giraud
   publisher: Molecular Biology and Evolution
-  date: '2025-02-05'
+  date: '2025-02-01'
   link: https://doi.org/g84jtj
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2024/03/30/2024.03.29.587348/F3.large.jpg?width=800&height=600&carousel=1
