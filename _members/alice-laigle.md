@@ -18,4 +18,4 @@ Alice Laigle is an evolutionary biologist and bioinformatician interested in nuc
 
 <img title="Armillaria ostoyae" alt="Armillaria ostoyae" src="images/alicel_armillaria.png">
 
-Armillaria ostoyae (Basidiomycota), watercolour, 2024
+_Armillaria ostoyae_ (Basidiomycota), watercolour, 2024
