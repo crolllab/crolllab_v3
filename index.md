@@ -72,6 +72,8 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+28 Feb 2025 | Alice Laigle shared one of her beautiful watercolour paintings of an Armillaria ostoyae mushroom. [Check it out](https://pathogen-genomics.org/members/alice-laigle.html)
+25 Feb 2025 | Guido Puccetti successfully passed his thesis exam! Big congrats (almost) Dr. Puccetti!
 14 Feb 2025 | Multiple fellowship applications under review. Thanks all for your interest and fingers crossed!
 15 Jan 2025 | Two PhD defenses scheduled for the coming months. Big final push and we can celebrate!
 10 Dec 2024 | Celebrated wonderful Christmas events with the lab and institute. Thanks to everyone for making this a wonderful 2024!
