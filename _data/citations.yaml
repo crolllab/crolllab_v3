@@ -3448,3 +3448,45 @@
   - bioRxiv
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1093/hr/uhaf069
+  title: A divergent haplotype with a large deletion at the berry color locus causes
+    a white-skinned phenotype in grapevine
+  authors:
+  - "Jean-S\xE9bastien Reynard"
+  - Justine Brodard
+  - David Roquis
+  - Eric Droz
+  - Komlan Avia
+  - Thibaut Verdenal
+  - Vivian Zufferey
+  - Thierry Lacombe
+  - Daniel Croll
+  - Jean-Laurent Spring
+  publisher: Horticulture Research
+  date: '2025-03-06'
+  link: https://doi.org/g87k92
+  type: paper
+  tags:
+  - Grapevine
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.34776/afs15-207
+  title: "Le Blanchier: red\xE9couverte d\u2019un ancien c\xE9page dans le vignoble\
+    \ valaisan"
+  authors:
+  - Jean-Laurent Spring
+  - "Jean-S\xE9bastien Reynard"
+  - Vivian Zufferey
+  - Thibaut Verdenal
+  - Gilles Bourdin
+  - "St\xE9phane Bieri"
+  - Daniel Croll
+  - Cristoph Carlen
+  publisher: Agroscope
+  date: '2024-01-01'
+  link: https://doi.org/g87k93
+  type: paper
+  tags:
+  - Grapevine
+  plugin: sources.py
+  file: sources.yaml
