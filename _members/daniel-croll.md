@@ -20,15 +20,15 @@ The major aims of Daniel's research are to understand the evolutionary processes
 
 Brief bio:
 
-2024-     Director, Institute of Biology, University of Neuchâtel
-2023-     Full Professor, University of Neuchâtel
-2017-2022 Assistant Professor, University of Neuchâtel, Switzerland
-2015-2016 Junior Group Leader, ETH Zurich, Switzerland
-2013-2014 Postdoc, University of British Columbia, Canada (with Prof. James Kronstad)
-2010-2012 Postdoc, ETH Zurich, Switzerland (with Prof. Bruce A McDonald)
-2009      PhD, University of Lausanne, Switzerland (with Prof. Ian R. Sanders)
+2024-     Director, Institute of Biology, University of Neuchâtel  
+2023-     Full Professor, University of Neuchâtel  
+2017-2022 Assistant Professor, University of Neuchâtel, Switzerland  
+2015-2016 Junior Group Leader, ETH Zurich, Switzerland  
+2013-2014 Postdoc, University of British Columbia, Canada (with Prof. James Kronstad)  
+2010-2012 Postdoc, ETH Zurich, Switzerland (with Prof. Bruce A McDonald)  
+2009      PhD, University of Lausanne, Switzerland (with Prof. Ian R. Sanders)  
 
-Current Editorial boards: mBio (2024-), PLOS Pathogens (2023-)
+Current Editorial boards: mBio (2024-), PLOS Pathogens (2023-).
 
 
 [Time capsule](https://pathogen-genomics.org/dani-on-tour/) to a previous life.
