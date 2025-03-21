@@ -824,9 +824,16 @@
     - bioRxiv
 - id: doi:10.1093/hr/uhaf069
   type: paper
+  image: 
   tags:
     - Grapevine
 - id: doi:10.34776/afs15-207
   type: paper
   tags:
     - Grapevine
+- id: doi:10.1101/2025.03.19.644200
+  type: paper
+  tags:
+    - bioRxiv
+    - Zymoseptoria
+    - Fungicide resistance

@@ -1,6 +1,6 @@
 ---
 title:  "Exciting visit by Cédric Feschotte from Cornell"
-date:   2025-03-17
+date:   2025-03-13
 author: Daniel Croll
 ---
 
