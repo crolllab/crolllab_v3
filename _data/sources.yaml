@@ -822,6 +822,13 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2025/01/25/2025.01.24.634825/F5.large.jpg?width=800&height=600&carousel=1
   tags: 
     - bioRxiv
+- id: doi:10.1101/2025.03.19.644200
+  type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/03/19/2025.03.19.644200/F1.large.jpg?width=800&height=600&carousel=1
+  tags:
+    - bioRxiv
+    - Zymoseptoria
+    - Fungicide resistance
 - id: doi:10.1093/hr/uhaf069
   type: paper
   image: 
@@ -831,10 +838,3 @@
   type: paper
   tags:
     - Grapevine
-- id: doi:10.1101/2025.03.19.644200
-  type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2025/03/19/2025.03.19.644200/F1.large.jpg?width=800&height=600&carousel=1
-  tags:
-    - bioRxiv
-    - Zymoseptoria
-    - Fungicide resistance
