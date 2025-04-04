@@ -72,6 +72,8 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+02 April 2025 | Also Sarai obtained her PhD! Big congrats!! Check out [our blog](/blog/)
+28 March 2025 | Huge congrats to Guido for successfully obtaining your PhD! We are so proud of you!! Check out [our blog](/blog/)
 28 Feb 2025 | Alice Laigle shared one of her beautiful watercolour paintings of an Armillaria ostoyae mushroom. [Check it out](https://pathogen-genomics.org/members/alice-laigle.html)
 25 Feb 2025 | Guido Puccetti successfully passed his thesis exam! Big congrats (almost) Dr. Puccetti!
 14 Feb 2025 | Multiple fellowship applications under review. Thanks all for your interest and fingers crossed!
