@@ -838,3 +838,9 @@
   type: paper
   tags:
     - Grapevine
+- id: doi:10.1101/2025.04.02.646807
+  type: preprint
+  tags:
+    - bioRxiv
+    - Zymoseptoria
+    - TEs
