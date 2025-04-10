@@ -3332,6 +3332,7 @@
   - Emile Gluck-Thaler
   - Adrian Forsythe
   - Charles Puerner
+  - Cecilia Gutierrez-Perez
   - Jason E. Stajich
   - Daniel Croll
   - Robert A. Cramer
@@ -3514,5 +3515,22 @@
   type: paper
   tags:
   - Grapevine
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.04.02.646807
+  title: Historic transposon mobilisation waves create distinct pools of adaptive
+    variants in a major crop pathogen
+  authors:
+  - Tobias J Baril
+  - Guido Puccetti
+  - Daniel Croll
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-08'
+  link: https://doi.org/g9d4zf
+  type: preprint
+  tags:
+  - bioRxiv
+  - Zymoseptoria
+  - TEs
   plugin: sources.py
   file: sources.yaml
