@@ -417,6 +417,7 @@
   type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1087184515000973-gr3.jpg
   tags:
+  - Fungicide resistance
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
@@ -1052,6 +1053,7 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41396-020-00859-w/MediaObjects/41396_2020_859_Fig1_HTML.png?as=webp
   tags:
   - Highlight
+  - Fungicide resistance
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
@@ -1209,6 +1211,7 @@
   type: paper
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/12/12/10.1093_gbe_evaa203/1/m_evaa203f1.jpeg?Expires=1686005015&Signature=DTWbX9gkAzBxcIhO8~lCL~Mbgl6FOoMj0OJ3uUvsgCHAejjU4vtRSW7tT9SLBi6kY8x1sckO6iFiba7J125SGmSEEfBDtY6bT7zBUTvIycYpnyveORz8vde8w9CP~PeR6gJFvKU8nq-AEWneZDLGANnuDFI-JgQcjg48esU1UWO8quigcX5iqp4a4--ZW6o7VYejVHE388JncylIOlD9vZgO3qruZvPn8x2dJ7GZ45z4-OK7c~BbxXr6KEf8-vHkUJSOLf94WrUONQt5QYCRqoL4fQV0vtTLzbtFD2BMgDg2HHvNQlL5srm2z3OAZVfNHt~VC-4S2oZ5Vg3OttgriQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
+  - Fungicide resistance
   - Parastagonospora
   plugin: sources.py
   file: sources.yaml
@@ -1797,6 +1800,7 @@
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/66adfc87-525c-4d81-b587-7616cd1a24ec/mec13916-fig-0001-m.png
   tags:
+  - Fungicide resistance
   - Rhychosporium
   plugin: sources.py
   file: sources.yaml
@@ -1851,6 +1855,7 @@
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/a313d124-c11f-49e0-bf9a-3c129be5fd5f/mec15737-fig-0001-m.png
   tags:
+  - Fungicide resistance
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
@@ -2182,6 +2187,7 @@
   type: paper
   image: https://journals.asm.org/cms/10.1128/AEM.01908-18/asset/b1da267b-b0b9-4bdb-a24d-dbcdd8c05abe/assets/graphic/aem.01908-18-f0002.jpeg
   tags:
+  - Fungicide resistance
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
@@ -2938,6 +2944,7 @@
   type: paper
   image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0281181.g001
   tags:
+  - Fungicide resistance
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
@@ -3364,7 +3371,7 @@
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2024/10/15/2024.10.12.618020/F3.large.jpg?width=800&height=600&carousel=1
   tags:
-  - bioRxiv
+  - Highlight
   - TEs
   - Zymoseptoria
   plugin: sources.py
@@ -3471,8 +3478,9 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2025/03/19/2025.03.19.644200/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - bioRxiv
-  - Zymoseptoria
+  - Highlight
   - Fungicide resistance
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/hr/uhaf069
@@ -3530,8 +3538,9 @@
   link: https://doi.org/g9d4zf
   type: preprint
   tags:
+  - Highlight
   - bioRxiv
-  - Zymoseptoria
   - TEs
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
