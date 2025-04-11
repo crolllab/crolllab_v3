@@ -9,6 +9,8 @@ We are at the University of Neuchâtel (Switzerland) and run the [Laboratory of 
 
 Check here for [news](/#news-from-the-lab) or our [blog](/blog).
 
+Interested in working with us? [Get in touch](/contact).
+
 {% include section.html %}
 
 
