@@ -9,6 +9,6 @@ nav:
 {% include search-box.html %}
 {% include search-info.html %}
 
-{% include tags.html tags="Highlight, bioRxiv, Review, TEs, Zymoseptoria, Microbiome, Mycorrhizal fungi, Wheat blast, Human pathogens, GMO detection, Conservation genomics" %}
+{% include tags.html tags="Highlight, bioRxiv, Review, Conservation genomics, Fungicide resistance, GMO detection, Human pathogens, Microbiome, Mycorrhizal fungi, TEs, Wheat blast, Zymoseptoria" %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
