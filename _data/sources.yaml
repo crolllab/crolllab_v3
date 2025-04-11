@@ -120,6 +120,7 @@
   type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1087184515000973-gr3.jpg
   tags: 
+    - Fungicide resistance
     - Zymoseptoria
 - id: doi:10.1016/j.fgb.2017.08.007
   type: paper
@@ -190,6 +191,7 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41396-020-00859-w/MediaObjects/41396_2020_859_Fig1_HTML.png?as=webp
   tags: 
     - Highlight
+    - Fungicide resistance
     - Zymoseptoria
 - id: doi:10.1038/s41396-020-0729-9
   type: paper
@@ -238,6 +240,7 @@
   type: paper
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/12/12/10.1093_gbe_evaa203/1/m_evaa203f1.jpeg?Expires=1686005015&Signature=DTWbX9gkAzBxcIhO8~lCL~Mbgl6FOoMj0OJ3uUvsgCHAejjU4vtRSW7tT9SLBi6kY8x1sckO6iFiba7J125SGmSEEfBDtY6bT7zBUTvIycYpnyveORz8vde8w9CP~PeR6gJFvKU8nq-AEWneZDLGANnuDFI-JgQcjg48esU1UWO8quigcX5iqp4a4--ZW6o7VYejVHE388JncylIOlD9vZgO3qruZvPn8x2dJ7GZ45z4-OK7c~BbxXr6KEf8-vHkUJSOLf94WrUONQt5QYCRqoL4fQV0vtTLzbtFD2BMgDg2HHvNQlL5srm2z3OAZVfNHt~VC-4S2oZ5Vg3OttgriQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags: 
+    - Fungicide resistance
     - Parastagonospora
 - id: doi:10.1093/gbe/evs091
   type: paper
@@ -390,6 +393,7 @@
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/66adfc87-525c-4d81-b587-7616cd1a24ec/mec13916-fig-0001-m.png
   tags: 
+    - Fungicide resistance
     - Rhychosporium
 - id: doi:10.1111/mec.14585
   type: paper
@@ -405,6 +409,7 @@
   type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/a313d124-c11f-49e0-bf9a-3c129be5fd5f/mec15737-fig-0001-m.png
   tags: 
+    - Fungicide resistance
     - Zymoseptoria
 - id: doi:10.1111/mec.16386
   type: paper
@@ -492,6 +497,7 @@
   type: paper
   image: https://journals.asm.org/cms/10.1128/AEM.01908-18/asset/b1da267b-b0b9-4bdb-a24d-dbcdd8c05abe/assets/graphic/aem.01908-18-f0002.jpeg
   tags: 
+    - Fungicide resistance
     - Zymoseptoria
 - id: doi:10.1128/AEM.01974-08
   type: paper
@@ -684,6 +690,7 @@
   type: paper
   image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0281181.g001
   tags:
+    - Fungicide resistance
     - Zymoseptoria
 - id: doi:10.1101/2023.04.26.537486
   type: preprint
