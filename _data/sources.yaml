@@ -799,7 +799,7 @@
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2024/10/15/2024.10.12.618020/F3.large.jpg?width=800&height=600&carousel=1
   tags: 
-    - bioRxiv
+    - Highlight
     - TEs
     - Zymoseptoria
 - id: doi:10.1101/2024.10.15.618441
@@ -828,8 +828,9 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2025/03/19/2025.03.19.644200/F1.large.jpg?width=800&height=600&carousel=1
   tags:
     - bioRxiv
-    - Zymoseptoria
+    - Highlight
     - Fungicide resistance
+    - Zymoseptoria
 - id: doi:10.1093/hr/uhaf069
   type: paper
   image: 
@@ -842,6 +843,7 @@
 - id: doi:10.1101/2025.04.02.646807
   type: preprint
   tags:
+    - Highlight
     - bioRxiv
-    - Zymoseptoria
     - TEs
+    - Zymoseptoria
