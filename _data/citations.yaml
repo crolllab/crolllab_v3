@@ -3511,16 +3511,9 @@
   title: "Le Blanchier: red\xE9couverte d\u2019un ancien c\xE9page dans le vignoble\
     \ valaisan"
   authors:
-  - Jean-Laurent Spring
-  - "Jean-S\xE9bastien Reynard"
-  - Vivian Zufferey
-  - Thibaut Verdenal
-  - Gilles Bourdin
-  - "St\xE9phane Bieri"
-  - Daniel Croll
-  - Cristoph Carlen
-  publisher: Agroscope
-  date: '2024-01-01'
+  - Tamara Baumann
+  publisher: Agrarforschung Schweiz
+  date: '2024-07-24'
   link: https://doi.org/g87k93
   type: paper
   tags:
@@ -3538,6 +3531,7 @@
   date: '2025-04-08'
   link: https://doi.org/g9d4zf
   type: preprint
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/04/08/2025.04.02.646807/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - Highlight
   - bioRxiv
