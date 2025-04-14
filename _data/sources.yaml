@@ -833,7 +833,7 @@
     - bioRxiv
 - id: doi:10.1101/2025.03.19.644200
   type: preprint
-  image: ./images/pub_images/644200.jpg
+  image: ./images/pub_images/646807.png
   tags:
     - bioRxiv
     - Highlight
@@ -841,7 +841,7 @@
     - Zymoseptoria
 - id: doi:10.1093/hr/uhaf069
   type: paper
-  image: 
+  image: https://pathogen-genomics.org/images/pub_images/644200.png
   tags:
     - Grapevine
 - id: doi:10.34776/afs15-207
@@ -850,7 +850,7 @@
     - Grapevine
 - id: doi:10.1101/2025.04.02.646807
   type: preprint
-  image: images/pub_images/646807.jpg
+  image: images/pub_images/646807.png
   tags:
     - Highlight
     - bioRxiv
