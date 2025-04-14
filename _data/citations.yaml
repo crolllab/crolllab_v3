@@ -84,7 +84,7 @@
   date: '2025-01-11'
   link: https://doi.org/g8zkj3
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/09/28/2022.09.28.509846/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/mcae228.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1371/journal.ppat.1011801
@@ -3254,7 +3254,9 @@
   date: '2025-02-01'
   link: https://doi.org/g84jtj
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/03/30/2024.03.29.587348/F3.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/msaf026.png
+  tags:
+  - TEs
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.04.05.588363
@@ -3369,7 +3371,7 @@
   date: '2025-03-31'
   link: https://doi.org/g9d7r7
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/10/15/2024.10.12.618020/F3.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/1012983.png
   tags:
   - Highlight
   - TEs
@@ -3429,7 +3431,7 @@
   date: '2025-01-14'
   link: https://doi.org/g8ztm7
   type: preprint
-  image: https://www.biorxiv.org/content/biorxiv/early/2025/01/14/2025.01.10.632494/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/632494.png
   tags:
   - bioRxiv
   - Highlight
@@ -3453,7 +3455,7 @@
   date: '2025-01-25'
   link: https://doi.org/g825kr
   type: preprint
-  image: https://www.biorxiv.org/content/biorxiv/early/2025/01/25/2025.01.24.634825/F5.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/634825.png
   tags:
   - bioRxiv
   plugin: sources.py
@@ -3476,7 +3478,7 @@
   date: '2025-03-19'
   link: https://doi.org/g89hfq
   type: preprint
-  image: ./images/pub_images/646807.png
+  image: /images/pub_images/644200.png
   tags:
   - bioRxiv
   - Highlight
@@ -3502,7 +3504,7 @@
   date: '2025-03-06'
   link: https://doi.org/g87k92
   type: paper
-  image: https://pathogen-genomics.org/images/pub_images/644200.png
+  image: null
   tags:
   - Grapevine
   plugin: sources.py
