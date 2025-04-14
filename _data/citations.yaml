@@ -3432,6 +3432,7 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2025/01/14/2025.01.10.632494/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - bioRxiv
+  - Highlight
   - TEs
   plugin: sources.py
   file: sources.yaml
