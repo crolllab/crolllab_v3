@@ -6,14 +6,14 @@
     - Review
 - id: doi:10.1128/mbio.02840-23
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/03/29/2023.03.29.534750/F3.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/02840-23.png
   tags: 
     - Highlight
     - TEs
     - Zymoseptoria
 - id: doi:10.1038/s41467-024-46191-1
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/12/23/2022.12.23.521735/F2.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/s41467-024-46191-1.png
   tags: 
     - Highlight
     - Zymoseptoria
@@ -22,7 +22,7 @@
   image: /images/pub_images/mcae228.png
 - id: 10.1371/journal.ppat.1011801
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/05/17/2022.05.16.492091/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/1011801.png
   tags: 
     - Highlight
     - Zymoseptoria
@@ -715,7 +715,7 @@
     - Zymoseptoria
 - id: doi:10.1186/s12915-023-01763-3
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/07/16/2023.07.14.549109/F2.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/s12915-023-01763-3.png
   tags: 
     - Highlight
     - Zymoseptoria
@@ -733,7 +733,7 @@
     - Zymoseptoria
 - id: doi:10.1101/2023.07.17.549274
   type: preprint
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/07/18/2023.07.17.549274/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/549274.png
   tags: 
     - bioRxiv
     - Microbiome
@@ -756,7 +756,7 @@
   image: https://onlinelibrary.wiley.com/cms/asset/15900c87-021a-47e5-9673-ff3d573007ae/mec17242-fig-0001-m.jpg
 - id: doi:10.1093/nar/gkad1214
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/03/29/2023.03.29.534637/F5.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/gkad1214.png
   tags: 
     - Highlight
     - TEs
@@ -768,7 +768,7 @@
     - GMO detection
 - id: doi:10.1186/s13100-024-00312-1
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/10/23/2023.10.20.563377/F1.medium.gif
+  image: /images/pub_images/s13100-024-00312-1.png
   tags:
     - TEs
     - bioRxiv
@@ -845,7 +845,7 @@
     - Zymoseptoria
 - id: doi:10.1093/hr/uhaf069
   type: paper
-  image: 
+  image: /images/pub_images/uhaf069.png
   tags:
     - Grapevine
 - id: doi:10.34776/afs15-207
