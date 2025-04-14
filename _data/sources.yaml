@@ -19,7 +19,7 @@
     - Zymoseptoria
 - id: doi:10.1093/aob/mcae228
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/09/28/2022.09.28.509846/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/mcae228.png
 - id: 10.1371/journal.ppat.1011801
   type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2022/05/17/2022.05.16.492091/F1.large.jpg?width=800&height=600&carousel=1
@@ -779,7 +779,9 @@
     - Review
 - id: doi:10.1093/molbev/msaf026
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/03/30/2024.03.29.587348/F3.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/msaf026.png
+  tags: 
+    - TEs
 - id: doi:10.1101/2024.04.05.588363
   type: preprint
   image: https://www.biorxiv.org/content/biorxiv/early/2024/04/06/2024.04.05.588363/F1.large.jpg?width=800&height=600&carousel=1
@@ -804,7 +806,7 @@
     - TEs
 - id: doi:10.1371/journal.ppat.1012983
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/10/15/2024.10.12.618020/F3.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/1012983.png
   tags: 
     - Highlight
     - TEs
@@ -821,19 +823,21 @@
     - bioRxiv
 - id: doi:10.1101/2025.01.10.632494
   type: preprint
-  image: https://www.biorxiv.org/content/biorxiv/early/2025/01/14/2025.01.10.632494/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/632494.png
   tags: 
     - bioRxiv
     - Highlight
     - TEs
 - id: doi:10.1101/2025.01.24.634825
   type: preprint
-  image: https://www.biorxiv.org/content/biorxiv/early/2025/01/25/2025.01.24.634825/F5.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/634825.png
+  tags: 
+    - bioRxiv
   tags: 
     - bioRxiv
 - id: doi:10.1101/2025.03.19.644200
   type: preprint
-  image: ./images/pub_images/646807.png
+  image: /images/pub_images/644200.png 
   tags:
     - bioRxiv
     - Highlight
@@ -841,7 +845,7 @@
     - Zymoseptoria
 - id: doi:10.1093/hr/uhaf069
   type: paper
-  image: https://pathogen-genomics.org/images/pub_images/644200.png
+  image: 
   tags:
     - Grapevine
 - id: doi:10.34776/afs15-207
