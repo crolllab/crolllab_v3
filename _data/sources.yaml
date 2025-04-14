@@ -833,7 +833,7 @@
     - bioRxiv
 - id: doi:10.1101/2025.03.19.644200
   type: preprint
-  image: /images/pub_images/644200.jpg
+  image: ./images/pub_images/644200.jpg
   tags:
     - bioRxiv
     - Highlight
@@ -850,7 +850,7 @@
     - Grapevine
 - id: doi:10.1101/2025.04.02.646807
   type: preprint
-  image: /images/pub_images/646807.jpg
+  image: images/pub_images/646807.jpg
   tags:
     - Highlight
     - bioRxiv
