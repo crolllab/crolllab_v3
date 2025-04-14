@@ -36,7 +36,7 @@
   date: '2024-03-13'
   link: https://doi.org/gthrz7
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/03/29/2023.03.29.534750/F3.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/02840-23.png
   tags:
   - Highlight
   - TEs
@@ -64,7 +64,7 @@
   date: '2024-03-02'
   link: https://doi.org/gtkmnr
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/12/23/2022.12.23.521735/F2.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/s41467-024-46191-1.png
   tags:
   - Highlight
   - Zymoseptoria
@@ -98,7 +98,7 @@
   date: '2023-11-16'
   link: https://doi.org/gs48q2
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/05/17/2022.05.16.492091/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/1011801.png
   tags:
   - Highlight
   - Zymoseptoria
@@ -3056,7 +3056,7 @@
   date: '2023-11-20'
   link: https://doi.org/gs535q
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/07/16/2023.07.14.549109/F2.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/s12915-023-01763-3.png
   tags:
   - Highlight
   - Zymoseptoria
@@ -3108,7 +3108,7 @@
   date: '2023-07-17'
   link: https://doi.org/gsg8p5
   type: preprint
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/07/18/2023.07.17.549274/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/549274.png
   tags:
   - bioRxiv
   - Microbiome
@@ -3177,7 +3177,7 @@
   date: '2023-12-24'
   link: https://doi.org/gs9bdz
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/03/29/2023.03.29.534637/F5.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/gkad1214.png
   tags:
   - Highlight
   - TEs
@@ -3213,7 +3213,7 @@
   date: '2024-01-20'
   link: https://doi.org/gtfz7k
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/10/23/2023.10.20.563377/F1.medium.gif
+  image: /images/pub_images/s13100-024-00312-1.png
   tags:
   - TEs
   - bioRxiv
@@ -3504,7 +3504,7 @@
   date: '2025-03-06'
   link: https://doi.org/g87k92
   type: paper
-  image: null
+  image: /images/pub_images/uhaf069.png
   tags:
   - Grapevine
   plugin: sources.py
