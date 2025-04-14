@@ -3476,7 +3476,7 @@
   date: '2025-03-19'
   link: https://doi.org/g89hfq
   type: preprint
-  image: /images/pub_images/644200.jpg
+  image: ./images/pub_images/644200.jpg
   tags:
   - bioRxiv
   - Highlight
@@ -3538,7 +3538,7 @@
   date: '2025-04-08'
   link: https://doi.org/g9d4zf
   type: preprint
-  image: /images/pub_images/646807.jpg
+  image: images/pub_images/646807.jpg
   tags:
   - Highlight
   - bioRxiv
