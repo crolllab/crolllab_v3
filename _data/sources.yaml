@@ -740,7 +740,7 @@
     - Zymoseptoria
 - id: doi:10.1038/s41467-024-49913-7
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/09/24/2023.09.22.559077/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/s41467-024-49913-7.png
   tags: 
     - Highlight
     - TEs
@@ -763,7 +763,7 @@
     - Zymoseptoria
 - id: doi:10.1016/j.foodcont.2024.110670
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/12/23/2023.12.22.573157/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/110670.png
   tags: 
     - GMO detection
 - id: doi:10.1186/s13100-024-00312-1
@@ -795,7 +795,7 @@
     - Conservation genomics
 - id: doi:10.1093/molbev/msae197
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/07/04/2024.07.02.601708/F3.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/msae197.png
   tags: 
     - TEs
 - id: doi:10.1101/2024.06.28.601215
@@ -813,7 +813,7 @@
     - Zymoseptoria
 - id: doi:10.1101/2024.10.15.618441
   type: preprint
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/10/18/2024.10.15.618441/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/618441.png
   tags: 
     - bioRxiv
 - id: doi:10.1101/2024.11.15.623740
