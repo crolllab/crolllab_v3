@@ -1604,7 +1604,7 @@
   date: '2020-09-24'
   link: https://doi.org/gr6p2h
   type: paper
-  image: https://onlinelibrary.wiley.com/cms/asset/f558e573-a077-4534-949d-3d48950ced1c/eva13117-fig-0002-m.jpg
+  image: /images/pub_images/eva.13117.png
   tags:
   - Zymoseptoria
   plugin: sources.py
