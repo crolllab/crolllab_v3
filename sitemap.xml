@@ -28,6 +28,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://pathogen-genomics.org/jobs/</loc>
+  <lastmod>2023-06-03T22:12:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://pathogen-genomics.org/blog/</loc>
   <lastmod>2023-06-03T22:12:21+00:00</lastmod>
   <priority>0.80</priority>
