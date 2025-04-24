@@ -7,7 +7,7 @@ The lab of Daniel Croll wants to understand how pathogens evolve to cause diseas
 
 We are at the University of Neuchâtel (Switzerland) and run the [Laboratory of Evolutionary Genetics](https://www.unine.ch/lab-evol-gen/)
 
-Check here for [news](/#news-from-the-lab) or our [blog](/blog). Interested in working with us? [Get in touch](/contact).
+Check here for [news](/#news-from-the-lab) or our [blog](/blog). Interested in working with us? Please check out our [openings](/jobs) or [get in touch](/contact).
 
 {% include section.html %}
 
