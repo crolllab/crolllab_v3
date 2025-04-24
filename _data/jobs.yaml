@@ -1,9 +1,45 @@
 - title: Postdoc - Evolution of cross-kingdom RNA crosstalk
   subtitle: 
   group: featured
+  image: images/ads/sRNA.png
+  link: pdf/Postdoc_ad_Croll_UNINE_sRNA.pdf
+  description: Crop pathogens threaten global food security.
+  repo: 
+  tags:
+    - postdoc
+- title: Postdoc - Evolution of cross-kingdom RNA crosstalk
+  subtitle: 
+  group: featured
   image: images/research_1.png
   link: pdf/Postdoc_ad_Croll_UNINE_sRNA.pdf
   description: Crop pathogens threaten global food security, with small RNAs (sRNAs) playing key roles in some host-pathogen interactions. This project focuses on Botrytis cinerea and will attempt to recapitulate small RNA evolution. The tasks include contributing to a high-quality pangenome with an emphasis on transposable elements, compare sRNA expression across environments and hosts to comprehensively capture sRNA production and locus structure. The project will also include the application of deep learning to identify common properties and evolutionary trajectories of sRNA.
+  repo: 
+  tags:
+    - postdoc
+- title: Postdoc - Deep learning for evolutionary genomics
+  subtitle: 
+  group: featured
+  image: images/research_1.png
+  link: pdf/Postdoc_ad_Croll_UNINE_Deep.pdf
+  description: This postdoctoral position will have the task to implement deep learning models to advance our understanding of evolutionary processes across different scales. The exact set of projects will have some flexibility but should include the analyses of artificial and natural introgression events into a species’ gene pool. Further developments could include the application of DNA language models to the evolution of transposable elements; the emergence of pathogenic lifestyles in fungi and the evolution of genome structure.
+  repo: 
+  tags:
+    - postdoc
+- title: Postdoc - Beetle-fungus co-invasion genomics 
+  subtitle: 
+  group: featured
+  image: images/research_1.png
+  link: pdf/Postdoc_ad_Croll_UNINE_Ambrosia.pdf
+  description: Biological invasions, the large-scale and often human-assisted translocation of species beyond their natural distribution, are a significant driver of worldwide biodiversity declines. We will focus on unravelling the global co-invasion histories of multiple ambrosia beetles and their mutualistic ambrosia fungi, which pose serious threats to tree health. The key tasks will include the generation and analyses of joint beetle-symbiont genomic datasets, reference genome assemblies and population genomic analyses. Investigations will focus on global bridgehead and diversity hotspots as well as predicting future trajectories of the ongoing invasion. The role of symbiont mismatches and deleterious effects at invasion fronts will also be of great interest.
+  repo: 
+  tags:
+    - postdoc
+- title: Postdoc - Fungal population genomics
+  subtitle: 
+  group: featured
+  image: images/research_1.png
+  link: pdf/Postdoc_ad_Croll_UNINE_FungalGenomics.pdf
+  description: Fungi show extraordinary speeds of adaptation to new environments and hosts. This postdoc project will investigate important plant-pathogen interactions to assess fundamental properties of their evolution. One key focus will be on the invasive water hyacinths plants threatening aquatic ecosystems in Europe and Asia. In an international collaboration, we will obtain a large set of paired samples of water hyacinths and relevant fungal pathogens to understand global co-invasion dynamics. A second focus will be co-domestication processes of major fungal pathogens of wheat and retracing their evolutionary origins. For this, we will analyze newly generated genomic datasets investigating key features linked to their emergence.
   repo: 
   tags:
     - postdoc
