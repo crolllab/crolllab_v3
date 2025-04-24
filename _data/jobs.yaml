@@ -1,4 +1,12 @@
-- title: Postdoc - Evolution of cross-kingdom RNA crosstalk
+- title: The genetic basis of crop pathogen emergence
+  subtitle: 
+  group: featured
+  image: images/research_1.png
+  link:
+  description: Our main model is a worldwide pathogen of wheat called Zymoseptoria tritici, which causes the most economically damaging foliar disease in Europe. The pathogen has overcome most resistance of the host and all currently available fungicides. Genomes of this pathogen show an extraordinary level of sequence and chromosomal polymorphism unlike many other pathogens. One of our major aims is to understand how major adaptive traits evolved. For this, we perform genome-wide association studies (GWAS) to map phenotypic traits to individual loci in the genome. We focus in particular on different components of pathogenicity but are also interested in stress tolerance against fungicides, temperature and conditions experienced during infection (low pH, oxidative stress). To understand the process of adaptive evolution, we analyse major effect loci for signatures of selection and sequence rearrangements.
+  repo: 
+  tags:
+- title: Evolution of cross-kingdom RNA crosstalk
   subtitle: 
   group: featured
   image: images/ads/sRNA.png
@@ -6,7 +14,7 @@
   description: Crop pathogens threaten global food security.
   repo: 
   tags:
-    - postdoc
+    - Postdoc
 - title: Postdoc - Evolution of cross-kingdom RNA crosstalk
   subtitle: 
   group: featured
