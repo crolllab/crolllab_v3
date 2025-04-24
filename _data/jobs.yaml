@@ -3,7 +3,7 @@
   group: featured
   image: images/ads/sRNA.png
   link: 
-  description: Crop pathogens threaten global food security, with small RNAs (sRNAs) playing key roles in some host-pathogen interactions. This project focuses on Botrytis cinerea and will attempt to recapitulate small RNA evolution. The tasks include contributing to a high-quality pangenome with an emphasis on transposable elements, compare sRNA expression across environments and hosts to comprehensively capture sRNA production and locus structure. The project will also include the application of deep learning to identify common properties and evolutionary trajectories of sRNA. [Link to job ad](pdf/Postdoc_ad_Croll_UNINE_sRNA.pdf)[
+  description: Crop pathogens threaten global food security, with small RNAs (sRNAs) playing key roles in some host-pathogen interactions. This project focuses on Botrytis cinerea and will attempt to recapitulate small RNA evolution. The tasks include contributing to a high-quality pangenome with an emphasis on transposable elements, compare sRNA expression across environments and hosts to comprehensively capture sRNA production and locus structure. The project will also include the application of deep learning to identify common properties and evolutionary trajectories of sRNA. <a href="pdf/Postdoc_ad_Croll_UNINE_sRNA.pdf">Link to job ad</a>
   repo: 
   tags:
     - Postdoc
@@ -14,7 +14,7 @@
   image: images/ads/deep.png
   link: pdf/Postdoc_ad_Croll_UNINE_Deep.pdf
   description: This postdoctoral position will have the task to implement deep learning models to advance our understanding of evolutionary processes across different scales. The exact set of projects will have some flexibility but should include the analyses of artificial and natural introgression events into a species’ gene pool. Further developments could include the application of DNA language models to the evolution of transposable elements; the emergence of pathogenic lifestyles in fungi and the evolution of genome structure.
-  repo: 
+  repo: pdf/Postdoc_ad_Croll_UNINE_sRNA.pdf
   tags:
     - Postdoc
     - Open
