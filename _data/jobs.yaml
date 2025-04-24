@@ -1,8 +1,9 @@
-- title: Population genomics of fungi
+- title: Postdoc - Evolution of cross-kingdom RNA crosstalk
   subtitle: 
   group: featured
   image: images/research_1.png
-  link:
-  description: New postdoc position (under construction)
+  link: pdf/Postdoc_ad_Croll_UNINE_sRNA.pdf
+  description: Crop pathogens threaten global food security, with small RNAs (sRNAs) playing key roles in some host-pathogen interactions. This project focuses on Botrytis cinerea and will attempt to recapitulate small RNA evolution. The tasks include contributing to a high-quality pangenome with an emphasis on transposable elements, compare sRNA expression across environments and hosts to comprehensively capture sRNA production and locus structure. The project will also include the application of deep learning to identify common properties and evolutionary trajectories of sRNA.
   repo: 
   tags:
+    - postdoc
