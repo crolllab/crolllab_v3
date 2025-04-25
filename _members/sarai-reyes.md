@@ -1,5 +1,5 @@
 ---
-name: Claudia Sarai Reyes-Avila
+name: C. Sarai Reyes-Avila
 description: BRIDGE postdoc
 image: images/sarai.jpg
 group: current
