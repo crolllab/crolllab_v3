@@ -1,7 +1,7 @@
 ---
 name: Cecilia Panzetti
 description: PhD student
-image: images/default.jpg
+image: images/cecilia.jpg
 group: current
 role: phd
 aliases:
