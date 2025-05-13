@@ -3335,7 +3335,7 @@
   - TEs
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.06.28.601215
+- id: doi:10.1128/mbio.01092-25
   title: Giant transposons promote strain heterogeneity in a major fungal pathogen
   authors:
   - Emile Gluck-Thaler
@@ -3346,13 +3346,13 @@
   - Daniel Croll
   - Robert A. Cramer
   - Aaron A. Vogan
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-06-28'
-  link: https://doi.org/gt26zt
-  type: preprint
+  publisher: mBio
+  date: '2025-05-12'
+  link: https://doi.org/g9h9mp
+  type: paper
   image: /images/pub_images/601215.png
   tags:
-  - bioRxiv
+  - Human pathogens
   - TEs
   plugin: sources.py
   file: sources.yaml
@@ -3547,5 +3547,24 @@
   - bioRxiv
   - TEs
   - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.05.07.652763
+  title: Corn rust population genomics reveals a cryptic virulent group and adaptive
+    effectorome
+  authors:
+  - Yuanjie Li
+  - Peng Zhao
+  - Xiufeng Liu
+  - Clement K.M. Tsui
+  - Daniel Croll
+  - junmin Liang
+  - Lei Cai
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-05-12'
+  link: https://doi.org/g9h9mm
+  type: preprint
+  tags:
+  - bioRxiv
   plugin: sources.py
   file: sources.yaml
