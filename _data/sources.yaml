@@ -798,11 +798,11 @@
   image: /images/pub_images/msae197.png
   tags: 
     - TEs
-- id: doi:10.1101/2024.06.28.601215
-  type: preprint
+- id: doi:10.1101/10.1128/mbio.01092-25
+  type: paper
   image: /images/pub_images/601215.png
   tags: 
-    - bioRxiv
+    - Human pathogens
     - TEs
 - id: doi:10.1371/journal.ppat.1012983
   type: paper
@@ -861,3 +861,7 @@
     - bioRxiv
     - TEs
     - Zymoseptoria
+- id: doi:10.1101/2025.05.07.652763
+  type: preprint
+  tags:
+    - bioRxiv
