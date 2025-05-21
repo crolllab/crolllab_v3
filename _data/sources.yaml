@@ -811,11 +811,11 @@
     - Highlight
     - TEs
     - Zymoseptoria
-- id: doi:10.1101/2024.10.15.618441
-  type: preprint
+- id: doi:10.1111/ppa.14111
+  type: paper
   image: /images/pub_images/618441.png
   tags: 
-    - bioRxiv
+    - Rhynchosporium
 - id: doi:10.1101/2024.11.15.623740
   type: preprint
   image: /images/pub_images/623740.png
