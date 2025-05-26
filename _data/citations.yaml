@@ -3378,28 +3378,29 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.10.15.618441
-  title: Revisiting the evolution and function of NIP2 parologs in the<i>Rhynchosporium
-    spp.</i>complex
+- id: doi:10.1111/ppa.14111
+  title: Revisiting the Evolution and Function of NIP2 Paralogues in the <i>Rhynchosporium</i>
+    Spp. Complex
   authors:
   - Reynaldi Darma
   - Daniel S. Yu
   - Megan A. Outram
-  - Yi-Chang Sung
+  - Ben Ovenden
+  - "Yi\u2010Chang Sung"
   - Erin H. Hill
   - Daniel Croll
   - Simon J. Williams
-  - Ben Ovenden
+  - Xuechen Zhang
   - Andrew Milgate
   - Peter S. Solomon
   - Megan C. McDonald
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-10-18'
-  link: https://doi.org/g8mp5s
-  type: preprint
+  publisher: Plant Pathology
+  date: '2025-05-19'
+  link: https://doi.org/g9kwk8
+  type: paper
   image: /images/pub_images/618441.png
   tags:
-  - bioRxiv
+  - Rhynchosporium
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.11.15.623740
@@ -3558,7 +3559,7 @@
   - Xiufeng Liu
   - Clement K.M. Tsui
   - Daniel Croll
-  - junmin Liang
+  - Junmin Liang
   - Lei Cai
   publisher: Cold Spring Harbor Laboratory
   date: '2025-05-12'
