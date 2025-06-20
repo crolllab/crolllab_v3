@@ -782,11 +782,11 @@
   image: /images/pub_images/msaf026.png
   tags: 
     - TEs
-- id: doi:10.1101/2024.04.05.588363
-  type: preprint
+- id: doi:10.1128/aem.00782-25
+  type: paper
   image: /images/pub_images/588363.png
   tags: 
-    - bioRxiv
+    - Grapevine
     - Microbiome
 - id: doi:10.1101/2024.06.24.599926
   type: preprint
