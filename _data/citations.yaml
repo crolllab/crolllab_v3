@@ -1893,7 +1893,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mmi.13894
-  title: Acetate provokes mitochondrial stress and cell death in <i>Ustilago maydis</i>
+  title: Acetate provokes mitochondrial stress and cell death in<i>Ustilago maydis</i>
   authors:
   - Matthias Kretschmer
   - Scott Lambie
@@ -2865,8 +2865,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3767/persoonia.2021.46.04
-  title: Genome-scale phylogenies reveal relationships among Parastagonospora species
-    infecting domesticated and wild grasses
+  title: Genome-scale phylogenies reveal relationships among <i>Parastagonospora</i>
+    species infecting domesticated and wild grasses
   authors:
   - D. Croll
   - P.W. Crous
@@ -2875,7 +2875,7 @@
   - B.A. McDonald
   - P.C. Brunner
   publisher: Persoonia - Molecular Phylogeny and Evolution of Fungi
-  date: '2021-01-01'
+  date: '2021-06-30'
   link: https://doi.org/gr6snw
   type: paper
   image: https://pathogen-genomics.org/images/pubs/croll_2021.png
@@ -3259,9 +3259,9 @@
   - TEs
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.04.05.588363
+- id: doi:10.1128/aem.00782-25
   title: Landscape-scale endophytic community analyses in replicated grapevine stands
-    reveal that dieback disease is not caused by specific fungal communities
+    reveal that dieback disease is unlikely to be caused by specific fungal communities
   authors:
   - Vinciane Monod
   - "Val\xE9rie Hofstetter"
@@ -3269,13 +3269,13 @@
   - Vivian Zufferey
   - Katia Gindro
   - Daniel Croll
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-04-06'
-  link: https://doi.org/gtqkcc
-  type: preprint
+  publisher: Applied and Environmental Microbiology
+  date: '2025-06-20'
+  link: https://doi.org/g9q3h4
+  type: paper
   image: /images/pub_images/588363.png
   tags:
-  - bioRxiv
+  - Grapevine
   - Microbiome
   plugin: sources.py
   file: sources.yaml
@@ -3585,5 +3585,28 @@
   - bioRxiv
   - TEs
   - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.06.25.661478
+  title: A new molecular seed assay to predict<i>Ustilago nuda</i>field infection
+    levels
+  authors:
+  - Cecilia Panzetti
+  - Eveline Jenny
+  - "Irene B\xE4nziger"
+  - "Andreas K\xE4gi"
+  - Susanne Vogelgsang
+  - Thomas Hebeisen
+  - "Peter B\xFCttner"
+  - Daniel Croll
+  - Franco Widmer
+  - Karen E. Sullam
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-27'
+  link: https://doi.org/g9rsr4
+  type: preprint
+  image: /images/pub_images/661478.png
+  tags:
+  - bioRxiv
   plugin: sources.py
   file: sources.yaml
