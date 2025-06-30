@@ -873,3 +873,8 @@
     - bioRxiv
     - TEs
     - Zymoseptoria
+- id: doi:10.1101/2025.06.25.661478
+  type: preprint
+  image: /images/pub_images/661478.png
+  tags:
+    - bioRxiv
