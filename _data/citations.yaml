@@ -3570,23 +3570,6 @@
   - bioRxiv
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.05.23.655716
-  title: Transposable elements create distinct genomic niches for effector evolution
-    among<i>Magnaporthe oryzae</i>lineages
-  authors:
-  - Ana Margarida Sampaio
-  - Daniel Croll
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-05-23'
-  link: https://doi.org/g9mb98
-  type: preprint
-  image: /images/pub_images/655716.png
-  tags:
-  - bioRxiv
-  - TEs
-  - Zymoseptoria
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1101/2025.06.25.661478
   title: A new molecular seed assay to predict<i>Ustilago nuda</i>field infection
     levels
@@ -3608,5 +3591,22 @@
   image: /images/pub_images/661478.png
   tags:
   - bioRxiv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.05.23.655716
+  title: Transposable elements create distinct genomic niches for effector evolution
+    among<i>Magnaporthe oryzae</i>lineages
+  authors:
+  - Ana Margarida Sampaio
+  - Daniel Croll
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-05-23'
+  link: https://doi.org/g9mb98
+  type: preprint
+  image: /images/pub_images/655716.png
+  tags:
+  - bioRxiv
+  - TEs
+  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
