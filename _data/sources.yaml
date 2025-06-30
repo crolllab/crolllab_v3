@@ -866,6 +866,11 @@
   image: /images/pub_images/652763.png
   tags:
     - bioRxiv
+- id: doi:10.1101/2025.06.25.661478
+  type: preprint
+  image: /images/pub_images/661478.png
+  tags:
+    - bioRxiv
 - id: doi:10.1101/2025.05.23.655716
   type: preprint
   image: /images/pub_images/655716.png
@@ -873,8 +878,3 @@
     - bioRxiv
     - TEs
     - Zymoseptoria
-- id: doi:10.1101/2025.06.25.661478
-  type: preprint
-  image: /images/pub_images/661478.png
-  tags:
-    - bioRxiv
