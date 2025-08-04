@@ -3270,7 +3270,7 @@
   - Katia Gindro
   - Daniel Croll
   publisher: Applied and Environmental Microbiology
-  date: '2025-06-20'
+  date: '2025-07-23'
   link: https://doi.org/g9q3h4
   type: paper
   image: /images/pub_images/588363.png
@@ -3423,8 +3423,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.01.10.632494
-  title: A systematic screen for genetic factors underpinning transposon defense systems
-    across the fungal kingdom
+  title: Phylogenomic signatures of repeat-induced point mutations across the fungal
+    kingdom
   authors:
   - Thomas Badet
   - Daniel Croll
@@ -3440,17 +3440,18 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.01.24.634825
-  title: Wheat infection by<i>Fusarium graminearum</i>species complex members is facilitated
-    by a transcriptionally conserved non-ribosomal peptide synthetase gene cluster
+  title: Wheat infection by <i>Fusarium graminearum</i> species complex members is
+    facilitated by a transcriptionally conserved non-ribosomal peptide synthetase
+    gene cluster
   authors:
   - Sabina Moser Tralamazza
   - Mikkel Rank Nielsen
   - Leen Nanchira Abraham
-  - Anna K. Atanasoff-Kardjalieff
+  - Anna K Atanasoff-Kardjalieff
   - Gaetan Glauser
-  - "Jens Laurids S\xF8rensen"
+  - Jens Laurids Sorensen
   - Lena Studt-Reinhold
-  - "Benedito Corr\xEAa"
+  - Benedito Correa
   - Daniel Croll
   publisher: Cold Spring Harbor Laboratory
   date: '2025-01-25'
@@ -3595,7 +3596,7 @@
   file: sources.yaml
 - id: doi:10.1101/2025.05.23.655716
   title: Transposable elements create distinct genomic niches for effector evolution
-    among<i>Magnaporthe oryzae</i>lineages
+    among <i>Magnaporthe oryzae</i> lineages
   authors:
   - Ana Margarida Sampaio
   - Daniel Croll
