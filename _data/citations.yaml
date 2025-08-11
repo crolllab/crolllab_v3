@@ -3280,7 +3280,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.06.24.599926
-  title: A highly contiguous reference genome for the Alpine ibex (<i>Capra ibex</i>)
+  title: Hybridization load introduced by Alpine ibex hybrid swarms
   authors:
   - "F. G\xF6zde \xC7ilingir"
   - Fabio Landuzzi
