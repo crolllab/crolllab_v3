@@ -878,7 +878,17 @@
     - bioRxiv
     - TEs
     - Zymoseptoria
-#- id: doi:10.1111/nph.70395
-#  type: paper
-#  tags:
-#    - Mycorrhizal fungi
+- id: doi:10.1111/nph.70395
+  type: paper
+  tags:
+    - Mycorrhizal fungi
+- id: doi:10.1016/j.tim.2025.07.006
+  type: review
+  tags:
+    - Highlight
+    - TEs
+- id: doi:10.1101/2025.07.18.665620
+  type: preprint
+  tags:
+    - bioRxiv
+    - Zymoseptoria
