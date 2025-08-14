@@ -2,11 +2,11 @@
 name: Suhani Bhattacharyya
 description: BSc-MSc student
 image: images/default.jpg
-group: current
+group: alumni
 role: undergrad
 aliases:
 links:
   email: suhani.bhattacharyya@unine.ch
 ---
 
-Suhani is on an internship in our lab as part of her BSc-MSc program. She is interested in epigenetic modifications in plant pathogens and will analyze ChIP-seq data from the lab.
+Suhani from the Indian Institute of Science Education and Research (IISER) in Pune, India, was on an internship in our lab May-July 2025 as part of her BSc-MSc program. She is interested in epigenetic modifications in plant pathogens and analyzed ChIP-seq data from the lab.

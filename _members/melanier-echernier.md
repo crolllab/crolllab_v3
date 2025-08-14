@@ -1,15 +1,15 @@
 ---
 name: Mélanie Echernier
-description: Visitor
+description: PhD student
 image: images/default.jpg
-group: alumni
-role: undergrad
+group: current
+role: phd
 aliases:
 links:
-  email: z92roloa@uco.es
-  home-page: https://www.uco.es/FusariumLab/component/content/article/23-team/group-members/191-ana-rodriguez-lopez?Itemid=107
-  orcid: 0000-0002-1931-5083
+  email: melanie.echernier@unine.ch
 ---
 
-Mélanie joined us in summer 2024 from the Université Clermont Auvergne for a MSc internship research project. She's excited about Zymoseptoria tritici and the evolution of fungicide resistance. 
+Mélanie started her PhD in September 2025.
+
+Mélanie joined us previously in summer 2024 from the Université Clermont Auvergne for a MSc internship research project to work on _Zymoseptoria tritici_ and the evolution of fungicide resistance. 
 ```
