@@ -3611,6 +3611,29 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1111/nph.70395
+  title: Genetic variation among progeny shapes symbiosis in a basidiomycete with
+    poplar
+  authors:
+  - Benjamin Dauphin
+  - "Ma\xEDra de Freitas Pereira"
+  - Daniel Croll
+  - "Thalita Cardoso Anast\xE1cio"
+  - Laure Fauchery
+  - "Fr\xE9d\xE9ric Guinet"
+  - "Maur\xEDcio Dutra Costa"
+  - Francis Martin
+  - Martina Peter
+  - Annegret Kohler
+  publisher: New Phytologist
+  date: '2025-08-07'
+  link: https://doi.org/g9w6pt
+  image: /images/pub_images/70395.png
+  type: paper
+  tags:
+  - Mycorrhizal fungi
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.tim.2025.07.006
   title: 'Hypermutator fungal pathogens: from threat to meltdown'
   authors:
