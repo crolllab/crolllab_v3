@@ -895,5 +895,11 @@
   tags:
     - bioRxiv
     - Zymoseptoria
+- id: doi:10.1101/2025.08.13.670038
+  type: preprint
+  image: /images/pub_images/670038.png
+  tags:
+    - bioRxiv
+    - TEs
 #- id: update BMC BIOLOGY
-#- id: add Sami's bioRxiv
+#- id: add Mycorrhiza pub
