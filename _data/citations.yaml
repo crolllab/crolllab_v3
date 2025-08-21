@@ -3671,3 +3671,25 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2025.08.13.670038
+  title: Massive proliferation of retrotransposons contributes to genome size expansion
+    in species of the <i>Pseudocercospora</i> genus
+  authors:
+  - "Sandra-Milena Gonz\xE1lez S\xE1yer"
+  - Ibonne A Garcia
+  - "Cristian A Traslavi\xF1a"
+  - Alex Z Zaccaron
+  - Ioannis Stergiopoulos
+  - Fabio A Aristizabal
+  - Ursula Oggenfuss
+  - Daniel Croll
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-08-15'
+  link: https://doi.org/g9xrnz
+  type: preprint
+  image: /images/pub_images/670038.png
+  tags:
+  - bioRxiv
+  - TEs
+  plugin: sources.py
+  file: sources.yaml
