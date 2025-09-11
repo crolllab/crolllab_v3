@@ -3693,3 +3693,21 @@
   - TEs
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2025.09.05.674409
+  title: High-resolution microbial network analysis defines biocontrol consortia in
+    the wheat phyllosphere
+  authors:
+  - Luzia Stalder
+  - Anna Spescha
+  - Monika Maurhofer
+  - Daniel Croll
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-09-05'
+  link: https://doi.org/g93ch2
+  type: preprint
+  image: /images/pub_images/674409.png
+  tags:
+  - bioRxiv
+  - Microbiome
+  plugin: sources.py
+  file: sources.yaml
