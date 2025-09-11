@@ -901,5 +901,16 @@
   tags:
     - bioRxiv
     - TEs
+- id: doi:10.1101/2025.09.05.674409
+  type: preprint
+  image: /images/pub_images/674409.png
+  tags:
+    - bioRxiv
+    - Microbiome
+
+
+
 #- id: update BMC BIOLOGY
+#- id: update Microbiome
+#- id: update Scientific Reports
 #- id: add Mycorrhiza pub
