@@ -3711,3 +3711,22 @@
   - Microbiome
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2025.09.19.677456
+  title: Intra-population variability in genome-wide repressive histone marks underpins
+    differential gene expression in a fungal wheat pathogen
+  authors:
+  - Leen Nanchira Abraham
+  - Ana Margarida Sampaio
+  - Suhani Bhattacharyya
+  - Sabina Moser Tralamazza
+  - Daniel Croll
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-09-21'
+  link: https://doi.org/g94bkt
+  type: preprint
+  image: /images/pub_images/677456.png
+  tags:
+  - bioRxiv
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
