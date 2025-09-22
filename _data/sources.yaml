@@ -907,7 +907,12 @@
   tags:
     - bioRxiv
     - Microbiome
-
+- id: doi:10.1101/2025.09.19.677456
+  type: preprint
+  image: /images/pub_images/677456.png
+  tags:
+    - bioRxiv
+    - Zymoseptoria
 
 
 #- id: update BMC BIOLOGY
