@@ -692,11 +692,10 @@
   tags:
     - Fungicide resistance
     - Zymoseptoria
-- id: doi:10.1101/2023.04.26.537486
-  type: preprint
+- id: doi:10.1094/MPMI-07-25-0077-TA
+  type: paper
   image: /images/pub_images/537486.png
   tags: 
-    - bioRxiv
     - Zymoseptoria
 - id: doi:10.1371/journal.ppat.1011376
   type: paper
