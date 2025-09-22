@@ -2948,9 +2948,9 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.04.26.537486
-  title: Improved gene annotation of the fungal wheat pathogen<i>Zymoseptoria tritici</i>based
-    on combined Iso-Seq and RNA-Seq evidence
+- id: doi:10.1094/MPMI-07-25-0077-TA
+  title: Improved Gene Annotation of the Fungal Wheat Pathogen <i>Zymoseptoria tritici</i>
+    Based on Combined Iso-Seq and RNA-Seq Evidence
   authors:
   - Nicolas Lapalu
   - Lucie Lamothe
@@ -2962,11 +2962,11 @@
   - Dan Smith
   - Robert King
   - Alison Renwick
-  - "M\xE9lanie Appertet"
+  - Melanie Appertet
   - Justine Sucher
   - Andrei S. Steindorff
   - Stephen B. Goodwin
-  - Gert H.J. Kema
+  - Gert H. J. Kema
   - Igor V. Grigoriev
   - James Hane
   - Jason Rudd
@@ -2974,13 +2974,12 @@
   - Daniel Croll
   - Gabriel Scalliet
   - Marc-Henri Lebrun
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-04-28'
-  link: https://doi.org/gr6zf8
-  type: preprint
+  publisher: "Molecular Plant-Microbe Interactions\xAE"
+  date: '2025-09-19'
+  link: https://doi.org/g94dw2
+  type: paper
   image: /images/pub_images/537486.png
   tags:
-  - bioRxiv
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
