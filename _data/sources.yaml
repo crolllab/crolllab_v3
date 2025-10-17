@@ -820,11 +820,10 @@
   image: /images/pub_images/623740.png
   tags: 
     - bioRxiv
-- id: doi:10.1101/2025.01.10.632494
-  type: preprint
+- id: doi:10.1371/journal.pbio.3003433
+  type: paper
   image: /images/pub_images/632494.png
   tags: 
-    - bioRxiv
     - Highlight
     - TEs
 - id: doi:10.1101/2025.01.24.634825
@@ -865,18 +864,9 @@
   image: /images/pub_images/652763.png
   tags:
     - bioRxiv
-- id: doi:10.1101/2025.06.25.661478
-  type: preprint
+- id: doi:10.1038/s41598-025-18544-3
+  type: paper
   image: /images/pub_images/661478.png
-  tags:
-    - bioRxiv
-- id: doi:10.1101/2025.05.23.655716
-  type: preprint
-  image: /images/pub_images/655716.png
-  tags:
-    - bioRxiv
-    - TEs
-    - Zymoseptoria
 - id: doi:10.1111/nph.70395
   image: /images/pub_images/70395.png
   type: paper
@@ -912,9 +902,18 @@
   tags:
     - bioRxiv
     - Zymoseptoria
+- id: doi:10.1007/s00572-025-01228-1
+  type: paper
+  image: /images/pub_images/01228-1.png
+  tags:
+    - Mycorrhizal fungi
+- id: doi:10.1186/s12915-025-02385-7
+  type: paper
+  image: /images/pub_images/655716.png
+  tags:
+    - TEs
+    - Wheat blast
+    - Rice blast
 
-
-#- id: update BMC BIOLOGY
 #- id: update Microbiome
-#- id: update Scientific Reports
-#- id: add Mycorrhiza pub
+#- id: update Toby NComms
