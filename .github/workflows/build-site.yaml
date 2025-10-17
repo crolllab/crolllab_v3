@@ -18,6 +18,8 @@ permissions:
 jobs:
   build-site:
     runs-on: ubuntu-22.04
+    env:
+      NCBI_API_KEY: 1bdabcdc264c7f2775d3051adc5fb8641409
 
     steps:
       # for debugging
