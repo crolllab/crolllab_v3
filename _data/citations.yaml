@@ -3421,19 +3421,18 @@
   - bioRxiv
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.01.10.632494
+- id: doi:10.1371/journal.pbio.3003433
   title: Phylogenomic signatures of repeat-induced point mutations across the fungal
     kingdom
   authors:
   - Thomas Badet
   - Daniel Croll
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-01-14'
-  link: https://doi.org/g8ztm7
-  type: preprint
+  publisher: PLOS Biology
+  date: '2025-10-15'
+  link: https://doi.org/g966fb
+  type: paper
   image: /images/pub_images/632494.png
   tags:
-  - bioRxiv
   - Highlight
   - TEs
   plugin: sources.py
@@ -3570,9 +3569,8 @@
   - bioRxiv
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.06.25.661478
-  title: A new molecular seed assay to predict<i>Ustilago nuda</i>field infection
-    levels
+- id: doi:10.1038/s41598-025-18544-3
+  title: A new molecular seed assay to predict Ustilago nuda field infection levels
   authors:
   - Cecilia Panzetti
   - Eveline Jenny
@@ -3584,30 +3582,11 @@
   - Daniel Croll
   - Franco Widmer
   - Karen E. Sullam
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-27'
-  link: https://doi.org/g9rsr4
-  type: preprint
+  publisher: Scientific Reports
+  date: '2025-10-06'
+  link: https://doi.org/g966fc
+  type: paper
   image: /images/pub_images/661478.png
-  tags:
-  - bioRxiv
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2025.05.23.655716
-  title: Transposable elements create distinct genomic niches for effector evolution
-    among <i>Magnaporthe oryzae</i> lineages
-  authors:
-  - Ana Margarida Sampaio
-  - Daniel Croll
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-05-23'
-  link: https://doi.org/g9mb98
-  type: preprint
-  image: /images/pub_images/655716.png
-  tags:
-  - bioRxiv
-  - TEs
-  - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/nph.70395
@@ -3726,5 +3705,45 @@
   tags:
   - bioRxiv
   - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00572-025-01228-1
+  title: An ectomycorrhizal fungus alters developmental progression during endogenous
+    rhythmic growth in pedunculate oak
+  authors:
+  - Felix Zimmermann
+  - Marie-Lara Bouffaud
+  - Sylvie Herrmann
+  - "Marco G\xF6ttig"
+  - "Ren\xE9 Graf"
+  - Mika Tarkka
+  - Lars Opgenoorth
+  - Daniel Croll
+  - Martina Peter
+  - Benjamin Dauphin
+  publisher: Mycorrhiza
+  date: '2025-10-01'
+  link: https://doi.org/g966ff
+  type: paper
+  image: /images/pub_images/01228-1.png
+  tags:
+  - Mycorrhizal fungi
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12915-025-02385-7
+  title: Transposable elements create distinct genomic niches for effector evolution
+    among Magnaporthe oryzae lineages
+  authors:
+  - Ana Margarida Sampaio
+  - Daniel Croll
+  publisher: BMC Biology
+  date: '2025-09-26'
+  link: https://doi.org/g966fg
+  type: paper
+  image: /images/pub_images/655716.png
+  tags:
+  - TEs
+  - Wheat blast
+  - Rice blast
   plugin: sources.py
   file: sources.yaml
