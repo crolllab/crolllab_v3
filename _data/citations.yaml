@@ -1474,8 +1474,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/1462-2920.14583
-  title: "The emergence of the multi\u2010species NIP1 effector in <i>Rhynchosporium</i>\
-    \ was accompanied by high rates of gene duplications and losses"
+  title: "The emergence of the multi\u2010species NIP1 effector in\n             \
+    \       <i>Rhynchosporium</i>\n                    was accompanied by high rates\
+    \ of gene duplications and losses"
   authors:
   - "Norfarhan Mohd\u2010Assaad"
   - Bruce A. McDonald
@@ -1491,7 +1492,8 @@
   file: sources.yaml
 - id: doi:10.1111/1462-2920.15752
   title: "Cryptic genetic structure and copy\u2010number variation in the ubiquitous\
-    \ forest symbiotic fungus <scp><i>Cenococcum geophilum</i></scp>"
+    \ forest symbiotic fungus\n                    <scp>\n                      <i>Cenococcum\
+    \ geophilum</i>\n                    </scp>"
   authors:
   - Benjamin Dauphin
   - "Ma\xEDra de Freitas Pereira"
@@ -3096,20 +3098,20 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.07.17.549274
+- id: doi:10.1186/s40168-025-02206-7
   title: High-resolution profiling of bacterial and fungal communities using pangenome-informed
     taxon-specific long-read amplicons
   authors:
   - Luzia Stalder
   - Monika Maurhofer
   - Daniel Croll
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-07-17'
-  link: https://doi.org/gsg8p5
-  type: preprint
+  publisher: Microbiome
+  date: '2025-10-28'
+  link: https://doi.org/g98qkx
+  type: paper
   image: /images/pub_images/549274.png
   tags:
-  - bioRxiv
+  - Highlight
   - Microbiome
   - Zymoseptoria
   plugin: sources.py
@@ -3745,5 +3747,21 @@
   - TEs
   - Wheat blast
   - Rice blast
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.10.28.685023
+  title: 'MycoMobilome: A community-focused non-redundant database of transposable
+    element consensus sequences for the fungal kingdom'
+  authors:
+  - Tobias Baril
+  - Daniel Croll
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-10-28'
+  link: https://doi.org/g98qkz
+  type: preprint
+  image: /images/pub_images/685023.png
+  tags:
+  - bioRxiv
+  - TEs
   plugin: sources.py
   file: sources.yaml
