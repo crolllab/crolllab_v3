@@ -730,11 +730,11 @@
     - bioRxiv
     - TEs
     - Zymoseptoria
-- id: doi:10.1101/2023.07.17.549274
-  type: preprint
+- id: doi:10.1186/s40168-025-02206-7
+  type: paper
   image: /images/pub_images/549274.png
   tags: 
-    - bioRxiv
+    - Highlight
     - Microbiome
     - Zymoseptoria
 - id: doi:10.1038/s41467-024-49913-7
@@ -914,6 +914,12 @@
     - TEs
     - Wheat blast
     - Rice blast
+- id: doi:10.1101/2025.10.28.685023
+  type: preprint
+  image: /images/pub_images/685023.png
+  tags:
+    - bioRxiv
+    - TEs
 
-#- id: update Microbiome
+
 #- id: update Toby NComms
