@@ -72,6 +72,8 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+5 Nov 2025 | A very warm welcome to Melanie, Benjamin, Raissa and Joris! Very excited to have you with us.
+1 Oct 2025 | We recently published papers in Microbiome, Nature Comms, PLOS Biology, Trends in Microbiology & more. Congrats to all authors! Check out [our publications](https://pathogen-genomics.org/publications/)
 5 May 2025 | Sarai started her BRIDGE postdoc in our lab today. Welcome back!
 1 May 2025 | Big congrats to Anouk van Westerhoven from Wagening University for defending her PhD thesis today!
 2 April 2025 | Also Sarai obtained her PhD! Big congrats!! Check out [our blog](/blog/)
