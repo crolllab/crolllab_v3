@@ -146,7 +146,7 @@
   file: sources.yaml
 - id: doi:10.1111/mpp.12485
   title: "Chloroplast\u2010associated metabolic functions influence the susceptibility\
-    \ of maize to <i>Ustilago maydis</i>"
+    \ of maize to\n                    <i>Ustilago maydis</i>"
   authors:
   - Matthias Kretschmer
   - Daniel Croll
@@ -161,8 +161,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mpp.12486
-  title: Maize susceptibility to <i>Ustilago maydis</i> is influenced by genetic and
-    chemical perturbation of carbohydrate allocation
+  title: "Maize susceptibility to\n                    <i>Ustilago maydis</i>\n  \
+    \                  is influenced by genetic and chemical perturbation of carbohydrate\
+    \ allocation"
   authors:
   - Matthias Kretschmer
   - Daniel Croll
@@ -1911,9 +1912,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mpp.12333
-  title: Comparative transcriptomic analyses of <scp><i>Z</i></scp><i>ymoseptoria
-    tritici</i> strains show complex lifestyle transitions and intraspecific variability
-    in transcription profiles
+  title: "Comparative transcriptomic analyses of\n                    <scp>\n    \
+    \                  <i>Z</i>\n                    </scp>\n                    <i>ymoseptoria\
+    \ tritici</i>\n                    strains show complex lifestyle transitions\
+    \ and intraspecific variability in transcription profiles"
   authors:
   - "Javier Palma\u2010Guerrero"
   - Stefano F. F. Torriani
@@ -1933,8 +1935,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mpp.12391
-  title: The putative phospholipase Lip2 counteracts oxidative damage and influences
-    the virulence of <i>Ustilago maydis</i>
+  title: "The putative phospholipase Lip2 counteracts oxidative damage and influences\
+    \ the virulence of\n                    <i>Ustilago maydis</i>"
   authors:
   - Scott C. Lambie
   - Matthias Kretschmer
@@ -1953,8 +1955,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mpp.12515
-  title: Quantitative trait locus mapping reveals complex genetic architecture of
-    quantitative virulence in the wheat pathogen<i>Zymoseptoria tritici</i>
+  title: "Quantitative trait locus mapping reveals complex genetic architecture of\
+    \ quantitative virulence in the wheat pathogen\n                    <i>Zymoseptoria\
+    \ tritici</i>"
   authors:
   - Ethan l. Stewart
   - Daniel Croll
@@ -2118,8 +2121,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/ppa.12111
-  title: An assay for quantitative virulence in <i><scp>R</scp>hynchosporium commune</i>
-    reveals an association between effector genotype and virulence
+  title: "An assay for quantitative virulence in\n                    <i>\n      \
+    \                <scp>R</scp>\n                      hynchosporium commune\n \
+    \                   </i>\n                    reveals an association between effector\
+    \ genotype and virulence"
   authors:
   - T. S. Stefansson
   - Y. Willi
@@ -3380,8 +3385,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/ppa.14111
-  title: Revisiting the Evolution and Function of NIP2 Paralogues in the <i>Rhynchosporium</i>
-    Spp. Complex
+  title: "Revisiting the Evolution and Function of NIP2 Paralogues in the\n      \
+    \              <i>Rhynchosporium</i>\n                    Spp. Complex"
   authors:
   - Reynaldi Darma
   - Daniel S. Yu
