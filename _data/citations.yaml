@@ -3537,21 +3537,20 @@
   - Grapevine
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.04.02.646807
+- id: doi:10.1038/s41467-025-64944-4
   title: Historic transposon mobilisation waves create distinct pools of adaptive
     variants in a major crop pathogen
   authors:
   - Tobias Baril
   - Guido Puccetti
   - Daniel Croll
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-04-08'
-  link: https://doi.org/g9d4zf
-  type: preprint
-  image: images/pub_images/646807.png
+  publisher: Nature Communications
+  date: '2025-11-12'
+  link: https://doi.org/g995zr
+  type: paper
+  image: /images/pub_images/646807.png
   tags:
   - Highlight
-  - bioRxiv
   - TEs
   - Zymoseptoria
   plugin: sources.py
