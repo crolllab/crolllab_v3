@@ -851,12 +851,11 @@
   image: /images/pub_images/afs15-207.png
   tags:
     - Grapevine
-- id: doi:10.1101/2025.04.02.646807
-  type: preprint
-  image: images/pub_images/646807.png
+- id: doi:10.1038/s41467-025-64944-4
+  type: paper
+  image: /images/pub_images/646807.png
   tags:
     - Highlight
-    - bioRxiv
     - TEs
     - Zymoseptoria
 - id: doi:10.1101/2025.05.07.652763
