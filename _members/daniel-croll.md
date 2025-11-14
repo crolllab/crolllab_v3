@@ -13,6 +13,7 @@ links:
   google-scholar: 82WR4DYAAAAJ
   github: crolllab
   bluesky: danielcroll.bsky.social
+  linkedin: daniel-croll-90b5877
 ---
 Daniel Croll is a Professor of Evolutionary Genetics at the University of Neuchâtel, Switzerland and has a broad range of interests ranging from population genomics, microbiology, bioinformatics and conservation genomics.
 
