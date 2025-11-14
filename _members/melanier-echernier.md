@@ -9,7 +9,6 @@ links:
   email: melanie.echernier@unine.ch
 ---
 
-Mélanie started her PhD in September 2025.
+I hold a bachelor's degree in cell biology with a specialization in phylogeny and bioinformatics, as well as a master's degree in health biology, both completed in France. In 2024, I had the opportunity to undertake my first-year master's internship in the evolutionary genetics laboratory, where I contributed to research on mutations responsible for fungicide resistance in _*_Zymoseptoria tritici_*_, a major wheat pathogen.
 
-Mélanie joined us previously in summer 2024 from the Université Clermont Auvergne for a MSc internship research project to work on _Zymoseptoria tritici_ and the evolution of fungicide resistance. 
-```
+In September 2025, I began my PhD focused on the detection of genetically modified oilseed rape plants on a global scale — an important contribution in the framework of revising legislation on genetically modified organisms.
