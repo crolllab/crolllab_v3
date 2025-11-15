@@ -2,7 +2,7 @@
 name: Asma Adam Abdi
 description: Lab apprentice
 image: images/default.jpg
-group: current
+group: alumni
 role: staff
 aliases:
 links:
