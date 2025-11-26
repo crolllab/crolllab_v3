@@ -833,11 +833,10 @@
     - bioRxiv
   tags: 
     - bioRxiv
-- id: doi:10.1101/2025.03.19.644200
-  type: preprint
+- id: doi:10.1128/mbio.02766-25
+  type: paper
   image: /images/pub_images/644200.png 
   tags:
-    - bioRxiv
     - Highlight
     - Fungicide resistance
     - Zymoseptoria
