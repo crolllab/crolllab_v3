@@ -1413,8 +1413,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1094/PHYTO-06-18-0199-LE
-  title: Cautionary Notes on Use of the MoT3 Diagnostic Assay for <i>Magnaporthe oryzae</i>
-    Wheat and Rice Blast Isolates
+  title: "Cautionary Notes on Use of the MoT3 Diagnostic Assay for\n             \
+    \       <i>Magnaporthe oryzae</i>\n                    Wheat and Rice Blast Isolates"
   authors:
   - Dipali Rani Gupta
   - Claudia Sarai Reyes Avila
@@ -1538,8 +1538,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/1755-0998.13478
-  title: "Transcriptome\u2010wide SNPs for <i>Botrychium lunaria</i> ferns enable\
-    \ fine\u2010grained analysis of ploidy and population structure"
+  title: "Transcriptome\u2010wide SNPs for\n                    <i>Botrychium lunaria</i>\n\
+    \                    ferns enable fine\u2010grained analysis of ploidy and population\
+    \ structure"
   authors:
   - Vinciane Mossion
   - Benjamin Dauphin
@@ -1686,8 +1687,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/j.1469-8137.2008.02726.x
-  title: Nonself vegetative fusion and genetic exchange in the arbuscular mycorrhizal
-    fungus <i>Glomus intraradices</i>
+  title: "Nonself vegetative fusion and genetic exchange in the arbuscular mycorrhizal\
+    \ fungus\n                    <i>Glomus intraradices</i>"
   authors:
   - Daniel Croll
   - Manuela Giovannetti
@@ -2297,8 +2298,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/mSphere.00737-20
-  title: Comparative Genomics Analyses of Lifestyle Transitions at the Origin of an
-    Invasive Fungal Pathogen in the Genus<i>Cryphonectria</i>
+  title: "Comparative Genomics Analyses of Lifestyle Transitions at the Origin of\
+    \ an Invasive Fungal Pathogen in the Genus\n                    <i>Cryphonectria</i>"
   authors:
   - Lea Stauber
   - Simone Prospero
@@ -2781,8 +2782,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1534/g3.120.401375
-  title: A Chromosome-Scale Genome Assembly for the <i>Fusarium oxysporum</i> Strain
-    Fo5176 To Establish a Model <i>Arabidopsis</i>-Fungal Pathosystem
+  title: "A Chromosome-Scale Genome Assembly for the\n                    <i>Fusarium\
+    \ oxysporum</i>\n                    Strain Fo5176 To Establish a Model\n    \
+    \                <i>Arabidopsis</i>\n                    -Fungal Pathosystem"
   authors:
   - Like Fokkens
   - Li Guo
@@ -2956,8 +2958,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1094/MPMI-07-25-0077-TA
-  title: Improved Gene Annotation of the Fungal Wheat Pathogen <i>Zymoseptoria tritici</i>
-    Based on Combined Iso-Seq and RNA-Seq Evidence
+  title: "Improved Gene Annotation of the Fungal Wheat Pathogen\n                \
+    \    <i>Zymoseptoria tritici</i>\n                    Based on Combined Iso-Seq\
+    \ and RNA-Seq Evidence"
   authors:
   - Nicolas Lapalu
   - Lucie Lamothe
@@ -2969,7 +2972,7 @@
   - Dan Smith
   - Robert King
   - Alison Renwick
-  - Melanie Appertet
+  - "M\xE9lanie Appertet"
   - Justine Sucher
   - Andrei S. Steindorff
   - Stephen B. Goodwin
@@ -2982,7 +2985,7 @@
   - Gabriel Scalliet
   - Marc-Henri Lebrun
   publisher: "Molecular Plant-Microbe Interactions\xAE"
-  date: '2025-09-19'
+  date: '2025-11-18'
   link: https://doi.org/g94dw2
   type: paper
   image: /images/pub_images/537486.png
@@ -3467,7 +3470,7 @@
   - bioRxiv
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.03.19.644200
+- id: doi:10.1128/mbio.02766-25
   title: A large European diversity panel reveals complex azole fungicide resistance
     gains of a major wheat pathogen
   authors:
@@ -3477,17 +3480,16 @@
   - Dominique Edel
   - Alice Feurtey
   - Camille Delude
-  - Emile-Gluck Thaler
-  - Stefano F.F. Torriani
+  - Emile Gluck-Thaler
+  - Stefano F. F. Torriani
   - Gabriel Scalliet
   - Daniel Croll
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-03-19'
-  link: https://doi.org/g89hfq
-  type: preprint
+  publisher: mBio
+  date: '2025-11-24'
+  link: https://doi.org/hbcsbg
+  type: paper
   image: /images/pub_images/644200.png
   tags:
-  - bioRxiv
   - Highlight
   - Fungicide resistance
   - Zymoseptoria
@@ -3528,7 +3530,7 @@
   - "St\xE9phane Bieri"
   - Daniel Croll
   - Cristoph Carlen
-  publisher: Agroscope
+  publisher: Recherche Agronomique Suisse
   date: '2024-01-01'
   link: https://doi.org/g87k93
   type: paper
