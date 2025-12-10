@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://pathogen-genomics.org/feed.xml" rel="self" type="application/atom+xml" /><link href="http://pathogen-genomics.org/" rel="alternate" type="text/html" /><updated>2025-12-03T08:00:36+00:00</updated><id>http://pathogen-genomics.org/feed.xml</id><title type="html">Evolutionary genomics of pathogens</title><subtitle>The lab of Daniel Croll wants to understand how pathogens evolve to cause disease. For this, we mainly focus on major crop pathogens to unravel mechanisms of rapid adaptation. We want to understand how host resistance mechanisms are circumvented, pesticides become ineffective and how pathogens cope with climate challenges.</subtitle><entry><title type="html">Hi! I am Mélanie, a new PhD student in the lab!</title><link href="http://pathogen-genomics.org/2025/11/17/Melanie.html" rel="alternate" type="text/html" title="Hi! I am Mélanie, a new PhD student in the lab!" /><published>2025-11-17T00:00:00+00:00</published><updated>2025-12-03T07:54:25+00:00</updated><id>http://pathogen-genomics.org/2025/11/17/Melanie</id><content type="html" xml:base="http://pathogen-genomics.org/2025/11/17/Melanie.html"><![CDATA[<p>Hello, I’m Mélanie, a PhD student in bioinformatics at the Evolutionary Genetics Laboratory in Neuchâtel. My academic background, while centered on biology, is quite diverse. I hold a bachelor’s degree in cell biology specialized in phylogeny and bioinformatics and a master’s degree in health biology specialized in microscopy.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://pathogen-genomics.org/feed.xml" rel="self" type="application/atom+xml" /><link href="http://pathogen-genomics.org/" rel="alternate" type="text/html" /><updated>2025-12-10T20:55:55+00:00</updated><id>http://pathogen-genomics.org/feed.xml</id><title type="html">Evolutionary genomics of pathogens</title><subtitle>The lab of Daniel Croll wants to understand how pathogens evolve to cause disease. For this, we mainly focus on major crop pathogens to unravel mechanisms of rapid adaptation. We want to understand how host resistance mechanisms are circumvented, pesticides become ineffective and how pathogens cope with climate challenges.</subtitle><entry><title type="html">Welcome to the lab, Jigisha!</title><link href="http://pathogen-genomics.org/2025/12/10/Jigisha.html" rel="alternate" type="text/html" title="Welcome to the lab, Jigisha!" /><published>2025-12-10T00:00:00+00:00</published><updated>2025-12-10T20:48:42+00:00</updated><id>http://pathogen-genomics.org/2025/12/10/Jigisha</id><content type="html" xml:base="http://pathogen-genomics.org/2025/12/10/Jigisha.html"><![CDATA[<p>Hi, I’m Jigisha and I recently joined the group as a postdoc. I am broadly interested in studying the evolution of pathogens and other host-microbe systems in a population-genomics framework.</p>
+
+<p>My academic journey began at the Indian Institute of Science Education and Research, Mohali, where I completed my Bachelors and Masters in Biology, working on projects investigating host-pathogen interactions and sexual conflict in Drosophila melanogaster using experimental evolution. During my PhD at the University of Zurich, I used population genomics to study the evolution and epidemiology of the fungal plant pathogen Blumeria graminis.</p>
+
+<p>At the Croll Lab, my current project focuses on using genomics to study the co-invasion dynamics of ambrosia beetles and their mutualistic fungi.</p>
+
+<p>Outside of work, I enjoy reading, dancing and exploring new cuisines.</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/jigisha.jpg" data-fancybox="gallery" data-caption="Jigisha">
+	<img src="/images/jigisha.jpg" alt="" /></a>
+
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Jigisha Jigisha</name></author><summary type="html"><![CDATA[Hi, I’m Jigisha and I recently joined the group as a postdoc. I am broadly interested in studying the evolution of pathogens and other host-microbe systems in a population-genomics framework.]]></summary></entry><entry><title type="html">Welcoming Joris to the Lab!</title><link href="http://pathogen-genomics.org/2025/12/05/Joris.html" rel="alternate" type="text/html" title="Welcoming Joris to the Lab!" /><published>2025-12-05T00:00:00+00:00</published><updated>2025-12-10T20:48:42+00:00</updated><id>http://pathogen-genomics.org/2025/12/05/Joris</id><content type="html" xml:base="http://pathogen-genomics.org/2025/12/05/Joris.html"><![CDATA[<p>I am a Postdoctoral Researcher in the Evolutionary Genomics of Pathogens group at the University of Neuchâtel. I completed my BSc and MSc in Plant Sciences at Wageningen University in the Netherlands, specialising in plant pathology. During this time, I contributed to several projects on Panama disease in banana caused by <em>Fusarium oxysporum</em>. After graduating, I moved to Switzerland to pursue a PhD at the Research Institute of Organic Agriculture (FiBL), where I investigated anthracnose disease in white lupin caused by <em>Colletotrichum lupini</em>. Following my PhD, I spent one and a half years in industry supporting onion breeding programmes. I then joined the University of Oxford at Magdalen College for my first postdoctoral position, focusing on the evolutionary genomics of <em>Colletotrichum</em> species infecting strawberry, historical genomics, and the development of RNAi-based crop protection strategies. In my current project, I work on the genomics and control of <em>Botrytis cinerea</em>, the causal agent of grey mould in numerous crops. I am constructing a high-quality global pangenome with an emphasis on grapevine-infecting strains to better understand the evolution of notorious pathogen.</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/joris.jpg" data-fancybox="gallery" data-caption="Joris">
+	<img src="/images/joris.jpg" alt="" /></a>
+
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Joris Alkemade</name></author><summary type="html"><![CDATA[I am a Postdoctoral Researcher in the Evolutionary Genomics of Pathogens group at the University of Neuchâtel. I completed my BSc and MSc in Plant Sciences at Wageningen University in the Netherlands, specialising in plant pathology. During this time, I contributed to several projects on Panama disease in banana caused by Fusarium oxysporum. After graduating, I moved to Switzerland to pursue a PhD at the Research Institute of Organic Agriculture (FiBL), where I investigated anthracnose disease in white lupin caused by Colletotrichum lupini. Following my PhD, I spent one and a half years in industry supporting onion breeding programmes. I then joined the University of Oxford at Magdalen College for my first postdoctoral position, focusing on the evolutionary genomics of Colletotrichum species infecting strawberry, historical genomics, and the development of RNAi-based crop protection strategies. In my current project, I work on the genomics and control of Botrytis cinerea, the causal agent of grey mould in numerous crops. I am constructing a high-quality global pangenome with an emphasis on grapevine-infecting strains to better understand the evolution of notorious pathogen.]]></summary></entry><entry><title type="html">Lab retreat 2025 in the snowy Jura mountains</title><link href="http://pathogen-genomics.org/2025/11/29/LabR.html" rel="alternate" type="text/html" title="Lab retreat 2025 in the snowy Jura mountains" /><published>2025-11-29T00:00:00+00:00</published><updated>2025-12-10T20:48:42+00:00</updated><id>http://pathogen-genomics.org/2025/11/29/LabR</id><content type="html" xml:base="http://pathogen-genomics.org/2025/11/29/LabR.html"><![CDATA[<p>The whole lab spent a day in the snowy Jura mountains near Neuchâtel to discuss, plan, laugh and have nice food. Thanks so much everyone for making this day special!</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2025-11-29/IMG_8692.jpeg" data-fancybox="gallery" data-caption="Hiking up to the hut">
+	<img src="/images/blog/blog_2025-11-29/IMG_8692.jpeg" alt="" /></a>
+
+<a href="/images/blog/blog_2025-11-29/IMG_8695.jpeg" data-fancybox="gallery" data-caption="Hiking up to the hut">
+	<img src="/images/blog/blog_2025-11-29/IMG_8695.jpeg" alt="" /></a>
+
+<a href="/images/blog/blog_2025-11-29/IMG_8714.jpeg" data-fancybox="gallery" data-caption="Discussing how we work as a group">
+	<img src="/images/blog/blog_2025-11-29/IMG_8714.jpeg" alt="" /></a>
+
+<a href="/images/blog/blog_2025-11-29/IMG_8720.jpeg" data-fancybox="gallery" data-caption="Brainstorming future projects">
+	<img src="/images/blog/blog_2025-11-29/IMG_8720.jpeg" alt="" /></a>
+
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel Croll</name></author><summary type="html"><![CDATA[The whole lab spent a day in the snowy Jura mountains near Neuchâtel to discuss, plan, laugh and have nice food. Thanks so much everyone for making this day special!]]></summary></entry><entry><title type="html">Daniel’s visit to China</title><link href="http://pathogen-genomics.org/2025/11/26/China.html" rel="alternate" type="text/html" title="Daniel’s visit to China" /><published>2025-11-26T00:00:00+00:00</published><updated>2025-12-10T20:48:42+00:00</updated><id>http://pathogen-genomics.org/2025/11/26/China</id><content type="html" xml:base="http://pathogen-genomics.org/2025/11/26/China.html"><![CDATA[<p>Daniel was invited to visit the Chinese Academy of Sciences Institute of Microbiology in Beijing and attend the Asian Mycology Conference in Guangzhou. Plenty of exciting discussions about fungal genomics, met wonderful colleagues, got to see incredible sights and enjoyed great food!</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2025-11-26/IMG_8516.jpeg" data-fancybox="gallery" data-caption="Beijing">
+	<img src="/images/blog/blog_2025-11-26/IMG_8516.jpeg" alt="" /></a>
+
+<a href="/images/blog/blog_2025-11-26/IMG_8553.jpeg" data-fancybox="gallery" data-caption="Beijing">
+	<img src="/images/blog/blog_2025-11-26/IMG_8553.jpeg" alt="" /></a>
+
+<a href="/images/blog/blog_2025-11-26/IMG_8565.jpeg" data-fancybox="gallery" data-caption="Beijing">
+	<img src="/images/blog/blog_2025-11-26/IMG_8565.jpeg" alt="" /></a>
+
+<a href="/images/blog/blog_2025-11-26/IMG_8629.jpeg" data-fancybox="gallery" data-caption="Delicious Cordyceps">
+	<img src="/images/blog/blog_2025-11-26/IMG_8629.jpeg" alt="" /></a>
+
+<a href="/images/blog/blog_2025-11-26/IMG_8631.jpeg" data-fancybox="gallery" data-caption="Guangzhou">
+	<img src="/images/blog/blog_2025-11-26/IMG_8631.jpeg" alt="" /></a>
+
+<a href="/images/blog/blog_2025-11-26/IMG_8644.jpeg" data-fancybox="gallery" data-caption="Guangzhou">
+	<img src="/images/blog/blog_2025-11-26/IMG_8644.jpeg" alt="" /></a>
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel Croll</name></author><summary type="html"><![CDATA[Daniel was invited to visit the Chinese Academy of Sciences Institute of Microbiology in Beijing and attend the Asian Mycology Conference in Guangzhou. Plenty of exciting discussions about fungal genomics, met wonderful colleagues, got to see incredible sights and enjoyed great food!]]></summary></entry><entry><title type="html">Hi! I am Mélanie, a new PhD student in the lab!</title><link href="http://pathogen-genomics.org/2025/11/17/Melanie.html" rel="alternate" type="text/html" title="Hi! I am Mélanie, a new PhD student in the lab!" /><published>2025-11-17T00:00:00+00:00</published><updated>2025-12-10T20:48:42+00:00</updated><id>http://pathogen-genomics.org/2025/11/17/Melanie</id><content type="html" xml:base="http://pathogen-genomics.org/2025/11/17/Melanie.html"><![CDATA[<p>Hello, I’m Mélanie, a PhD student in bioinformatics at the Evolutionary Genetics Laboratory in Neuchâtel. My academic background, while centered on biology, is quite diverse. I hold a bachelor’s degree in cell biology specialized in phylogeny and bioinformatics and a master’s degree in health biology specialized in microscopy.</p>
 
 <p>I have always been drawn to computational aspects and imaging in biology rather than animal biology, and I’m delighted to finally be able to apply them in my thesis!</p>
 
@@ -8,7 +101,34 @@
 
 <p>Beyond the laboratory, I love hiking and I’m interested in medicinal plants as well as tree identification. Combining the plant world with bioinformatics was therefore a perfect choice for my thesis project!</p>
 
-<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Mélanie Echernier</name></author><summary type="html"><![CDATA[Hello, I’m Mélanie, a PhD student in bioinformatics at the Evolutionary Genetics Laboratory in Neuchâtel. My academic background, while centered on biology, is quite diverse. I hold a bachelor’s degree in cell biology specialized in phylogeny and bioinformatics and a master’s degree in health biology specialized in microscopy.]]></summary></entry><entry><title type="html">The most amazing BSc students</title><link href="http://pathogen-genomics.org/2025/04/04/APP.html" rel="alternate" type="text/html" title="The most amazing BSc students" /><published>2025-04-04T00:00:00+00:00</published><updated>2025-12-03T07:54:25+00:00</updated><id>http://pathogen-genomics.org/2025/04/04/APP</id><content type="html" xml:base="http://pathogen-genomics.org/2025/04/04/APP.html"><![CDATA[<p>We were just so lucky to have the most amazing BSc students for a block course in our lab this semester! They all did an amazing job and we are so proud of them. We wish them all the best for their future study!</p>
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Mélanie Echernier</name></author><summary type="html"><![CDATA[Hello, I’m Mélanie, a PhD student in bioinformatics at the Evolutionary Genetics Laboratory in Neuchâtel. My academic background, while centered on biology, is quite diverse. I hold a bachelor’s degree in cell biology specialized in phylogeny and bioinformatics and a master’s degree in health biology specialized in microscopy.]]></summary></entry><entry><title type="html">Lab Via Ferrata Adventure</title><link href="http://pathogen-genomics.org/2025/07/01/ViaF.html" rel="alternate" type="text/html" title="Lab Via Ferrata Adventure" /><published>2025-07-01T00:00:00+00:00</published><updated>2025-12-10T20:48:42+00:00</updated><id>http://pathogen-genomics.org/2025/07/01/ViaF</id><content type="html" xml:base="http://pathogen-genomics.org/2025/07/01/ViaF.html"><![CDATA[<p>Our lab has been on the very cool Eiger Rotstock Via Ferrata. Proud of the team for making it to the top and back down safely! It was a great day out with lots of fun and beautilful views.</p>
+
+<div class="layout-blog">
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<a href="/images/blog/blog_2025-07-01/IMG_6124.jpeg" data-fancybox="gallery" data-caption="Mountains come into view as we climb higher.">
+	<img src="/images/blog/blog_2025-07-01/IMG_6124.jpeg" alt="" /></a>
+
+<a href="/images/blog/blog_2025-07-01/IMG_6149.jpeg" data-fancybox="gallery" data-caption="It's getting steep!">
+	<img src="/images/blog/blog_2025-07-01/IMG_6149.jpeg" alt="" /></a>
+
+<a href="/images/blog/blog_2025-07-01/IMG_6155.jpeg" data-fancybox="gallery" data-caption="Fun scrambling sections on the way up.">
+	<img src="/images/blog/blog_2025-07-01/IMG_6155.jpeg" alt="" /></a>
+
+<a href="/images/blog/blog_2025-07-01/IMG_6165.jpeg" data-fancybox="gallery" data-caption="Proud team at the summit!">
+	<img src="/images/blog/blog_2025-07-01/IMG_6165.jpeg" alt="" /></a>
+
+<a href="/images/blog/blog_2025-07-01/IMG_6178.jpeg" data-fancybox="gallery" data-caption="Great views on the way down.">
+	<img src="/images/blog/blog_2025-07-01/IMG_6178.jpeg" alt="" /></a>
+
+</body>
+</div>
+
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel Croll</name></author><summary type="html"><![CDATA[Our lab has been on the very cool Eiger Rotstock Via Ferrata. Proud of the team for making it to the top and back down safely! It was a great day out with lots of fun and beautilful views.]]></summary></entry><entry><title type="html">The most amazing BSc students</title><link href="http://pathogen-genomics.org/2025/04/04/APP.html" rel="alternate" type="text/html" title="The most amazing BSc students" /><published>2025-04-04T00:00:00+00:00</published><updated>2025-12-10T20:48:42+00:00</updated><id>http://pathogen-genomics.org/2025/04/04/APP</id><content type="html" xml:base="http://pathogen-genomics.org/2025/04/04/APP.html"><![CDATA[<p>We were just so lucky to have the most amazing BSc students for a block course in our lab this semester! They all did an amazing job and we are so proud of them. We wish them all the best for their future study!</p>
 
 <div class="layout-blog">
   <body>
@@ -24,7 +144,7 @@
 </body>
 </div>
 
-<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel Croll</name></author><summary type="html"><![CDATA[We were just so lucky to have the most amazing BSc students for a block course in our lab this semester! They all did an amazing job and we are so proud of them. We wish them all the best for their future study!]]></summary></entry><entry><title type="html">Big congrats Dr. Reyes</title><link href="http://pathogen-genomics.org/2025/04/02/Sarai.html" rel="alternate" type="text/html" title="Big congrats Dr. Reyes" /><published>2025-04-02T00:00:00+00:00</published><updated>2025-12-03T07:54:25+00:00</updated><id>http://pathogen-genomics.org/2025/04/02/Sarai</id><content type="html" xml:base="http://pathogen-genomics.org/2025/04/02/Sarai.html"><![CDATA[<p>Big congrats Sarai!! All the best for your future!</p>
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel Croll</name></author><summary type="html"><![CDATA[We were just so lucky to have the most amazing BSc students for a block course in our lab this semester! They all did an amazing job and we are so proud of them. We wish them all the best for their future study!]]></summary></entry><entry><title type="html">Big congrats Dr. Reyes</title><link href="http://pathogen-genomics.org/2025/04/02/Sarai.html" rel="alternate" type="text/html" title="Big congrats Dr. Reyes" /><published>2025-04-02T00:00:00+00:00</published><updated>2025-12-10T20:48:42+00:00</updated><id>http://pathogen-genomics.org/2025/04/02/Sarai</id><content type="html" xml:base="http://pathogen-genomics.org/2025/04/02/Sarai.html"><![CDATA[<p>Big congrats Sarai!! All the best for your future!</p>
 
 <div class="layout-blog">
   <body>
@@ -40,7 +160,7 @@
 </body>
 </div>
 
-<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel Croll</name></author><summary type="html"><![CDATA[Big congrats Sarai!! All the best for your future!]]></summary></entry><entry><title type="html">Big congrats Dr. Puccetti</title><link href="http://pathogen-genomics.org/2025/03/28/Guido.html" rel="alternate" type="text/html" title="Big congrats Dr. Puccetti" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-12-03T07:54:25+00:00</updated><id>http://pathogen-genomics.org/2025/03/28/Guido</id><content type="html" xml:base="http://pathogen-genomics.org/2025/03/28/Guido.html"><![CDATA[<p>Warmest congratulations to our (now former) PhD student, Dr. Puccetti, who successfully defended his thesis on the 28th of March 2025! We are all very proud of you, and we wish you all the best for your future career!</p>
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel Croll</name></author><summary type="html"><![CDATA[Big congrats Sarai!! All the best for your future!]]></summary></entry><entry><title type="html">Big congrats Dr. Puccetti</title><link href="http://pathogen-genomics.org/2025/03/28/Guido.html" rel="alternate" type="text/html" title="Big congrats Dr. Puccetti" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-12-10T20:48:42+00:00</updated><id>http://pathogen-genomics.org/2025/03/28/Guido</id><content type="html" xml:base="http://pathogen-genomics.org/2025/03/28/Guido.html"><![CDATA[<p>Warmest congratulations to our (now former) PhD student, Dr. Puccetti, who successfully defended his thesis on the 28th of March 2025! We are all very proud of you, and we wish you all the best for your future career!</p>
 
 <div class="layout-blog">
   <body>
@@ -56,7 +176,7 @@
 </body>
 </div>
 
-<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel Croll</name></author><summary type="html"><![CDATA[Warmest congratulations to our (now former) PhD student, Dr. Puccetti, who successfully defended his thesis on the 28th of March 2025! We are all very proud of you, and we wish you all the best for your future career!]]></summary></entry><entry><title type="html">Exciting science at ECFG17!</title><link href="http://pathogen-genomics.org/2025/03/17/ECFG17.html" rel="alternate" type="text/html" title="Exciting science at ECFG17!" /><published>2025-03-17T00:00:00+00:00</published><updated>2025-12-03T07:54:25+00:00</updated><id>http://pathogen-genomics.org/2025/03/17/ECFG17</id><content type="html" xml:base="http://pathogen-genomics.org/2025/03/17/ECFG17.html"><![CDATA[<p>ECFG17 just took place in Dublin, Ireland! Ursula gave an amazing talk on the remarkably scarce yet intriguing TE content in <em>Candida albicans</em>, Thomas presented a poster on his recent work exploring the signatures of the fungal TE-defense RIP system across the fungal kingdom and I had a poster on mitochondrial genome diversity within the Zymoseptoria tritici species. We were thrilled to be part of the global fungal scientific community, and the venue was stunning — we enjoyed exploring Dublin and its surroundings!</p>
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel Croll</name></author><summary type="html"><![CDATA[Warmest congratulations to our (now former) PhD student, Dr. Puccetti, who successfully defended his thesis on the 28th of March 2025! We are all very proud of you, and we wish you all the best for your future career!]]></summary></entry><entry><title type="html">Exciting science at ECFG17!</title><link href="http://pathogen-genomics.org/2025/03/17/ECFG17.html" rel="alternate" type="text/html" title="Exciting science at ECFG17!" /><published>2025-03-17T00:00:00+00:00</published><updated>2025-12-10T20:48:42+00:00</updated><id>http://pathogen-genomics.org/2025/03/17/ECFG17</id><content type="html" xml:base="http://pathogen-genomics.org/2025/03/17/ECFG17.html"><![CDATA[<p>ECFG17 just took place in Dublin, Ireland! Ursula gave an amazing talk on the remarkably scarce yet intriguing TE content in <em>Candida albicans</em>, Thomas presented a poster on his recent work exploring the signatures of the fungal TE-defense RIP system across the fungal kingdom and I had a poster on mitochondrial genome diversity within the Zymoseptoria tritici species. We were thrilled to be part of the global fungal scientific community, and the venue was stunning — we enjoyed exploring Dublin and its surroundings!</p>
 
 <div class="layout-blog">
   <body>
@@ -80,105 +200,4 @@
 </body>
 </div>
 
-<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Ivan Skakov</name></author><summary type="html"><![CDATA[ECFG17 just took place in Dublin, Ireland! Ursula gave an amazing talk on the remarkably scarce yet intriguing TE content in Candida albicans, Thomas presented a poster on his recent work exploring the signatures of the fungal TE-defense RIP system across the fungal kingdom and I had a poster on mitochondrial genome diversity within the Zymoseptoria tritici species. We were thrilled to be part of the global fungal scientific community, and the venue was stunning — we enjoyed exploring Dublin and its surroundings!]]></summary></entry><entry><title type="html">Exciting visit by Cédric Feschotte from Cornell</title><link href="http://pathogen-genomics.org/2025/03/13/Feschotte.html" rel="alternate" type="text/html" title="Exciting visit by Cédric Feschotte from Cornell" /><published>2025-03-13T00:00:00+00:00</published><updated>2025-12-03T07:54:25+00:00</updated><id>http://pathogen-genomics.org/2025/03/13/Feschotte</id><content type="html" xml:base="http://pathogen-genomics.org/2025/03/13/Feschotte.html"><![CDATA[<p><a href="https://www.thefeschottelabatcornell.com">Cedric Feschotte</a> from Cornell University visited us in Neuchatel to give a seminar and chat about our mutual passion for transposable elements.</p>
-
-<p>Thanks for your time - it was a lot of fun! Enjoy the rest of your time in Switzerland!</p>
-
-<div class="layout-blog">
-  <body>
-
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-
-<a href="/images/blog/blog_2025-03-13/Feschotte_1.jpeg" data-fancybox="gallery" data-caption="Little visit to the Neuchatel castle">
-	<img src="/images/blog/blog_2025-03-13/Feschotte_1.jpeg" alt="" /></a>
-
-<a href="/images/blog/blog_2025-03-13/Feschotte_2.jpeg" data-fancybox="gallery" data-caption="Cedric's department seminar on transposable elements">
-	<img src="/images/blog/blog_2025-03-13/Feschotte_2.jpeg" alt="" /></a>
-
-<a href="/images/blog/blog_2025-03-13/Feschotte_3.jpeg" data-fancybox="gallery" data-caption="Cedric, Daniel and the wolves">
-	<img src="/images/blog/blog_2025-03-13/Feschotte_3.jpeg" alt="" /></a>
-
-</body>
-</div>
-
-<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel Croll</name></author><summary type="html"><![CDATA[Cedric Feschotte from Cornell University visited us in Neuchatel to give a seminar and chat about our mutual passion for transposable elements.]]></summary></entry><entry><title type="html">We presented at Biology25!</title><link href="http://pathogen-genomics.org/2025/02/21/Biology25.html" rel="alternate" type="text/html" title="We presented at Biology25!" /><published>2025-02-21T00:00:00+00:00</published><updated>2025-12-03T07:54:25+00:00</updated><id>http://pathogen-genomics.org/2025/02/21/Biology25</id><content type="html" xml:base="http://pathogen-genomics.org/2025/02/21/Biology25.html"><![CDATA[<p>Some of us were at Biology25! Ivan presented his great work on mitochondrial genomes in <em>Zymoseptoria</em>, Ursula and I were having posters and super fruitful discussions! See you next year at Biology26 in our beautiful Neuchâtel!</p>
-
-<div class="layout-blog">
-  <body>
-
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-
-<a href="/images/blog/blog_2025-02-21/Biol25_1.jpg" data-fancybox="gallery" data-caption="Exciting chats during the poster session">
-	<img src="/images/blog/blog_2025-02-21/Biol25_1.jpg" alt="" /></a>
-
-<a href="/images/blog/blog_2025-02-21/Biol25_2.jpg" data-fancybox="gallery" data-caption="Ivan presenting his work on mitochondrial genomes">
-	<img src="/images/blog/blog_2025-02-21/Biol25_2.jpg" alt="" /></a>
-
-</body>
-</div>
-
-<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Alice Laigle</name></author><summary type="html"><![CDATA[Some of us were at Biology25! Ivan presented his great work on mitochondrial genomes in Zymoseptoria, Ursula and I were having posters and super fruitful discussions! See you next year at Biology26 in our beautiful Neuchâtel!]]></summary></entry><entry><title type="html">ISCLB2024 just happened!</title><link href="http://pathogen-genomics.org/2024/06/08/ISCLB.html" rel="alternate" type="text/html" title="ISCLB2024 just happened!" /><published>2024-06-08T00:00:00+00:00</published><updated>2025-12-03T07:54:25+00:00</updated><id>http://pathogen-genomics.org/2024/06/08/ISCLB</id><content type="html" xml:base="http://pathogen-genomics.org/2024/06/08/ISCLB.html"><![CDATA[<p>We co-organized the ISCLB 2024 in Zurich. This is our community’s prime meeting and attracted people from all over the world. I think everyone had a great time and the science was outstanding. Thanks to everyone who helped to make this happen!</p>
-
-<div class="layout-blog">
-  <body>
-
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-
-<a href="/images/blog/blog_2024-06-08/ISCLB_1.png" data-fancybox="gallery" data-caption="ISCLB2024 website">
-	<img src="/images/blog/blog_2024-06-08/ISCLB_1.png" alt="" /></a>
-
-<a href="/images/blog/blog_2024-06-08/ISCLB_2.jpeg" data-fancybox="gallery" data-caption="ISCBL2024 poster session">
-	<img src="/images/blog/blog_2024-06-08/ISCLB_2.jpeg" alt="" /></a>
-
-</body>
-</div>
-
-<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[We co-organized the ISCLB 2024 in Zurich. This is our community’s prime meeting and attracted people from all over the world. I think everyone had a great time and the science was outstanding. Thanks to everyone who helped to make this happen!]]></summary></entry><entry><title type="html">It’s again lab retreat time!</title><link href="http://pathogen-genomics.org/2023/11/02/Retreat.html" rel="alternate" type="text/html" title="It’s again lab retreat time!" /><published>2023-11-02T00:00:00+00:00</published><updated>2025-12-03T07:54:25+00:00</updated><id>http://pathogen-genomics.org/2023/11/02/Retreat</id><content type="html" xml:base="http://pathogen-genomics.org/2023/11/02/Retreat.html"><![CDATA[<p>We went up near beautiful Creux du Van to spend a day reflecting on the year, ourselves and our science. We also had a lot of fun and enjoyed the great food. Thanks everyone for coming!</p>
-
-<div class="layout-blog">
-  <body>
-
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-
-<a href="/images/blog/blog_2023-11-02/IMG_6199.jpeg" data-fancybox="gallery" data-caption="Off to a (rainy) day! :-)">
-	<img src="/images/blog/blog_2023-11-02/IMG_6199.jpeg" alt="" /></a>
-
-<a href="/images/blog/blog_2023-11-02/IMG_6203.jpeg" data-fancybox="gallery" data-caption="Reflecting on our lab and ourselves in the nice mountain hut">
-	<img src="/images/blog/blog_2023-11-02/IMG_6203.jpeg" alt="" /></a>
-
-<a href="/images/blog/blog_2023-11-02/IMG_6204.jpeg" data-fancybox="gallery" data-caption="Our 2023 in review">
-	<img src="/images/blog/blog_2023-11-02/IMG_6204.jpeg" alt="" /></a>
-
-<a href="/images/blog/blog_2023-11-02/IMG_6215.jpeg" data-fancybox="gallery" data-caption="For a brief moment, we could see the snowy peaks of the Alps">
-	<img src="/images/blog/blog_2023-11-02/IMG_6215.jpeg" alt="" /></a>
-
-<a href="/images/blog/blog_2023-11-02/IMG_6216.jpeg" data-fancybox="gallery" data-caption="Ending the day with a nice dinner">
-	<img src="/images/blog/blog_2023-11-02/IMG_6216.jpeg" alt="" /></a>
-
-</body>
-</div>
-
-<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[We went up near beautiful Creux du Van to spend a day reflecting on the year, ourselves and our science. We also had a lot of fun and enjoyed the great food. Thanks everyone for coming!]]></summary></entry><entry><title type="html">International apéro - best lab, best food 👩‍🍳</title><link href="http://pathogen-genomics.org/2023/06/15/Apero.html" rel="alternate" type="text/html" title="International apéro - best lab, best food 👩‍🍳" /><published>2023-06-15T00:00:00+00:00</published><updated>2025-12-03T07:54:25+00:00</updated><id>http://pathogen-genomics.org/2023/06/15/Apero</id><content type="html" xml:base="http://pathogen-genomics.org/2023/06/15/Apero.html"><![CDATA[<p>Emile launched a new edition of our international apéros. Everyone brings what they like best from their home country (or elsewhere). Needless to say that this turned out to be amazing and super fun. Thanks everyone!</p>
-
-<div class="layout-blog">
-  <body>
-
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-
-<a href="/images/blog/apero_062023.jpeg" data-fancybox="gallery" data-caption="Best lab, best food!">
-	<img src="/images/blog/apero_062023.jpeg" alt="" /></a>
-
-</body>
-</div>
-
-<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Daniel</name></author><summary type="html"><![CDATA[Emile launched a new edition of our international apéros. Everyone brings what they like best from their home country (or elsewhere). Needless to say that this turned out to be amazing and super fun. Thanks everyone!]]></summary></entry></feed>
+<p><a href="/blog/">Back to all blogs</a></p>]]></content><author><name>Ivan Skakov</name></author><summary type="html"><![CDATA[ECFG17 just took place in Dublin, Ireland! Ursula gave an amazing talk on the remarkably scarce yet intriguing TE content in Candida albicans, Thomas presented a poster on his recent work exploring the signatures of the fungal TE-defense RIP system across the fungal kingdom and I had a poster on mitochondrial genome diversity within the Zymoseptoria tritici species. We were thrilled to be part of the global fungal scientific community, and the venue was stunning — we enjoyed exploring Dublin and its surroundings!]]></summary></entry></feed>
