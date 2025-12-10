@@ -72,6 +72,10 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+5 Dec 2025 | We had a wonderful Christmas dinner together. So tasty raclette!
+1 Dec 2025 | A very warm welcome to Jigisha joining us as a postdoc! Check out her blog post [here](/blog/).
+28 Nov 2025 | We went on a wonderful lab retreat to the Jura mountains. Check out the [blog post](/blog/).
+26 Nov 2025 | Daniel was invited to visits in China. Check out the [blog post](/blog/).
 5 Nov 2025 | A very warm welcome to Melanie, Benjamin, Raissa and Joris! Very excited to have you with us.
 1 Oct 2025 | We recently published papers in Microbiome, Nature Comms, PLOS Biology, Trends in Microbiology & more. Congrats to all authors! Check out [our publications](https://pathogen-genomics.org/publications/)
 5 May 2025 | Sarai started her BRIDGE postdoc in our lab today. Welcome back!

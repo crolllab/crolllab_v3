@@ -9,6 +9,7 @@ aliases:
 links:
   email: jigisha.jigisha@unine.ch
   orcid: 0000-0002-7621-1336
+  bluesky: jigisha1.bsky.social
   google-scholar: hqC2GdQAAAAJ
   github: jjigisha
 ---
