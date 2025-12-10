@@ -34,7 +34,7 @@ Many of the world’s staple crops are vulnerable to the emergence of new pathog
 
 {%
   include feature.html
-  image="images/front_1.png"
+  image="images/site/front_1.png"
   link="research"
   title="Our Research focus"
   text=text
@@ -57,7 +57,7 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 {%
   include feature.html
-  image="images/front_2.jpeg"
+  image="images/site/front_2.jpeg"
   link="team"
   title="Meet our team"
   flip=true

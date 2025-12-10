@@ -1,7 +1,7 @@
 ---
 name: Ophélie Gning
 description: Lab technician
-image: images/default.jpg
+image: images/team/default.jpg
 group: current
 role: staff
 aliases:

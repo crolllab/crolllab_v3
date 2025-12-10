@@ -35,7 +35,7 @@ _Interested in joining our lab?_ You can either propose to apply for a fellowshi
 
 {%
   include figure.html
-  image="images/contact_1.jpeg"
+  image="images/site/contact_1.jpeg"
   caption="View of the Alps"
 %}
 
@@ -45,7 +45,7 @@ _Interested in joining our lab?_ You can either propose to apply for a fellowshi
 
 {%
   include figure.html
-  image="images/contact_2.jpeg"
+  image="images/site/contact_2.jpeg"
   caption="BBQ time"
 %}
 
@@ -55,7 +55,7 @@ _Interested in joining our lab?_ You can either propose to apply for a fellowshi
 
 {%
   include figure.html
-  image="images/contact_3.jpeg"
+  image="images/site/contact_3.jpeg"
   caption="Jura mountains"
 %}
 

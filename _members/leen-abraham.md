@@ -1,7 +1,7 @@
 ---
 name: Leen Abraham
 description: PhD student
-image: images/leen.jpg
+image: images/team/leen.jpg
 group: alumni
 role: phd
 aliases:

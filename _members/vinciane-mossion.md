@@ -1,7 +1,7 @@
 ---
 name: Vinciane Mossion
 description: PhD student
-image: images/vinciane_mossion.jpg
+image: images/team/vinciane_mossion.jpg
 group: alumni
 role: phd
 aliases:

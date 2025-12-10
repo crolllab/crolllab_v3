@@ -1,7 +1,7 @@
 ---
 name: Felix Zimmermann
 description: PhD student
-image: images/felix.jpg
+image: images/team/felix.jpg
 group: current
 role: phd
 aliases:

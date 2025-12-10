@@ -1,7 +1,7 @@
 ---
 name: Benjamin Adjei
 description: PhD student
-image: images/benjamin.jpg
+image: images/team/benjamin.jpg
 group: current
 role: phd
 aliases:

@@ -1,7 +1,7 @@
 ---
 name: Hadjer Bellah
 description: PhD student
-image: images/hadjer.jpg
+image: images/team/hadjer.jpg
 group: alumni
 role: phd
 aliases:

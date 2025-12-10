@@ -1,7 +1,7 @@
 ---
 name: C. Sarai Reyes-Avila
 description: BRIDGE Postdoctoral Researcher
-image: images/sarai.jpg
+image: images/team/sarai.jpg
 group: current
 role: postdoc
 aliases:

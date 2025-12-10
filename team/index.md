@@ -10,9 +10,9 @@ We are a diverse group of people with interests in evolutionary biology, microbi
 
 {% capture content %}
 
-{% include figure.html image="images/group_1.jpeg" %}
-{% include figure.html image="images/group_2.jpeg" %}
-{% include figure.html image="images/group_3.jpeg" %}
+{% include figure.html image="images/team/group_1.jpeg" %}
+{% include figure.html image="images/team/group_2.jpeg" %}
+{% include figure.html image="images/team/group_3.jpeg" %}
 
 {% endcapture %}
 

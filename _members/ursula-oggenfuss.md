@@ -1,7 +1,7 @@
 ---
 name: Ursula Oggenfuss
 description: 
-image: images/ursula.jpg
+image: images/team/ursula.jpg
 group: alumni
 role: postdoc
 aliases:

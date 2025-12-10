@@ -1,7 +1,7 @@
 ---
 name: Chloé Leseigneur
 description: MSc student
-image: images/default.jpg
+image: images/team/default.jpg
 group: alumni
 role: undergrad
 aliases:

@@ -1,7 +1,7 @@
 ---
 name: Ana Margarida Sampaio
 description: 
-image: images/margarida.jpg
+image: images/team/margarida.jpg
 group: current
 role: postdoc
 aliases:

@@ -1,7 +1,7 @@
 ---
 name: Alice Feurtey
 description: Junior Group Leader
-image: images/alice.jpg
+image: images/team/alice.jpg
 group: alumni
 role: postdoc
 aliases:

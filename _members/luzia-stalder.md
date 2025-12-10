@@ -1,7 +1,7 @@
 ---
 name: Luzia Stalder
 description: PhD student
-image: images/luzia.png
+image: images/team/luzia.png
 group: alumni
 role: phd
 aliases:

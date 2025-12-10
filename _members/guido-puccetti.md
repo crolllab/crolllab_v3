@@ -1,7 +1,7 @@
 ---
 name: Guido Puccetti
 description: PhD student
-image: images/guido.jpg
+image: images/team/guido.jpg
 group: alumni
 role: phd
 aliases:

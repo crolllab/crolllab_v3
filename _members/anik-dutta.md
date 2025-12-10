@@ -1,7 +1,7 @@
 ---
 name: Anik Dutta
 description: PhD student
-image: images/anik.jpg
+image: images/team/anik.jpg
 group: alumni
 role: phd
 aliases:

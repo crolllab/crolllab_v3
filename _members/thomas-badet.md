@@ -1,7 +1,7 @@
 ---
 name: Thomas Badet
 description: Maître assistant
-image: images/thomas.jpg
+image: images/team/thomas.jpg
 group: alumni
 role: postdoc
 aliases:

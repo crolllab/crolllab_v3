@@ -1,7 +1,7 @@
 ---
 name: Raissa Da Silva Almeida
 description: Lab apprentice
-image: images/default.jpg
+image: images/team/default.jpg
 group: current
 role: staff
 aliases:

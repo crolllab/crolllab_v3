@@ -1,7 +1,7 @@
 ---
 name: Hanna Glad
 description: PhD student
-image: images/default.jpg
+image: images/team/default.jpg
 group: current
 role: phd
 aliases:

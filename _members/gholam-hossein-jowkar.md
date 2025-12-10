@@ -1,7 +1,7 @@
 ---
 name: Gholam-Hossein Jowkar
 description: PhD student
-image: images/gholam.jpg
+image: images/team/gholam.jpg
 group: alumni
 role: phd
 aliases:

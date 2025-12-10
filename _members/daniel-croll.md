@@ -1,7 +1,7 @@
 ---
 name: Daniel Croll
 description: Full Professor
-image: images/daniel.jpg
+image: images/team/daniel.jpg
 group: current
 role: pi
 aliases:

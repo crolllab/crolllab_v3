@@ -1,7 +1,7 @@
 ---
 name: Tobias Baril
 description: 
-image: images/toby.jpg
+image: images/team/toby.jpg
 group: current
 role: postdoc
 aliases:

@@ -1,7 +1,7 @@
 ---
 name: Eloïse Nydegger
 description: MSc student
-image: images/default.jpg
+image: images/team/default.jpg
 group: current
 role: undergrad
 aliases:

@@ -1,7 +1,7 @@
 ---
 name: Sandra Milena González-Sayer
 description: Swiss Government Excellence Scholar
-image: images/sami.png
+image: images/team/sami.png
 group: alumni
 role: postdoc
 aliases:

@@ -1,7 +1,7 @@
 ---
 name: Emile Gluck-Thaler
 description: Marie Skłodowska-Curie Postdoctoral Fellow
-image: images/emile.jpg
+image: images/team/emile.jpg
 group: alumni
 role: postdoc
 aliases:

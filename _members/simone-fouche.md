@@ -1,7 +1,7 @@
 ---
 name: Simone Fouché
 description: PhD student
-image: images/simone.jpg
+image: images/team/simone.jpg
 group: alumni
 role: phd
 aliases:

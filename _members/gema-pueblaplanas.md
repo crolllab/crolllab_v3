@@ -1,7 +1,7 @@
 ---
 name: Gema Puebla Planas
 description: Visitor
-image: images/default.jpg
+image: images/team/default.jpg
 group: alumni
 role: phd student
 aliases:

@@ -1,7 +1,7 @@
 ---
 name: Vinciane Monod
 description: PhD student
-image: images/vinciane_monod.jpg
+image: images/team/vinciane_monod.jpg
 group: alumni
 role: phd
 aliases:

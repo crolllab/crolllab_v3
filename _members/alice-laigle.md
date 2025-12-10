@@ -1,7 +1,7 @@
 ---
 name: Alice Laigle
 description: PhD student
-image: images/alicel.jpg
+image: images/team/alicel.jpg
 group: alumni
 role: phd
 aliases:

@@ -1,7 +1,7 @@
 ---
 name: Nikhil Kumar Singh
 description: PhD student
-image: images/nikhil.jpg
+image: images/team/nikhil.jpg
 group: alumni
 role: phd
 aliases:

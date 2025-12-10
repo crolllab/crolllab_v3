@@ -1,7 +1,7 @@
 ---
 name: Sabina Moser Tralamazza
 description: 
-image: images/sabina.jpg
+image: images/team/sabina.jpg
 group: alumni
 role: postdoc
 aliases:

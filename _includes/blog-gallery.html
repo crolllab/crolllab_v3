@@ -1,0 +1,30 @@
+{% comment %}
+Blog Gallery Include - Simplifies adding image galleries to blog posts
+Usage: {% include blog-gallery.html folder="blog_2025-01-15" images="
+img1.jpg::Caption one
+img2.jpg::Caption two
+" %}
+{% endcomment %}
+
+<div class="layout-blog" markdown="1">
+<body>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+{% assign lines = include.images | strip | split: "
+" %}
+{% for line in lines %}
+  {% assign line_stripped = line | strip %}
+  {% if line_stripped != "" %}
+    {% assign parts = line_stripped | split: "::" %}
+    {% assign img = parts[0] | strip %}
+    {% assign caption = parts[1] | strip | default: "" %}
+<a href="/images/blog/{{ include.folder }}/{{ img }}" data-fancybox="gallery" data-caption="{{ caption }}">
+	<img src="/images/blog/{{ include.folder }}/{{ img }}" alt="{{ caption }}" /></a>
+  {% endif %}
+{% endfor %}
+
+</body>
+</div>

@@ -1,7 +1,7 @@
 ---
 name: Ivan Skakov
 description: PhD student
-image: images/ivan.jpg
+image: images/team/ivan.jpg
 group: current
 role: phd
 aliases:

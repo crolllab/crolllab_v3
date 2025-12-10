@@ -1,7 +1,7 @@
 ---
 name: Wided Abdedayem
 description: PhD student
-image: images/default.jpg
+image: images/team/default.jpg
 group: alumni
 role: phd
 aliases:

@@ -1,7 +1,7 @@
 ---
 name: Jigisha Jigisha
 description: 
-image: images/jigisha.jpg
+image: images/team/jigisha.jpg
 group: current
 role: postdoc
 aliases:

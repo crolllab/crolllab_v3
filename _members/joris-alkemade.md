@@ -1,7 +1,7 @@
 ---
 name: Joris Alkemade
 description: 
-image: images/joris.jpg
+image: images/team/joris.jpg
 group: current
 role: postdoc
 aliases:
