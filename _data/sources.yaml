@@ -918,6 +918,13 @@
   tags:
     - bioRxiv
     - TEs
+- id: doi:10.64898/2025.12.09.693112
+  type: preprint
+  image: /images/pub_images/693112.png
+  tags:
+    - bioRxiv
+    - Parastagonospora
 
 
-#- id: update Toby NComms
+
+
