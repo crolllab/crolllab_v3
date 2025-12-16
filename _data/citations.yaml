@@ -3771,3 +3771,26 @@
   - TEs
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.64898/2025.12.09.693112
+  title: "A conserved fungal transcription factor domain drives protein-protein interactions\
+    \ and necrotrophic effector-mediated virulence in\n                  <i>Parastagonospora\
+    \ nodorum</i>"
+  authors:
+  - Shota Morikawa
+  - Carlia Herbst
+  - Evan John
+  - Daniel Croll
+  - Carl Mousley
+  - Bernadette Henares
+  - Kar-Chun Tan
+  - Callum Verdonk
+  publisher: openRxiv
+  date: '2025-12-11'
+  link: https://doi.org/hbfvff
+  type: preprint
+  image: /images/pub_images/693112.png
+  tags:
+  - bioRxiv
+  - Parastagonospora
+  plugin: sources.py
+  file: sources.yaml
