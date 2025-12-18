@@ -2,23 +2,23 @@
 layout: default
 ---
 
-{% capture floatcontent %}
-
-{% include portrait.html lookup=page.slug %}
-
-<div>
-  {% for link in page.links %}
-    {% assign key = link[0] %}
-    {% assign value = link[1] %}
-    {% include button.html type=key link=value style="bare" %}<br>
-  {% endfor %}
+<div style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap;">
+  <div style="flex: 0 0 300px; max-width: 300px;">
+    {% include portrait.html lookup=page.slug %}
+    
+    <div>
+      {% for link in page.links %}
+        {% assign key = link[0] %}
+        {% assign value = link[1] %}
+        {% include button.html type=key link=value style="bare" %}<br>
+      {% endfor %}
+    </div>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px;">
+    {{ content }}
+  </div>
 </div>
-
-{% endcapture %}
-
-{% include float.html content=floatcontent %}
-
-{{ content }}
 
 {% assign aliases = page.aliases
   | default: page.name
