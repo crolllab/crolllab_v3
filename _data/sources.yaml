@@ -924,7 +924,12 @@
   tags:
     - bioRxiv
     - Parastagonospora
+- id: doi:10.1186/s12870-025-07936-2
+  type: paper
+  tags:
+   - Zymoseptoria
+   - Fungicide resistance
 
-
-# BMC Plant Biology
+# Add image: BMC Plant Biology
+# Add papers: Cenococcum GBE; update chr17 GBE; update Pseudocercospora Mobile DNA
 
