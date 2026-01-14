@@ -3794,3 +3794,26 @@
   - Parastagonospora
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1186/s12870-025-07936-2
+  title: Discovery of globally rare CYP51 mutations associated with azole resistance
+    in Iranian Zymoseptoria tritici isolates
+  authors:
+  - Azar Esfehani
+  - Debabrata Dutta
+  - Guido Puccetti
+  - Pablo Antonio Chong Aguirre
+  - Ehssan Torabi
+  - Naser Mohammadi
+  - Daniel Croll
+  - Angela Feechan
+  - Amir Mirzadi Gohari
+  publisher: BMC Plant Biology
+  date: '2025-12-17'
+  link: https://doi.org/hbjxxc
+  type: paper
+  image: /images/pub_images/s12870-025-07936-2.png
+  tags:
+  - Zymoseptoria
+  - Fungicide resistance
+  plugin: sources.py
+  file: sources.yaml
