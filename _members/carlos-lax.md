@@ -9,7 +9,7 @@ aliases:
 links:
   email: carlos.lax@unine.ch
   orcid: 0000-0002-2059-303X
-  scholar: R65TJZcAAAAJ
+  google-scholar: R65TJZcAAAAJ
 ---
 
 

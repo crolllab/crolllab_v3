@@ -8,9 +8,9 @@ aliases:
   - Ghizlane Tahiri
 links:
   email: ghizlane.tahiri@unine.ch
-  linkedin: www.linkedin.com/in/ghizlane-tahiri-zainane-aa356b143
+  linkedin: ghizlane-tahiri-zainane-aa356b143
   orcid: 0000-0002-5406-1613
-  scholar: MaLd758AAAAJ
+  google-scholar: MaLd758AAAAJ
   twitter: GhizlaneTahiriZ
   bluesky: ghizlane-tahirizn.bsky.social
 ---
