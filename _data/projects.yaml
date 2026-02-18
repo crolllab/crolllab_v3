@@ -22,19 +22,11 @@
   description: Our group is also interested in understanding the evolution of genome architecture. In particular, we want to retrace the emergence of novelty (e.g. new genes) and major structural rearrangements. For this, we assemble and analyse complete fungal genomes. We found that homologous Z. tritici chromosomes segregate significant structural rearrangements within populations and that such variation created key adaptations to overcome host resistance. The genome of Z. tritici also comprises a highly polymorphic complement of eight chromosomes that are not found in every member of the species. During meiosis, accessory chromosomes frequently undergo rearrangements, fusions and non-disjunction events. Our aims are to precisely identify the mechanisms responsible for the chromosomal abberrations and how chromosomal polymorphism is generated and maintained in populations.
   repo: 
   tags:
-- title: Population genomics of human pathogenic fungi
-  subtitle: 
-  group: featured
-  image: images/site/research_4.png
-  link:
-  description: Our group occasionally works on Cryptococcus and Malassezia fungi. These opportunistic pathogens of animals (including humans) are major threats to public health and provide fascinating models for the emergence of virulence. The most frequent infections are caused by C. neoformans (an estimated 625’000 deaths yearly). However, an ongoing outbreak in the North American Pacific Northwest and other continents is caused by the related species C. gattii which is able to cause disease in otherwise healthy individuals with a relatively high mortality rate. We use resequenced genomes of a large number of C. gattii strains to identify patterns of introgression and chromosomal rearrangements that shaped the genomic diversity in lineages. Malassezia fungi are implicated in a variety of skin diseases. We study the fungal diversity of Malassezia infections using genomic tools.
-  repo: 
-  tags:
-- title: Evolutionary genetics of major population bottlenecks
+- title: Conservation genomics and mutation load of endangered species
   subtitle: 
   group: featured
   image: images/site/research_5.png
   link:
-  description: Our group collaborates on research projects on Alpine ibex, a flagship species for the successful restoration from near extinction. Alpine ibex suffered from a population bottleneck of a few hundred individuals caused by overhunting. The species was reestablished across the Alps and counts again around 40’000 individuals. We showed that Alpine ibex received genetic material from domestic goats through hybridization and introgression. A process that was likely favored by the population bottleneck. We are also interested in the consequences of population bottlenecks on the fate of deleterious mutations.
+  description: Our group collaborates on research projects on Alpine ibex and other flagship species threatened by small population size. Alpine ibex suffered from a population bottleneck of a few hundred individuals caused by overhunting. The species was reestablished across the Alps and counts again around 40’000 individuals. We showed that Alpine ibex received genetic material from domestic goats through hybridization and introgression. A process that was likely favored by the population bottleneck. We are also interested in the consequences of population bottlenecks on the fate of deleterious mutations.
   repo: 
   tags:
