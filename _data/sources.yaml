@@ -723,11 +723,10 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2023/07/17/2023.07.16.549241/F6.large.jpg?width=800&height=600&carousel=1
   tags: 
     - Zymoseptoria
-- id: doi:10.1101/2023.07.14.549097
-  type: preprint
+- id: doi:10.1093/gbe/evag037
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2023/07/15/2023.07.14.549097/F1.large.jpg?width=800&height=600&carousel=1
   tags: 
-    - bioRxiv
     - TEs
     - Zymoseptoria
 - id: doi:10.1186/s40168-025-02206-7
@@ -930,6 +929,14 @@
   tags:
    - Zymoseptoria
    - Fungicide resistance
+- id: doi:10.1093/gbe/evag017
+  type: paper
+  image: /images/pub_images/evag017.png
+  tags:
+    - TEs
+    - Mycorrhizal fungi
 
-# Add papers: Cenococcum GBE; update chr17 GBE; update Pseudocercospora Mobile DNA
+# Add papers: 
+# Pseudocercospora Mobile DNA
+# MycoMobilome
 
