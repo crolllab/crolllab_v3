@@ -3088,21 +3088,20 @@
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.07.14.549097
+- id: doi:10.1093/gbe/evag037
   title: Recurrent chromosome destabilization through repeat-mediated rearrangements
     in a fungal pathogen
   authors:
   - "Simone Fouch\xE9"
   - Ursula Oggenfuss
-  - Bruce A. McDonald
+  - Bruce A McDonald
   - Daniel Croll
-  publisher: openRxiv
-  date: '2023-07-15'
-  link: https://doi.org/gsgwnx
-  type: preprint
+  publisher: Genome Biology and Evolution
+  date: '2026-02-16'
+  link: https://doi.org/hbpth8
+  type: paper
   image: https://www.biorxiv.org/content/biorxiv/early/2023/07/15/2023.07.14.549097/F1.large.jpg?width=800&height=600&carousel=1
   tags:
-  - bioRxiv
   - TEs
   - Zymoseptoria
   plugin: sources.py
@@ -3817,5 +3816,31 @@
   tags:
   - Zymoseptoria
   - Fungicide resistance
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/gbe/evag017
+  title: "Chromosome-scale Genome Assembly of the Most Abundant Ectomycorrhizal Fungus\n\
+    \                    <i>Cenococcum Geophilum</i>\n                    Reveals\
+    \ Massive TE Expansion and RIP Defense Mechanism"
+  authors:
+  - Benjamin Dauphin
+  - Tobias Baril
+  - Emmanuelle Morin
+  - Ursula Oggenfuss
+  - Stephanie Pfister
+  - Maira De Freitas Pereira
+  - Igor V Grigoriev
+  - Annegret Kohler
+  - Francis Martin
+  - Daniel Croll
+  - Martina Peter
+  publisher: Genome Biology and Evolution
+  date: '2026-01-22'
+  link: https://doi.org/hbptjq
+  type: paper
+  image: /images/pub_images/evag017.png
+  tags:
+  - TEs
+  - Mycorrhizal fungi
   plugin: sources.py
   file: sources.yaml
