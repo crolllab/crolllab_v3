@@ -12,7 +12,6 @@ links:
   github: samhorsfield96
   linkedin: samuel-horsfield-280754101
   google-scholar: 4JrVLmcAAAAJ
-  twitter: GhizlaneTahiriZ
   bluesky: samuelhorsfield.bsky.social
 
 ---
