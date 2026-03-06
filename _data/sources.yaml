@@ -881,11 +881,10 @@
   tags:
     - bioRxiv
     - Zymoseptoria
-- id: doi:10.1101/2025.08.13.670038
-  type: preprint
+- id: doi:10.1186/s13100-026-00396-x
+  type: paper
   image: /images/pub_images/670038.png
   tags:
-    - bioRxiv
     - TEs
 - id: doi:10.1101/2025.09.05.674409
   type: preprint
@@ -911,11 +910,11 @@
     - TEs
     - Wheat blast
     - Rice blast
-- id: doi:10.1101/2025.10.28.685023
-  type: preprint
+- id: doi:10.1093/nargab/lqag026
+  type: paper
   image: /images/pub_images/685023.png
   tags:
-    - bioRxiv
+    - Highlight
     - TEs
 - id: doi:10.64898/2025.12.09.693112
   type: preprint
@@ -936,7 +935,4 @@
     - TEs
     - Mycorrhizal fungi
 
-# Add papers: 
-# Pseudocercospora Mobile DNA
-# MycoMobilome
 
