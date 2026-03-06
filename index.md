@@ -72,6 +72,7 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+6 March 2026 | A big welcome to Sam joining us for a postdoc! Check out his blog posts [here](/blog/).
 2 Feb 2026 | A very warm welcome to Carlos, Ghizlane and Théophile joining us for postdoc projects! Check out their blog posts [here](/blog/).
 5 Dec 2025 | We had a wonderful Christmas dinner together. So tasty raclette!
 1 Dec 2025 | A very warm welcome to Jigisha joining us as a postdoc! Check out her blog post [here](/blog/).
