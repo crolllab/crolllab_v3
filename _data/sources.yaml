@@ -934,5 +934,9 @@
   tags:
     - TEs
     - Mycorrhizal fungi
-
-
+- id: doi:10.64898/2026.03.06.710201
+  type: preprint
+  image: /images/pub_images/710201.png
+  tags:
+    - bioRxiv
+    - Zymoseptoria
