@@ -807,7 +807,7 @@
   date: '2023-07-01'
   link: https://doi.org/grtvcf
   type: review
-  image: https://www.cell.com/cms/attachment/10c60bb2-af4c-42cc-90cb-dda29c8cab23/b1.jpg
+  image: /images/pub_images/2023.01.005.png
   tags:
   - Conservation genomics
   - Review
@@ -1892,7 +1892,7 @@
   date: '2022-04-05'
   link: https://doi.org/gr6pz2
   type: paper
-  image: https://onlinelibrary.wiley.com/cms/asset/cefd2651-d368-4311-b0f1-1c8d5f24d106/mec16435-fig-0001-m.jpg
+  image: /images/pub_images/16435.png
   tags:
   - Rhynchosprium
   plugin: sources.py
@@ -2155,7 +2155,7 @@
   date: '2022-06-10'
   link: https://doi.org/gp99r7
   type: paper
-  image: https://www.science.org/cms/10.1126/science.abo2401/asset/ee4f671d-5281-417b-91f4-bd63debd404d/assets/images/large/science.abo2401-f1.jpg
+  image: /images/pub_images/abo2401.png
   tags:
   - Highlight
   - Ustilago
@@ -2329,7 +2329,7 @@
   date: '2022-06-29'
   link: https://doi.org/gr6pzv
   type: paper
-  image: https://journals.asm.org/cms/10.1128/spectrum.00506-22/asset/2f734217-262a-450c-a686-e5c671ead678/assets/images/medium/spectrum.00506-22-f004.gif
+  image: /images/pub_images/00506-22.png
   tags:
   - Human pathogens
   plugin: sources.py
@@ -2348,7 +2348,7 @@
   date: '2022-12-21'
   link: https://doi.org/gr6pzh
   type: paper
-  image: https://journals.asm.org/cms/10.1128/spectrum.02513-22/asset/7c8dbf9a-c852-4c77-968a-914b40ea236a/assets/images/medium/spectrum.02513-22-f001.gif
+  image: /images/pub_images/02513-22.png
   tags:
   - Microbiome
   plugin: sources.py
@@ -2364,7 +2364,7 @@
   date: '2023-04-13'
   link: https://doi.org/gr6pzb
   type: paper
-  image: https://journals.asm.org/cms/10.1128/spectrum.02513-22/asset/7c8dbf9a-c852-4c77-968a-914b40ea236a/assets/images/medium/spectrum.02513-22-f001.gif
+  image: /images/pub_images/04443-22.png
   tags:
   - Zymoseptoria
   plugin: sources.py
@@ -3051,7 +3051,7 @@
   date: '2023-11-10'
   link: https://doi.org/gr933q
   type: paper
-  image: https://apsjournals.apsnet.org/na101/home/literatum/publisher/aps/journals/covergifs/phyto/cover.jpg
+  image: /images/pub_images/09-22-0348-R.png
   tags:
   - Zymoseptoria
   plugin: sources.py
@@ -3083,7 +3083,7 @@
   date: '2023-11-22'
   link: https://doi.org/gs6gd2
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/07/17/2023.07.16.549241/F6.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/0.001136.png
   tags:
   - Zymoseptoria
   plugin: sources.py
@@ -3100,7 +3100,7 @@
   date: '2026-02-16'
   link: https://doi.org/hbpth8
   type: paper
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/07/15/2023.07.14.549097/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/pub_images/evag037.png
   tags:
   - TEs
   - Zymoseptoria
@@ -3171,7 +3171,7 @@
   date: '2023-12-12'
   link: https://doi.org/gs9bdx
   type: paper
-  image: https://onlinelibrary.wiley.com/cms/asset/15900c87-021a-47e5-9673-ff3d573007ae/mec17242-fig-0001-m.jpg
+  image: /images/pub_images/17242.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/nar/gkad1214
