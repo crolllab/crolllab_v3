@@ -21,7 +21,7 @@
 - title: MycoMobilome
   subtitle: Tobias Baril
   group: featured
-  image: images/tools/mycomobilome.svg
+  image: images/tools/mycomobilome.png
   link: https://github.com/TobyBaril/MycoMobilome
   description: MycoMobilome is a non-redundant database of transposable element consensus sequences generated from over 4,000 publicly available fungal genome assemblies, providing a comprehensive and reproducible reference for fungal TE annotation and comparative studies. Community contributions are welcome via the Zenodo MycoMobilome community.
   tags:
