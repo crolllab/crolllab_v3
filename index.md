@@ -72,6 +72,8 @@ We are a diverse group of people combining skills in evolutionary biology, micro
 
 
 ---  |---
+8 June 2026 | We highlight now tools developed by lab members [tools](/tools/).
+1 June 2026 | Welcome Gabriel Dessiex! He is starting his PhD in collaboration with Agroscope.
 6 March 2026 | A big welcome to Sam joining us for a postdoc! Check out his blog posts [here](/blog/).
 2 Feb 2026 | A very warm welcome to Carlos, Ghizlane and Théophile joining us for postdoc projects! Check out their blog posts [here](/blog/).
 5 Dec 2025 | We had a wonderful Christmas dinner together. So tasty raclette!
