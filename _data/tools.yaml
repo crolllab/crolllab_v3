@@ -1,0 +1,40 @@
+- title: Earl Grey
+  subtitle: Tobias Baril
+  group: featured
+  image: images/tools/earlgrey.png
+  link: https://github.com/TobyBaril/EarlGrey
+  description: Earl Grey is a fully automated transposable element (TE) annotation pipeline that combines widely-used repeat detection tools with a consensus elongation process to produce high-quality, de novo TE annotations for new genome assemblies. Packaged via Bioconda and Docker for easy deployment on any system.
+  tags:
+    - Transposable elements
+    - Genome annotation
+
+- title: Earl Grey ParTEA
+  subtitle: Tobias Baril
+  group: featured
+  image: images/tools/earlgrey-partea.png
+  link: https://github.com/TobyBaril/EarlGreyParTEA
+  description: EarlGrey ParTEA is a Snakemake-based pipeline that extends Earl Grey to process multiple genomes in parallel, building pangenome TE libraries and enabling comparative transposable element analysis across species or populations. It supports SLURM cluster submission and automated resource allocation.
+  tags:
+    - Transposable elements
+    - Pangenomics
+
+- title: MycoMobilome
+  subtitle: Tobias Baril
+  group: featured
+  image: images/tools/mycomobilome.svg
+  link: https://github.com/TobyBaril/MycoMobilome
+  description: MycoMobilome is a non-redundant database of transposable element consensus sequences generated from over 4,000 publicly available fungal genome assemblies, providing a comprehensive and reproducible reference for fungal TE annotation and comparative studies. Community contributions are welcome via the Zenodo MycoMobilome community.
+  tags:
+    - Transposable elements
+    - Fungal genomics
+    - Database
+
+- title: genomepanel_nf
+  subtitle: Daniel Croll
+  group: featured
+  image: images/tools/genomepanel-nf.png
+  link: https://crolllab.github.io/genomepanel_nf/
+  description: genomepanel_nf is a Nextflow pipeline for highly efficient reference genome mapping, variant (SNP/indel) calling and quality control of large genome panels, accepting local FASTQ files, SRA/ENA accessions, or pre-processed BAM files as input. It performs joint genotyping via GATK best practices and runs fully containerised via Singularity on HPC or local machines.
+  tags:
+    - Variant calling
+    - Population genomics

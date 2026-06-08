@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 6
+  order: 7
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact

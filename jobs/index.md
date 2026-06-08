@@ -1,7 +1,7 @@
 ---
 title: Jobs
 nav:
-  order: 4
+  order: 5
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Job announcements
