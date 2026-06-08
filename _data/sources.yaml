@@ -769,7 +769,6 @@
   image: /images/pub_images/s13100-024-00312-1.png
   tags:
     - TEs
-    - bioRxiv
 - id: doi:10.1186/s12915-023-01786-w
   type: review
   image: https://media.springernature.com/lw450/springer-cms/rest/v1/content/26609250/data/v1
@@ -892,11 +891,10 @@
   tags:
     - bioRxiv
     - Microbiome
-- id: doi:10.1101/2025.09.19.677456
-  type: preprint
+- id: doi:10.1093/gbe/evag118
+  type: paper
   image: /images/pub_images/677456.png
   tags:
-    - bioRxiv
     - Zymoseptoria
 - id: doi:10.1007/s00572-025-01228-1
   type: paper
