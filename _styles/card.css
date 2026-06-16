@@ -23,6 +23,15 @@
   width: 100%;
 }
 
+.card[data-style=tool] .card-image {
+  width: 100%;
+  background: var(--background-alt);
+}
+
+.card[data-style=tool] .card-image img {
+  object-fit: contain;
+}
+
 .card-text {
   display: inline-flex;
   justify-content: flex-start;
