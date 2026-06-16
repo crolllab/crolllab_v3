@@ -14,6 +14,6 @@ If you have any questions or suggestions, please don't hesitate to reach out to 
 
 {% include section.html %}
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="tools" filters="group: featured" style="tool" %}
 
 {% include section.html %}
