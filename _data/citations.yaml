@@ -3768,9 +3768,9 @@
   - TEs
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.64898/2025.12.09.693112
-  title: "A conserved fungal transcription factor domain drives protein-protein interactions\
-    \ and necrotrophic effector-mediated virulence in\n                  <i>Parastagonospora\
+- id: doi:10.1094/MPMI-01-26-0006-R
+  title: "A Conserved Transcription Factor Domain Drives Necrotrophic Effector-Mediated\
+    \ Virulence and Putative Protein Interactions in\n                    <i>Parastagonospora\
     \ nodorum</i>"
   authors:
   - Shota Morikawa
@@ -3781,13 +3781,12 @@
   - Bernadette Henares
   - Kar-Chun Tan
   - Callum Verdonk
-  publisher: openRxiv
-  date: '2025-12-11'
-  link: https://doi.org/hbfvff
-  type: preprint
+  publisher: "Molecular Plant-Microbe Interactions\xAE"
+  date: '2026-06-07'
+  link: https://doi.org/hb72qk
+  type: paper
   image: /images/pub_images/693112.png
   tags:
-  - bioRxiv
   - Parastagonospora
   plugin: sources.py
   file: sources.yaml
@@ -3854,5 +3853,22 @@
   tags:
   - bioRxiv
   - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tig.2026.05.008
+  title: The fungal RIP hypermutator mechanism has deep eukaryotic roots
+  authors:
+  - Fabienne Malagnac
+  - Eugene Gladyshev
+  - Daniel Croll
+  - Thomas Badet
+  publisher: Trends in Genetics
+  date: '2026-06-01'
+  link: https://doi.org/hb72qm
+  type: review
+  image: /images/pub_images/tig_2026.png
+  tags:
+  - Highlight
+  - TEs
   plugin: sources.py
   file: sources.yaml
