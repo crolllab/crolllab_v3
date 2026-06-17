@@ -914,11 +914,10 @@
   tags:
     - Highlight
     - TEs
-- id: doi:10.64898/2025.12.09.693112
-  type: preprint
+- id: doi:10.1094/MPMI-01-26-0006-R
+  type: paper
   image: /images/pub_images/693112.png
   tags:
-    - bioRxiv
     - Parastagonospora
 - id: doi:10.1186/s12870-025-07936-2
   type: paper
@@ -938,6 +937,10 @@
   tags:
     - bioRxiv
     - Zymoseptoria
-# update Callum MPMI
-# add TIG 
+- id: doi:10.1016/j.tig.2026.05.008
+  type: review
+  image: /images/pub_images/tig_2026.png
+  tags:
+    - Highlight
+    - TEs
 # add Margarida MGen
