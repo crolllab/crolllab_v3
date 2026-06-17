@@ -1,9 +1,5 @@
 {% assign all_news = site.data.news %}
-{% if include.limit %}
-  {% assign news_items = all_news | slice: 0, include.limit %}
-{% else %}
-  {% assign news_items = all_news %}
-{% endif %}
+{% assign news_initial = 10 %}
 
 <div class="news-legend">
   <span class="news-legend-item news-paper"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Publication</span>
@@ -14,7 +10,7 @@
 </div>
 
 <div class="news-list">
-  {% for item in news_items %}
+  {% for item in all_news %}
     {% case item.type %}
       {% when "paper" %}
         {% assign news_icon  = "fa-solid fa-file-lines" %}
@@ -38,7 +34,13 @@
         {% assign news_label = "Other" %}
     {% endcase %}
 
-    <div class="news-item {{ news_class }}">
+    {% if forloop.index0 >= news_initial %}
+      {% assign extra_class = " news-collapsed" %}
+    {% else %}
+      {% assign extra_class = "" %}
+    {% endif %}
+
+    <div class="news-item {{ news_class }}{{ extra_class }}">
       <div class="news-icon" title="{{ news_label }}">
         <i class="{{ news_icon }}" aria-hidden="true"></i>
       </div>
@@ -50,16 +52,18 @@
   {% endfor %}
 </div>
 
-{% if include.limit %}
-  {% assign limit_int = include.limit | plus: 0 %}
-  {% if limit_int < all_news.size %}
-    <p class="news-more">
-      {% include button.html
-        link="/#news-from-the-lab"
-        text="View all news"
-        icon="fa-solid fa-arrow-down"
-        style="bare"
-      %}
-    </p>
-  {% endif %}
+{% if all_news.size > news_initial %}
+<div class="news-more" id="news-expand-row">
+  <button
+    class="news-expand-btn"
+    aria-expanded="false"
+    onclick="
+      document.querySelectorAll('.news-collapsed').forEach(function(el){ el.classList.remove('news-collapsed'); });
+      document.getElementById('news-expand-row').style.display = 'none';
+    "
+  >
+    <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+    Show all {{ all_news.size }} news items
+  </button>
+</div>
 {% endif %}

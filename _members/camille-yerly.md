@@ -2,11 +2,11 @@
 name: Camille Yerly 
 description: MSc student
 image: images/team/default.jpg
-group: current
+group: alumni
 role: undergrad
 aliases:
 links:
   email: camille.yerly@unine.ch 
 ---
 
-Camille is doing her MSc and wants to investigate the impact of artificial reefs on fish communities in collaboration with a Thai research station.
+Camille completed her MSc and investigated the impact of artificial reefs on fish communities in collaboration with a Thai research station.
