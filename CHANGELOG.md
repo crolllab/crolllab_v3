@@ -2,6 +2,97 @@
 
 Reference: common-changelog.org
 
+## 1.3.9 - 2026-06-02
+
+### Changed
+
+- Upgrade MathJax version in Jekyll Spaceship, avoid polyfill.io.
+
+## 1.3.8 - 2025-11-17
+
+### Changed
+
+- Inherit secrets in GitHub Actions workflows where appropriate.
+- Add commented out ORCID plugin code to discard source if no ID.
+
+## 1.3.7 - 2025-07-31
+
+### Changed
+
+- Improve cleanup of PR preview folders in gh-pages branch.
+- Only run debug dump in debug mode to speed up workflow runs.
+
+## 1.3.6 - 2025-07-30
+
+### Changed
+
+- Improve behavior and flexibility of ORCID cite plugin.
+
+## 1.3.5 - 2025-05-12
+
+### Changed
+
+- Fix workflow bug where PR previews on GitHub Actions have broken styles/links/etc.
+- Fix tags component relative link bug.
+- Make Actions workflows a bit more robust.
+
+## 1.3.4 - 2025-02-03
+
+### Changed
+
+- Fix section component parsing bug.
+
+## 1.3.3 - 2025-01-25
+
+### Changed
+
+- Citation process logging enhancements.
+
+### Added
+
+- Add support for multiple authors in blog posts.
+- Add GitHub Actions workflow status badges to readme.
+
+## 1.3.2 - 2025-01-06
+
+### Changed
+
+- Misc enhancements and bug fixes.
+
+## 1.3.1 - 2024-11-11
+
+### Changed
+
+- Update and improve workflows for building site and citations.
+- Escape user inputs better in rare edge cases.
+
+## 1.3.0 - 2024-08-16
+
+### Changed
+
+- List component `filters` parameter changed to `filter` and now takes any Ruby expression instead of the existing custom syntax.
+  Example: `filters="publisher: bioRxiv, date: ^2020"` becomes `filter="publisher == 'bioRxiv' and date =~ /^2020/"`.
+- Fix rare bug where data (e.g. a paper title) containing certain characters (e.g. a double quote) can mess up HTML rendering.
+- Fix "first time setup" workflow bug.
+- Tweak GitHub Actions debugging/logging.
+
+### Added
+
+- Styling for `<details>` HTML element.
+
+## 1.2.2 - 2024-06-05
+
+### Added
+
+- Add `affiliation` member portrait field.
+
+### Changed
+
+- Change order and type of preferred ids from ORCID API.
+- Expand list of supported Manubot identifiers and thus keep ORCID API details less often.
+- Simplify portrait component under-the-hood.
+- Make tag component de-duplication consistent with search plugin de-duplication.
+
 ## 1.2.1 - 2024-04-01
 
 ### Changed

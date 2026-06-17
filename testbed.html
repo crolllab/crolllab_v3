@@ -397,7 +397,7 @@
   <script src="/_scripts/tooltip.js"></script>
 
 
-<script>MathJax={"tex":{"inlineMath":[["$","$"],["\\(","\\)"]],"displayMath":[["$$","$$"],["\\[","\\]"]]},"svg":{"fontCache":"global"}}</script><script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>MathJax={"tex":{"inlineMath":[["$","$"],["\\(","\\)"]],"displayMath":[["$$","$$"],["\\[","\\]"]]},"svg":{"fontCache":"global"}}</script><script src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
 </head>
 
   <body>
@@ -507,9 +507,9 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h1 id="basic-formatting">Basic formatting</h1>
@@ -652,9 +652,9 @@ It was the spring of hope, it was the winter of despair.</p>
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h1 id="jekyll-spaceship">Jekyll Spaceship</h1>
@@ -725,9 +725,9 @@ It was the spring of hope, it was the winter of despair.</p>
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h1 id="components">Components</h1>
@@ -741,9 +741,9 @@ It was the spring of hope, it was the winter of despair.</p>
 
   <section class="background" data-size="1" style="--image: url('/images/background.jpg')">
     <!--
-  background: images/background.jpg;
-  dark: ;
-  size: 1;
+  <background>images/background.jpg</background>
+  <dark></dark>
+  <size>1</size>
 -->
 
 <p>Section, <code class="language-plaintext highlighter-rouge">background</code></p>
@@ -755,9 +755,9 @@ It was the spring of hope, it was the winter of despair.</p>
 
   <section class="background" data-size="1" data-dark="true">
     <!--
-  background: ;
-  dark: true;
-  size: 1;
+  <background></background>
+  <dark>true</dark>
+  <size>1</size>
 -->
 
 <p>Section, <code class="language-plaintext highlighter-rouge">dark=true</code></p>
@@ -769,9 +769,9 @@ It was the spring of hope, it was the winter of despair.</p>
 
   <section class="background" data-size="2" data-dark="true" style="--image: url('/images/background.jpg')">
     <!--
-  background: images/background.jpg;
-  dark: true;
-  size: 2;
+  <background>images/background.jpg</background>
+  <dark>true</dark>
+  <size>2</size>
 -->
 
 <p>Section, <code class="language-plaintext highlighter-rouge">background</code> <code class="language-plaintext highlighter-rouge">dark=true</code></p>
@@ -783,9 +783,9 @@ It was the spring of hope, it was the winter of despair.</p>
 
   <section class="background" data-size="wide">
     <!--
-  background: ;
-  dark: ;
-  size: wide;
+  <background></background>
+  <dark></dark>
+  <size>wide</size>
 -->
 
 <p>Section, <code class="language-plaintext highlighter-rouge">size=wide</code></p>
@@ -797,9 +797,9 @@ It was the spring of hope, it was the winter of despair.</p>
 
   <section class="background" data-size="full">
     <!--
-  background: ;
-  dark: ;
-  size: full;
+  <background></background>
+  <dark></dark>
+  <size>full</size>
 -->
 
 <p>Section, <code class="language-plaintext highlighter-rouge">size=full</code> w/ figure</p>
@@ -821,9 +821,9 @@ It was the spring of hope, it was the winter of despair.</p>
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="figure">Figure</h2>
@@ -950,9 +950,9 @@ It was the spring of hope, it was the winter of despair.</p>
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="button">Button</h2>
@@ -1005,9 +1005,9 @@ It was the spring of hope, it was the winter of despair.</p>
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="icon">Icon</h2>
@@ -1028,9 +1028,9 @@ It was the spring of hope, it was the winter of despair.</p>
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="feature">Feature</h2>
@@ -1081,9 +1081,9 @@ It was the spring of hope, it was the winter of despair.</p>
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="list">List</h2>
@@ -1091,6 +1091,67 @@ It was the spring of hope, it was the winter of despair.</p>
 <h3 id="list-citations">List citations</h3>
 
 <h3 id="2026">2026</h3>
+
+<div class="citation-container">
+  <div class="citation">
+    
+
+    <div class="citation-text">
+      
+      <i class="icon fa-solid fa-scroll"></i>
+
+      <a href="https://doi.org/hb72qk" class="citation-title">
+        A Conserved Transcription Factor Domain Drives Necrotrophic Effector-Mediated Virulence and Putative Protein Interactions in
+                    <i>Parastagonospora nodorum</i>
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Shota Morikawa, Carlia Herbst, Evan John, Daniel Croll, Carl Mousley, Bernadette Henares, Kar-Chun Tan, Callum Verdonk
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Molecular Plant-Microbe Interactions®</span>
+         · 
+        <span class="citation-date">07 Jun 2026</span>
+         · 
+        <span class="citation-id">doi:10.1094/MPMI-01-26-0006-R</span>
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+<div class="citation-container">
+  <div class="citation">
+    
+
+    <div class="citation-text">
+      
+      <i class="icon fa-solid fa-scroll"></i>
+
+      <a href="https://doi.org/hb72qm" class="citation-title">
+        The fungal RIP hypermutator mechanism has deep eukaryotic roots
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Fabienne Malagnac, Eugene Gladyshev, Daniel Croll, Thomas Badet
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Trends in Genetics</span>
+         · 
+        <span class="citation-date">01 Jun 2026</span>
+         · 
+        <span class="citation-id">doi:10.1016/j.tig.2026.05.008</span>
+      </div>
+
+      
+    </div>
+  </div>
+</div>
 
 <div class="citation-container">
   <div class="citation">
@@ -1359,37 +1420,6 @@ It was the spring of hope, it was the winter of despair.</p>
         <span class="citation-date">17 Dec 2025</span>
          · 
         <span class="citation-id">doi:10.1186/s12870-025-07936-2</span>
-      </div>
-
-      
-    </div>
-  </div>
-</div>
-
-<div class="citation-container">
-  <div class="citation">
-    
-
-    <div class="citation-text">
-      
-      <i class="icon fa-regular fa-eye"></i>
-
-      <a href="https://doi.org/hbfvff" class="citation-title">
-        A conserved fungal transcription factor domain drives protein-protein interactions and necrotrophic effector-mediated virulence in
-                  <i>Parastagonospora nodorum</i>
-      </a>
-
-      <div class="citation-authors" tabindex="0">
-        Shota Morikawa, Carlia Herbst, Evan John, Daniel Croll, Carl Mousley, Bernadette Henares, Kar-Chun Tan, Callum Verdonk
-
-      </div>
-
-      <div class="citation-details">
-        <span class="citation-publisher">openRxiv</span>
-         · 
-        <span class="citation-date">11 Dec 2025</span>
-         · 
-        <span class="citation-id">doi:10.64898/2025.12.09.693112</span>
       </div>
 
       
@@ -6504,1200 +6534,1184 @@ It was the spring of hope, it was the winter of despair.</p>
 
 <div class="portrait-wrapper">
   <a href="/members/alice-feurtey.html" class="portrait" data-style="" aria-label="Alice Feurtey">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/alice.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Alice Feurtey
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Junior Group Leader</span>
-          </span>
-        
+      <span class="portrait-name">
+        Alice Feurtey
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Junior Group Leader
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/alice-laigle.html" class="portrait" data-style="" aria-label="Alice Laigle">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/alicel.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Alice Laigle
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Alice Laigle
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/ana-rodriguez.html" class="portrait" data-style="" aria-label="Ana Rodríguez López">
+    
+
     <img src="/images/team/ana-rodriguez-lopez.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Ana Rodríguez López
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            
-            <span>Visitor</span>
-          </span>
-        
+      <span class="portrait-name">
+        Ana Rodríguez López
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Visitor
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/anik-dutta.html" class="portrait" data-style="" aria-label="Anik Dutta">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/anik.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Anik Dutta
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Anik Dutta
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/asma-adam-abdi.html" class="portrait" data-style="" aria-label="Asma Adam Abdi">
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Asma Adam Abdi
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            
-            <span>Lab apprentice</span>
-          </span>
-        
+      <span class="portrait-name">
+        Asma Adam Abdi
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Lab apprentice
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/benjamin-adjei.html" class="portrait" data-style="" aria-label="Benjamin Adjei">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/benjamin.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Benjamin Adjei
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Benjamin Adjei
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/camille-yerly.html" class="portrait" data-style="" aria-label="Camille Yerly">
+    
+      <i class="icon fa-solid fa-user-graduate"></i>
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Camille Yerly
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-user-graduate"></i>
-            <span>MSc student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Camille Yerly
       </span>
+    
+
+    
+      <span class="portrait-description">
+        MSc student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/carlos-lax.html" class="portrait" data-style="" aria-label="Carlos Lax">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/carlos.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Carlos Lax
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Postdoctoral Researcher</span>
-          </span>
-        
+      <span class="portrait-name">
+        Carlos Lax
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Postdoctoral Researcher
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/cecilia-panzetti.html" class="portrait" data-style="" aria-label="Cecilia Panzetti">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/cecilia.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Cecilia Panzetti
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Cecilia Panzetti
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/chloe-leseigneur.html" class="portrait" data-style="" aria-label="Chloé Leseigneur">
+    
+      <i class="icon fa-solid fa-user-graduate"></i>
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Chloé Leseigneur
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-user-graduate"></i>
-            <span>MSc student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Chloé Leseigneur
       </span>
+    
+
+    
+      <span class="portrait-description">
+        MSc student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/christina-lado-arcos.html" class="portrait" data-style="" aria-label="Christina Lado Arcos">
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Christina Lado Arcos
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            
-            <span>Lab apprentice</span>
-          </span>
-        
+      <span class="portrait-name">
+        Christina Lado Arcos
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Lab apprentice
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/cristela-bondo-mateus.html" class="portrait" data-style="" aria-label="Cristela Bondo Mateus">
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Cristela Bondo Mateus
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            
-            <span>Lab apprentice</span>
-          </span>
-        
+      <span class="portrait-name">
+        Cristela Bondo Mateus
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Lab apprentice
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/daniel-croll.html" class="portrait" data-style="" aria-label="Daniel Croll">
+    
+      <i class="icon fa-solid fa-glasses"></i>
+    
+
     <img src="/images/team/daniel.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Daniel Croll
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-glasses"></i>
-            <span>Full Professor</span>
-          </span>
-        
+      <span class="portrait-name">
+        Daniel Croll
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Full Professor
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/eloise-nydegger.html" class="portrait" data-style="" aria-label="Eloïse Nydegger">
+    
+      <i class="icon fa-solid fa-user-graduate"></i>
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Eloïse Nydegger
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-user-graduate"></i>
-            <span>MSc student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Eloïse Nydegger
       </span>
+    
+
+    
+      <span class="portrait-description">
+        MSc student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
-  <a href="/members/emile-gluckthaler.html" class="portrait" data-style="" aria-label="Emile Gluck-Thaler">
+  <a href="/members/emile-gluckthaler.html" class="portrait" data-style="" aria-label="Emile Gluck Thaler">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/emile.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Emile Gluck-Thaler
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Marie Skłodowska-Curie Postdoctoral Fellow</span>
-          </span>
-        
+      <span class="portrait-name">
+        Emile Gluck-Thaler
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Marie Skłodowska-Curie Postdoctoral Fellow
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/felix-zimmermann.html" class="portrait" data-style="" aria-label="Felix Zimmermann">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/felix.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Felix Zimmermann
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Felix Zimmermann
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/gabriel-dussex.html" class="portrait" data-style="" aria-label="Gabriel Dessiex">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Gabriel Dessiex
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Gabriel Dessiex
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/gema-pueblaplanas.html" class="portrait" data-style="" aria-label="Gema Puebla Planas">
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Gema Puebla Planas
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            
-            <span>Visitor</span>
-          </span>
-        
+      <span class="portrait-name">
+        Gema Puebla Planas
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Visitor
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/ghizlane-tahiri.html" class="portrait" data-style="" aria-label="Ghizlane Tahiri">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/ghizlane.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Ghizlane Tahiri
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Postdoctoral Researcher</span>
-          </span>
-        
+      <span class="portrait-name">
+        Ghizlane Tahiri
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Postdoctoral Researcher
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
-  <a href="/members/gholam-hossein-jowkar.html" class="portrait" data-style="" aria-label="Gholam-Hossein Jowkar">
+  <a href="/members/gholam-hossein-jowkar.html" class="portrait" data-style="" aria-label="Gholam Hossein Jowkar">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/gholam.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Gholam-Hossein Jowkar
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Gholam-Hossein Jowkar
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/guido-puccetti.html" class="portrait" data-style="" aria-label="Guido Puccetti">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/guido.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Guido Puccetti
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Guido Puccetti
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/hadjer-bellah.html" class="portrait" data-style="" aria-label="Hadjer Bellah">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/hadjer.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Hadjer Bellah
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Hadjer Bellah
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/hanna-glad.html" class="portrait" data-style="" aria-label="Hanna Glad">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Hanna Glad
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Hanna Glad
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/ivan-skakov.html" class="portrait" data-style="" aria-label="Ivan Skakov">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/ivan.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Ivan Skakov
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Ivan Skakov
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
-  <a href="/members/jeanne-legendredespas.html" class="portrait" data-style="" aria-label="Jeanne Legendre--Despas">
+  <a href="/members/jeanne-legendredespas.html" class="portrait" data-style="" aria-label="Jeanne Legendre  Despas">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Jeanne Legendre--Despas
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Jeanne Legendre--Despas
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/jigisha-jigisha.html" class="portrait" data-style="" aria-label="Jigisha Jigisha">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/jigisha.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Jigisha Jigisha
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Postdoctoral Researcher</span>
-          </span>
-        
+      <span class="portrait-name">
+        Jigisha Jigisha
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Postdoctoral Researcher
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/joris-alkemade.html" class="portrait" data-style="" aria-label="Joris Alkemade">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/joris.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Joris Alkemade
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Postdoctoral Researcher</span>
-          </span>
-        
+      <span class="portrait-name">
+        Joris Alkemade
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Postdoctoral Researcher
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/leen-abraham.html" class="portrait" data-style="" aria-label="Leen Abraham">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/leen.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Leen Abraham
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Leen Abraham
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/leo-zuercher.html" class="portrait" data-style="" aria-label="Leo Zuercher">
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Leo Zuercher
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            
-            <span>Lab apprentice</span>
-          </span>
-        
+      <span class="portrait-name">
+        Leo Zuercher
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Lab apprentice
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/luzia-stalder.html" class="portrait" data-style="" aria-label="Luzia Stalder">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/luzia.png" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Luzia Stalder
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Luzia Stalder
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/margarida-sampaio.html" class="portrait" data-style="" aria-label="Ana Margarida Sampaio">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/margarida.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Ana Margarida Sampaio
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Postdoctoral Researcher</span>
-          </span>
-        
+      <span class="portrait-name">
+        Ana Margarida Sampaio
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Postdoctoral Researcher
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/melanier-echernier.html" class="portrait" data-style="" aria-label="Mélanie Echernier">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Mélanie Echernier
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Mélanie Echernier
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/nikhil-kumar-singh.html" class="portrait" data-style="" aria-label="Nikhil Kumar Singh">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/nikhil.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Nikhil Kumar Singh
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Nikhil Kumar Singh
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/noemie-freymond.html" class="portrait" data-style="" aria-label="Noémie Freymond">
+    
+      <i class="icon fa-solid fa-user-graduate"></i>
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Noémie Freymond
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-user-graduate"></i>
-            <span>MSc student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Noémie Freymond
       </span>
+    
+
+    
+      <span class="portrait-description">
+        MSc student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/ophelie-gning.html" class="portrait" data-style="" aria-label="Ophélie Gning">
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Ophélie Gning
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            
-            <span>Lab technician</span>
-          </span>
-        
+      <span class="portrait-name">
+        Ophélie Gning
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Lab technician
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/raissa-dasilva.html" class="portrait" data-style="" aria-label="Raissa Da Silva Almeida">
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Raissa Da Silva Almeida
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            
-            <span>Lab apprentice</span>
-          </span>
-        
+      <span class="portrait-name">
+        Raissa Da Silva Almeida
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Lab apprentice
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/sabina-tralamazza.html" class="portrait" data-style="" aria-label="Sabina Moser Tralamazza">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/sabina.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Sabina Moser Tralamazza
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Postdoctoral Researcher</span>
-          </span>
-        
+      <span class="portrait-name">
+        Sabina Moser Tralamazza
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Postdoctoral Researcher
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/samuel-horsfield.html" class="portrait" data-style="" aria-label="Samuel Horsfield">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/sam.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Samuel Horsfield
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Postdoctoral Researcher</span>
-          </span>
-        
+      <span class="portrait-name">
+        Samuel Horsfield
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Postdoctoral Researcher
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
-  <a href="/members/sandra-gonzalez.html" class="portrait" data-style="" aria-label="Sandra Milena González-Sayer">
+  <a href="/members/sandra-gonzalez.html" class="portrait" data-style="" aria-label="Sandra Milena Gonza lez Sayer">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/sami.png" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Sandra Milena González-Sayer
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Swiss Government Excellence Scholar</span>
-          </span>
-        
+      <span class="portrait-name">
+        Sandra Milena González-Sayer
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Swiss Government Excellence Scholar
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
-  <a href="/members/sarai-reyes.html" class="portrait" data-style="" aria-label="C. Sarai Reyes-Avila">
+  <a href="/members/sarai-reyes.html" class="portrait" data-style="" aria-label="C  Sarai Reyes Avila">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/sarai.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            C. Sarai Reyes-Avila
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>BRIDGE Postdoctoral Researcher</span>
-          </span>
-        
+      <span class="portrait-name">
+        C. Sarai Reyes-Avila
       </span>
+    
+
+    
+      <span class="portrait-description">
+        BRIDGE Postdoctoral Researcher
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/simone-fouche.html" class="portrait" data-style="" aria-label="Simone Fouché">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/simone.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Simone Fouché
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Simone Fouché
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/sophie-rais.html" class="portrait" data-style="" aria-label="Sophie Rais">
+    
+      <i class="icon fa-solid fa-user-graduate"></i>
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Sophie Rais
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-user-graduate"></i>
-            <span>MSc student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Sophie Rais
       </span>
+    
+
+    
+      <span class="portrait-description">
+        MSc student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/suhani-bhattacharyya.html" class="portrait" data-style="" aria-label="Suhani Bhattacharyya">
+    
+      <i class="icon fa-solid fa-user-graduate"></i>
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Suhani Bhattacharyya
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-user-graduate"></i>
-            <span>BSc-MSc student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Suhani Bhattacharyya
       </span>
+    
+
+    
+      <span class="portrait-description">
+        BSc-MSc student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/theophile-sanchez.html" class="portrait" data-style="" aria-label="Théophile Sanchez">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Théophile Sanchez
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Postdoctoral Researcher</span>
-          </span>
-        
+      <span class="portrait-name">
+        Théophile Sanchez
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Postdoctoral Researcher
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/thomas-badet.html" class="portrait" data-style="" aria-label="Thomas Badet">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/thomas.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Thomas Badet
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Maître assistant</span>
-          </span>
-        
+      <span class="portrait-name">
+        Thomas Badet
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Maître assistant
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/tobias-baril.html" class="portrait" data-style="" aria-label="Tobias Baril">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/toby.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Tobias Baril
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Postdoctoral Researcher</span>
-          </span>
-        
+      <span class="portrait-name">
+        Tobias Baril
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Postdoctoral Researcher
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/ursula-oggenfuss.html" class="portrait" data-style="" aria-label="Ursula Oggenfuss">
+    
+      <i class="icon fa-solid fa-microscope"></i>
+    
+
     <img src="/images/team/ursula.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Ursula Oggenfuss
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Postdoctoral Researcher</span>
-          </span>
-        
+      <span class="portrait-name">
+        Ursula Oggenfuss
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Postdoctoral Researcher
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/vinciane-monod.html" class="portrait" data-style="" aria-label="Vinciane Monod">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/vinciane_monod.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Vinciane Monod
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Vinciane Monod
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/vinciane-mossion.html" class="portrait" data-style="" aria-label="Vinciane Mossion">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/vinciane_mossion.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Vinciane Mossion
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Vinciane Mossion
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a href="/members/wided-abdedayem.html" class="portrait" data-style="" aria-label="Wided Abdedayem">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/team/default.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Wided Abdedayem
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Wided Abdedayem
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD student
+      </span>
+    
+
     
   </a>
 </div>
@@ -9633,17 +9647,17 @@ date:   2019-07-04
   
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/blog">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="http://pathogen-genomics.org/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
-      <a href="http://pathogen-genomics.org/blog?search=%22tag:%20big%20data%22" class="tag" data-tooltip='Show items with the tag "big data"'>
+      <a href="/blog?search=%22tag:%20big%20data%22" class="tag" data-tooltip='Show items with the tag "big data"'>
         big data
       </a>
     
@@ -9670,9 +9684,9 @@ date:   2019-07-04
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="citation">Citation</h2>
@@ -9784,9 +9798,9 @@ date:   2019-07-04
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="card">Card</h2>
@@ -9818,9 +9832,9 @@ date:   2019-07-04
       
 
 
-  <div class="tags" data-repo="greenelab/lab-website-template" data-link="http://pathogen-genomics.org/">
+  <div class="tags" data-repo="greenelab/lab-website-template">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20manual%20tag%22" class="tag" data-tooltip='Show items with the tag "manual tag"'>
+      <a href="/?search=%22tag:%20manual%20tag%22" class="tag" data-tooltip='Show items with the tag "manual tag"'>
         manual tag
       </a>
     
@@ -9858,9 +9872,9 @@ date:   2019-07-04
       
 
 
-  <div class="tags" data-repo="greenelab/lab-website-template" data-link="http://pathogen-genomics.org/">
+  <div class="tags" data-repo="greenelab/lab-website-template">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20manual%20tag%22" class="tag" data-tooltip='Show items with the tag "manual tag"'>
+      <a href="/?search=%22tag:%20manual%20tag%22" class="tag" data-tooltip='Show items with the tag "manual tag"'>
         manual tag
       </a>
     
@@ -9878,16 +9892,22 @@ date:   2019-07-04
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="portrait">Portrait</h2>
 
 <div class="portrait-wrapper">
   <a class="portrait" data-style="" aria-label="member link">
+    
+
     <img src="" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+
+    
+
+    
 
     
   </a>
@@ -9895,7 +9915,13 @@ date:   2019-07-04
 
 <div class="portrait-wrapper">
   <a class="portrait" data-style="small" aria-label="member link">
+    
+
     <img src="" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+
+    
+
+    
 
     
   </a>
@@ -9903,25 +9929,31 @@ date:   2019-07-04
 
 <div class="portrait-wrapper">
   <a class="portrait" data-style="small" aria-label="Manual name">
+    
+
     <img src="" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Manual name
-          </span>
-        
-
-        
+      <span class="portrait-name">
+        Manual name
       </span>
+    
+
+    
+
     
   </a>
 </div>
 
 <div class="portrait-wrapper">
   <a class="portrait" data-style="small" aria-label="member link">
+    
+
     <img src="" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+
+    
+
+    
 
     
   </a>
@@ -9934,9 +9966,9 @@ date:   2019-07-04
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="post-excerpt">Post Excerpt</h2>
@@ -9979,17 +10011,17 @@ date:   2019-07-04
   
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/blog">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="http://pathogen-genomics.org/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
-      <a href="http://pathogen-genomics.org/blog?search=%22tag:%20big%20data%22" class="tag" data-tooltip='Show items with the tag "big data"'>
+      <a href="/blog?search=%22tag:%20big%20data%22" class="tag" data-tooltip='Show items with the tag "big data"'>
         big data
       </a>
     
@@ -10062,9 +10094,9 @@ date:   2019-07-04
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="alert">Alert</h2>
@@ -10136,24 +10168,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="tags">Tags</h2>
 
-<div class="tags" data-repo="greenelab/lab-website-template" data-link="http://pathogen-genomics.org/blog">
+<div class="tags" data-repo="greenelab/lab-website-template">
     
-      <a href="http://pathogen-genomics.org/blog?search=%22tag:%20ovarian%20cancer%22" class="tag" data-tooltip='Show items with the tag "ovarian cancer"'>
+      <a href="/blog?search=%22tag:%20ovarian%20cancer%22" class="tag" data-tooltip='Show items with the tag "ovarian cancer"'>
         ovarian cancer
       </a>
     
-      <a href="http://pathogen-genomics.org/blog?search=%22tag:%20dataset%22" class="tag" data-tooltip='Show items with the tag "dataset"'>
+      <a href="/blog?search=%22tag:%20dataset%22" class="tag" data-tooltip='Show items with the tag "dataset"'>
         dataset
       </a>
     
-      <a href="http://pathogen-genomics.org/blog?search=%22tag:%20gene%20expression%22" class="tag" data-tooltip='Show items with the tag "gene expression"'>
+      <a href="/blog?search=%22tag:%20gene%20expression%22" class="tag" data-tooltip='Show items with the tag "gene expression"'>
         gene expression
       </a>
     
@@ -10166,9 +10198,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="float">Float</h2>
@@ -10220,9 +10252,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="grid">Grid</h2>
@@ -10325,6 +10357,119 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div class="citation-container">
   <div class="citation">
     
+      <a href="https://doi.org/hb72qk" class="citation-image" aria-label="A Conserved Transcription Factor Domain Drives Necrotrophic Effector-Mediated Virulence and Putative Protein Interactions in
+                    &lt;i&gt;Parastagonospora nodorum&lt;/i&gt;">
+        <img src="/images/pub_images/693112.png" alt="A Conserved Transcription Factor Domain Drives Necrotrophic Effector-Mediated Virulence and Putative Protein Interactions in
+                    &lt;i&gt;Parastagonospora nodorum&lt;/i&gt;" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
+    
+
+    <div class="citation-text">
+      
+      <i class="icon fa-solid fa-scroll"></i>
+
+      <a href="https://doi.org/hb72qk" class="citation-title">
+        A Conserved Transcription Factor Domain Drives Necrotrophic Effector-Mediated Virulence and Putative Protein Interactions in
+                    <i>Parastagonospora nodorum</i>
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Shota Morikawa, Carlia Herbst, Evan John, Daniel Croll, Carl Mousley, Bernadette Henares, Kar-Chun Tan, Callum Verdonk
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Molecular Plant-Microbe Interactions®</span>
+         · 
+        <span class="citation-date">07 Jun 2026</span>
+         · 
+        <span class="citation-id">doi:10.1094/MPMI-01-26-0006-R</span>
+      </div>
+
+      
+        
+
+        
+
+        
+          
+
+
+  <div class="tags">
+    
+      <a href="/?search=%22tag:%20parastagonospora%22" class="tag" data-tooltip='Show items with the tag "parastagonospora"'>
+        parastagonospora
+      </a>
+    
+  </div>
+
+
+        
+      
+    </div>
+  </div>
+</div>
+
+<div class="citation-container">
+  <div class="citation">
+    
+      <a href="https://doi.org/hb72qm" class="citation-image" aria-label="The fungal RIP hypermutator mechanism has deep eukaryotic roots">
+        <img src="/images/pub_images/tig_2026.png" alt="The fungal RIP hypermutator mechanism has deep eukaryotic roots" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
+    
+
+    <div class="citation-text">
+      
+      <i class="icon fa-solid fa-scroll"></i>
+
+      <a href="https://doi.org/hb72qm" class="citation-title">
+        The fungal RIP hypermutator mechanism has deep eukaryotic roots
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Fabienne Malagnac, Eugene Gladyshev, Daniel Croll, Thomas Badet
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Trends in Genetics</span>
+         · 
+        <span class="citation-date">01 Jun 2026</span>
+         · 
+        <span class="citation-id">doi:10.1016/j.tig.2026.05.008</span>
+      </div>
+
+      
+        
+
+        
+
+        
+          
+
+
+  <div class="tags">
+    
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
+      </a>
+    
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
+      </a>
+    
+  </div>
+
+
+        
+      
+    </div>
+  </div>
+</div>
+
+<div class="citation-container">
+  <div class="citation">
+    
       <a href="https://doi.org/hb62z3" class="citation-image" aria-label="Population-level Variability in Genome-wide Repressive Histone Marks in a Fungal Wheat Pathogen">
         <img src="/images/pub_images/677456.png" alt="Population-level Variability in Genome-wide Repressive Histone Marks in a Fungal Wheat Pathogen" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
@@ -10360,10 +10505,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -10413,14 +10558,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20bioRxiv%22" class="tag" data-tooltip='Show items with the tag "bioRxiv"'>
-        bioRxiv
+      <a href="/?search=%22tag:%20biorxiv%22" class="tag" data-tooltip='Show items with the tag "biorxiv"'>
+        biorxiv
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -10470,10 +10615,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
   </div>
@@ -10523,14 +10668,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -10586,14 +10731,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -10643,18 +10788,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "Fungicide resistance"'>
-        Fungicide resistance
+      <a href="/?search=%22tag:%20fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "fungicide resistance"'>
+        fungicide resistance
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -10704,14 +10849,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
   </div>
@@ -10761,14 +10906,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
   </div>
@@ -10820,74 +10965,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "Fungicide resistance"'>
-        Fungicide resistance
-      </a>
-    
-  </div>
-
-
-        
-      
-    </div>
-  </div>
-</div>
-
-<div class="citation-container">
-  <div class="citation">
-    
-      <a href="https://doi.org/hbfvff" class="citation-image" aria-label="A conserved fungal transcription factor domain drives protein-protein interactions and necrotrophic effector-mediated virulence in
-                  &lt;i&gt;Parastagonospora nodorum&lt;/i&gt;">
-        <img src="/images/pub_images/693112.png" alt="A conserved fungal transcription factor domain drives protein-protein interactions and necrotrophic effector-mediated virulence in
-                  &lt;i&gt;Parastagonospora nodorum&lt;/i&gt;" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-      </a>
-    
-
-    <div class="citation-text">
-      
-      <i class="icon fa-regular fa-eye"></i>
-
-      <a href="https://doi.org/hbfvff" class="citation-title">
-        A conserved fungal transcription factor domain drives protein-protein interactions and necrotrophic effector-mediated virulence in
-                  <i>Parastagonospora nodorum</i>
-      </a>
-
-      <div class="citation-authors" tabindex="0">
-        Shota Morikawa, Carlia Herbst, Evan John, Daniel Croll, Carl Mousley, Bernadette Henares, Kar-Chun Tan, Callum Verdonk
-
-      </div>
-
-      <div class="citation-details">
-        <span class="citation-publisher">openRxiv</span>
-         · 
-        <span class="citation-date">11 Dec 2025</span>
-         · 
-        <span class="citation-id">doi:10.64898/2025.12.09.693112</span>
-      </div>
-
-      
-        
-
-        
-
-        
-          
-
-
-  <div class="tags" data-link="http://pathogen-genomics.org/">
-    
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20bioRxiv%22" class="tag" data-tooltip='Show items with the tag "bioRxiv"'>
-        bioRxiv
-      </a>
-    
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Parastagonospora%22" class="tag" data-tooltip='Show items with the tag "Parastagonospora"'>
-        Parastagonospora
+      <a href="/?search=%22tag:%20fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "fungicide resistance"'>
+        fungicide resistance
       </a>
     
   </div>
@@ -10937,18 +11022,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -10998,18 +11083,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Microbiome%22" class="tag" data-tooltip='Show items with the tag "Microbiome"'>
-        Microbiome
+      <a href="/?search=%22tag:%20microbiome%22" class="tag" data-tooltip='Show items with the tag "microbiome"'>
+        microbiome
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -11059,14 +11144,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
   </div>
@@ -11156,10 +11241,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -11209,18 +11294,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Wheat%20blast%22" class="tag" data-tooltip='Show items with the tag "Wheat blast"'>
-        Wheat blast
+      <a href="/?search=%22tag:%20wheat%20blast%22" class="tag" data-tooltip='Show items with the tag "wheat blast"'>
+        wheat blast
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Rice%20blast%22" class="tag" data-tooltip='Show items with the tag "Rice blast"'>
-        Rice blast
+      <a href="/?search=%22tag:%20rice%20blast%22" class="tag" data-tooltip='Show items with the tag "rice blast"'>
+        rice blast
       </a>
     
   </div>
@@ -11270,14 +11355,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20bioRxiv%22" class="tag" data-tooltip='Show items with the tag "bioRxiv"'>
-        bioRxiv
+      <a href="/?search=%22tag:%20biorxiv%22" class="tag" data-tooltip='Show items with the tag "biorxiv"'>
+        biorxiv
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Microbiome%22" class="tag" data-tooltip='Show items with the tag "Microbiome"'>
-        Microbiome
+      <a href="/?search=%22tag:%20microbiome%22" class="tag" data-tooltip='Show items with the tag "microbiome"'>
+        microbiome
       </a>
     
   </div>
@@ -11327,10 +11412,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -11380,14 +11465,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Grapevine%22" class="tag" data-tooltip='Show items with the tag "Grapevine"'>
-        Grapevine
+      <a href="/?search=%22tag:%20grapevine%22" class="tag" data-tooltip='Show items with the tag "grapevine"'>
+        grapevine
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Microbiome%22" class="tag" data-tooltip='Show items with the tag "Microbiome"'>
-        Microbiome
+      <a href="/?search=%22tag:%20microbiome%22" class="tag" data-tooltip='Show items with the tag "microbiome"'>
+        microbiome
       </a>
     
   </div>
@@ -11437,14 +11522,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20bioRxiv%22" class="tag" data-tooltip='Show items with the tag "bioRxiv"'>
-        bioRxiv
+      <a href="/?search=%22tag:%20biorxiv%22" class="tag" data-tooltip='Show items with the tag "biorxiv"'>
+        biorxiv
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -11494,14 +11579,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Human%20pathogens%22" class="tag" data-tooltip='Show items with the tag "Human pathogens"'>
-        Human pathogens
+      <a href="/?search=%22tag:%20human%20pathogens%22" class="tag" data-tooltip='Show items with the tag "human pathogens"'>
+        human pathogens
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
   </div>
@@ -11557,10 +11642,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Rhynchosporium%22" class="tag" data-tooltip='Show items with the tag "Rhynchosporium"'>
-        Rhynchosporium
+      <a href="/?search=%22tag:%20rhynchosporium%22" class="tag" data-tooltip='Show items with the tag "rhynchosporium"'>
+        rhynchosporium
       </a>
     
   </div>
@@ -11610,10 +11695,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20bioRxiv%22" class="tag" data-tooltip='Show items with the tag "bioRxiv"'>
-        bioRxiv
+      <a href="/?search=%22tag:%20biorxiv%22" class="tag" data-tooltip='Show items with the tag "biorxiv"'>
+        biorxiv
       </a>
     
   </div>
@@ -11663,18 +11748,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -11724,10 +11809,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Grapevine%22" class="tag" data-tooltip='Show items with the tag "Grapevine"'>
-        Grapevine
+      <a href="/?search=%22tag:%20grapevine%22" class="tag" data-tooltip='Show items with the tag "grapevine"'>
+        grapevine
       </a>
     
   </div>
@@ -11777,10 +11862,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
   </div>
@@ -11836,10 +11921,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20bioRxiv%22" class="tag" data-tooltip='Show items with the tag "bioRxiv"'>
-        bioRxiv
+      <a href="/?search=%22tag:%20biorxiv%22" class="tag" data-tooltip='Show items with the tag "biorxiv"'>
+        biorxiv
       </a>
     
   </div>
@@ -11929,10 +12014,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Microbiome%22" class="tag" data-tooltip='Show items with the tag "Microbiome"'>
-        Microbiome
+      <a href="/?search=%22tag:%20microbiome%22" class="tag" data-tooltip='Show items with the tag "microbiome"'>
+        microbiome
       </a>
     
   </div>
@@ -11988,10 +12073,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -12043,10 +12128,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20bioRxiv%22" class="tag" data-tooltip='Show items with the tag "bioRxiv"'>
-        bioRxiv
+      <a href="/?search=%22tag:%20biorxiv%22" class="tag" data-tooltip='Show items with the tag "biorxiv"'>
+        biorxiv
       </a>
     
   </div>
@@ -12096,10 +12181,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20GMO%20detection%22" class="tag" data-tooltip='Show items with the tag "GMO detection"'>
-        GMO detection
+      <a href="/?search=%22tag:%20gmo%20detection%22" class="tag" data-tooltip='Show items with the tag "gmo detection"'>
+        gmo detection
       </a>
     
   </div>
@@ -12149,10 +12234,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
   </div>
@@ -12202,18 +12287,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -12263,10 +12348,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "Conservation genomics"'>
-        Conservation genomics
+      <a href="/?search=%22tag:%20conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "conservation genomics"'>
+        conservation genomics
       </a>
     
   </div>
@@ -12316,18 +12401,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -12377,14 +12462,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -12434,10 +12519,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -12487,10 +12572,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
   </div>
@@ -12540,10 +12625,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Grapevine%22" class="tag" data-tooltip='Show items with the tag "Grapevine"'>
-        Grapevine
+      <a href="/?search=%22tag:%20grapevine%22" class="tag" data-tooltip='Show items with the tag "grapevine"'>
+        grapevine
       </a>
     
   </div>
@@ -12595,18 +12680,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -12696,10 +12781,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -12749,14 +12834,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -12806,14 +12891,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -12863,14 +12948,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -12920,10 +13005,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -12973,14 +13058,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "Conservation genomics"'>
-        Conservation genomics
+      <a href="/?search=%22tag:%20conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "conservation genomics"'>
+        conservation genomics
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -13030,10 +13115,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -13083,10 +13168,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -13136,10 +13221,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Wheat%20blast%22" class="tag" data-tooltip='Show items with the tag "Wheat blast"'>
-        Wheat blast
+      <a href="/?search=%22tag:%20wheat%20blast%22" class="tag" data-tooltip='Show items with the tag "wheat blast"'>
+        wheat blast
       </a>
     
   </div>
@@ -13208,18 +13293,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -13269,18 +13354,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -13330,14 +13415,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "Fungicide resistance"'>
-        Fungicide resistance
+      <a href="/?search=%22tag:%20fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "fungicide resistance"'>
+        fungicide resistance
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -13387,14 +13472,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Book%20chapter%22" class="tag" data-tooltip='Show items with the tag "Book chapter"'>
-        Book chapter
+      <a href="/?search=%22tag:%20book%20chapter%22" class="tag" data-tooltip='Show items with the tag "book chapter"'>
+        book chapter
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -13446,10 +13531,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Microbiome%22" class="tag" data-tooltip='Show items with the tag "Microbiome"'>
-        Microbiome
+      <a href="/?search=%22tag:%20microbiome%22" class="tag" data-tooltip='Show items with the tag "microbiome"'>
+        microbiome
       </a>
     
   </div>
@@ -13499,10 +13584,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -13552,10 +13637,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -13605,10 +13690,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Human%20pathogens%22" class="tag" data-tooltip='Show items with the tag "Human pathogens"'>
-        Human pathogens
+      <a href="/?search=%22tag:%20human%20pathogens%22" class="tag" data-tooltip='Show items with the tag "human pathogens"'>
+        human pathogens
       </a>
     
   </div>
@@ -13658,14 +13743,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Ustilago%22" class="tag" data-tooltip='Show items with the tag "Ustilago"'>
-        Ustilago
+      <a href="/?search=%22tag:%20ustilago%22" class="tag" data-tooltip='Show items with the tag "ustilago"'>
+        ustilago
       </a>
     
   </div>
@@ -13715,10 +13800,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Rhynchosprium%22" class="tag" data-tooltip='Show items with the tag "Rhynchosprium"'>
-        Rhynchosprium
+      <a href="/?search=%22tag:%20rhynchosprium%22" class="tag" data-tooltip='Show items with the tag "rhynchosprium"'>
+        rhynchosprium
       </a>
     
   </div>
@@ -13768,14 +13853,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "Conservation genomics"'>
-        Conservation genomics
+      <a href="/?search=%22tag:%20conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "conservation genomics"'>
+        conservation genomics
       </a>
     
   </div>
@@ -13825,14 +13910,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -13882,10 +13967,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Cryphonectria%22" class="tag" data-tooltip='Show items with the tag "Cryphonectria"'>
-        Cryphonectria
+      <a href="/?search=%22tag:%20cryphonectria%22" class="tag" data-tooltip='Show items with the tag "cryphonectria"'>
+        cryphonectria
       </a>
     
   </div>
@@ -13935,10 +14020,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Parastagonospora%22" class="tag" data-tooltip='Show items with the tag "Parastagonospora"'>
-        Parastagonospora
+      <a href="/?search=%22tag:%20parastagonospora%22" class="tag" data-tooltip='Show items with the tag "parastagonospora"'>
+        parastagonospora
       </a>
     
   </div>
@@ -14028,10 +14113,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "Conservation genomics"'>
-        Conservation genomics
+      <a href="/?search=%22tag:%20conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "conservation genomics"'>
+        conservation genomics
       </a>
     
   </div>
@@ -14083,10 +14168,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Grapevine%22" class="tag" data-tooltip='Show items with the tag "Grapevine"'>
-        Grapevine
+      <a href="/?search=%22tag:%20grapevine%22" class="tag" data-tooltip='Show items with the tag "grapevine"'>
+        grapevine
       </a>
     
   </div>
@@ -14136,10 +14221,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
   </div>
@@ -14189,10 +14274,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -14242,10 +14327,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -14295,18 +14380,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -14365,10 +14450,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -14418,14 +14503,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Parastagonospora%22" class="tag" data-tooltip='Show items with the tag "Parastagonospora"'>
-        Parastagonospora
+      <a href="/?search=%22tag:%20parastagonospora%22" class="tag" data-tooltip='Show items with the tag "parastagonospora"'>
+        parastagonospora
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
   </div>
@@ -14481,10 +14566,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Ferns%22" class="tag" data-tooltip='Show items with the tag "Ferns"'>
-        Ferns
+      <a href="/?search=%22tag:%20ferns%22" class="tag" data-tooltip='Show items with the tag "ferns"'>
+        ferns
       </a>
     
   </div>
@@ -14534,10 +14619,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "Conservation genomics"'>
-        Conservation genomics
+      <a href="/?search=%22tag:%20conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "conservation genomics"'>
+        conservation genomics
       </a>
     
   </div>
@@ -14587,10 +14672,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Parastagonospora%22" class="tag" data-tooltip='Show items with the tag "Parastagonospora"'>
-        Parastagonospora
+      <a href="/?search=%22tag:%20parastagonospora%22" class="tag" data-tooltip='Show items with the tag "parastagonospora"'>
+        parastagonospora
       </a>
     
   </div>
@@ -14659,14 +14744,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -14716,10 +14801,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Conservation%22" class="tag" data-tooltip='Show items with the tag "Conservation"'>
-        Conservation
+      <a href="/?search=%22tag:%20conservation%22" class="tag" data-tooltip='Show items with the tag "conservation"'>
+        conservation
       </a>
     
   </div>
@@ -14769,10 +14854,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -14822,10 +14907,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -14875,10 +14960,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zenodo%22" class="tag" data-tooltip='Show items with the tag "Zenodo"'>
-        Zenodo
+      <a href="/?search=%22tag:%20zenodo%22" class="tag" data-tooltip='Show items with the tag "zenodo"'>
+        zenodo
       </a>
     
   </div>
@@ -14928,14 +15013,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Cryphonectria%22" class="tag" data-tooltip='Show items with the tag "Cryphonectria"'>
-        Cryphonectria
+      <a href="/?search=%22tag:%20cryphonectria%22" class="tag" data-tooltip='Show items with the tag "cryphonectria"'>
+        cryphonectria
       </a>
     
   </div>
@@ -14985,10 +15070,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Fusarium%22" class="tag" data-tooltip='Show items with the tag "Fusarium"'>
-        Fusarium
+      <a href="/?search=%22tag:%20fusarium%22" class="tag" data-tooltip='Show items with the tag "fusarium"'>
+        fusarium
       </a>
     
   </div>
@@ -15038,18 +15123,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "Fungicide resistance"'>
-        Fungicide resistance
+      <a href="/?search=%22tag:%20fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "fungicide resistance"'>
+        fungicide resistance
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -15099,14 +15184,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Book%20chapter%22" class="tag" data-tooltip='Show items with the tag "Book chapter"'>
-        Book chapter
+      <a href="/?search=%22tag:%20book%20chapter%22" class="tag" data-tooltip='Show items with the tag "book chapter"'>
+        book chapter
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -15156,18 +15241,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Book%20chapter%22" class="tag" data-tooltip='Show items with the tag "Book chapter"'>
-        Book chapter
+      <a href="/?search=%22tag:%20book%20chapter%22" class="tag" data-tooltip='Show items with the tag "book chapter"'>
+        book chapter
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
   </div>
@@ -15219,10 +15304,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -15272,14 +15357,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "Fungicide resistance"'>
-        Fungicide resistance
+      <a href="/?search=%22tag:%20fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "fungicide resistance"'>
+        fungicide resistance
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -15332,10 +15417,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Cryphonectria%22" class="tag" data-tooltip='Show items with the tag "Cryphonectria"'>
-        Cryphonectria
+      <a href="/?search=%22tag:%20cryphonectria%22" class="tag" data-tooltip='Show items with the tag "cryphonectria"'>
+        cryphonectria
       </a>
     
   </div>
@@ -15397,10 +15482,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Fusarium%22" class="tag" data-tooltip='Show items with the tag "Fusarium"'>
-        Fusarium
+      <a href="/?search=%22tag:%20fusarium%22" class="tag" data-tooltip='Show items with the tag "fusarium"'>
+        fusarium
       </a>
     
   </div>
@@ -15450,14 +15535,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "Fungicide resistance"'>
-        Fungicide resistance
+      <a href="/?search=%22tag:%20fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "fungicide resistance"'>
+        fungicide resistance
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Parastagonospora%22" class="tag" data-tooltip='Show items with the tag "Parastagonospora"'>
-        Parastagonospora
+      <a href="/?search=%22tag:%20parastagonospora%22" class="tag" data-tooltip='Show items with the tag "parastagonospora"'>
+        parastagonospora
       </a>
     
   </div>
@@ -15507,10 +15592,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -15560,10 +15645,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Microbiome%22" class="tag" data-tooltip='Show items with the tag "Microbiome"'>
-        Microbiome
+      <a href="/?search=%22tag:%20microbiome%22" class="tag" data-tooltip='Show items with the tag "microbiome"'>
+        microbiome
       </a>
     
   </div>
@@ -15613,14 +15698,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
   </div>
@@ -15670,10 +15755,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -15723,14 +15808,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -15780,10 +15865,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Parastagonospora%22" class="tag" data-tooltip='Show items with the tag "Parastagonospora"'>
-        Parastagonospora
+      <a href="/?search=%22tag:%20parastagonospora%22" class="tag" data-tooltip='Show items with the tag "parastagonospora"'>
+        parastagonospora
       </a>
     
   </div>
@@ -15833,10 +15918,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -15886,10 +15971,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Armillaria%22" class="tag" data-tooltip='Show items with the tag "Armillaria"'>
-        Armillaria
+      <a href="/?search=%22tag:%20armillaria%22" class="tag" data-tooltip='Show items with the tag "armillaria"'>
+        armillaria
       </a>
     
   </div>
@@ -15939,14 +16024,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "Conservation genomics"'>
-        Conservation genomics
+      <a href="/?search=%22tag:%20conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "conservation genomics"'>
+        conservation genomics
       </a>
     
   </div>
@@ -15996,10 +16081,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -16051,10 +16136,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Fusarium%22" class="tag" data-tooltip='Show items with the tag "Fusarium"'>
-        Fusarium
+      <a href="/?search=%22tag:%20fusarium%22" class="tag" data-tooltip='Show items with the tag "fusarium"'>
+        fusarium
       </a>
     
   </div>
@@ -16104,18 +16189,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20TEs%22" class="tag" data-tooltip='Show items with the tag "TEs"'>
-        TEs
+      <a href="/?search=%22tag:%20tes%22" class="tag" data-tooltip='Show items with the tag "tes"'>
+        tes
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -16171,10 +16256,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Rhynchosporium%22" class="tag" data-tooltip='Show items with the tag "Rhynchosporium"'>
-        Rhynchosporium
+      <a href="/?search=%22tag:%20rhynchosporium%22" class="tag" data-tooltip='Show items with the tag "rhynchosporium"'>
+        rhynchosporium
       </a>
     
   </div>
@@ -16230,10 +16315,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Wheat%20blast%22" class="tag" data-tooltip='Show items with the tag "Wheat blast"'>
-        Wheat blast
+      <a href="/?search=%22tag:%20wheat%20blast%22" class="tag" data-tooltip='Show items with the tag "wheat blast"'>
+        wheat blast
       </a>
     
   </div>
@@ -16286,14 +16371,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "Fungicide resistance"'>
-        Fungicide resistance
+      <a href="/?search=%22tag:%20fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "fungicide resistance"'>
+        fungicide resistance
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -16345,10 +16430,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Human%20pathogens%22" class="tag" data-tooltip='Show items with the tag "Human pathogens"'>
-        Human pathogens
+      <a href="/?search=%22tag:%20human%20pathogens%22" class="tag" data-tooltip='Show items with the tag "human pathogens"'>
+        human pathogens
       </a>
     
   </div>
@@ -16398,14 +16483,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
   </div>
@@ -16455,14 +16540,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Wheat%20blast%22" class="tag" data-tooltip='Show items with the tag "Wheat blast"'>
-        Wheat blast
+      <a href="/?search=%22tag:%20wheat%20blast%22" class="tag" data-tooltip='Show items with the tag "wheat blast"'>
+        wheat blast
       </a>
     
   </div>
@@ -16512,14 +16597,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -16569,14 +16654,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Wheat%20blast%22" class="tag" data-tooltip='Show items with the tag "Wheat blast"'>
-        Wheat blast
+      <a href="/?search=%22tag:%20wheat%20blast%22" class="tag" data-tooltip='Show items with the tag "wheat blast"'>
+        wheat blast
       </a>
     
   </div>
@@ -16626,10 +16711,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -16679,10 +16764,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -16732,10 +16817,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -16785,10 +16870,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Rhynchosporium%22" class="tag" data-tooltip='Show items with the tag "Rhynchosporium"'>
-        Rhynchosporium
+      <a href="/?search=%22tag:%20rhynchosporium%22" class="tag" data-tooltip='Show items with the tag "rhynchosporium"'>
+        rhynchosporium
       </a>
     
   </div>
@@ -16838,10 +16923,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Epichlo%C3%AB%22" class="tag" data-tooltip='Show items with the tag "Epichloë"'>
-        Epichloë
+      <a href="/?search=%22tag:%20epichlo%C3%AB%22" class="tag" data-tooltip='Show items with the tag "epichloë"'>
+        epichloë
       </a>
     
   </div>
@@ -16891,10 +16976,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -16944,10 +17029,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Ustilago%22" class="tag" data-tooltip='Show items with the tag "Ustilago"'>
-        Ustilago
+      <a href="/?search=%22tag:%20ustilago%22" class="tag" data-tooltip='Show items with the tag "ustilago"'>
+        ustilago
       </a>
     
   </div>
@@ -16997,10 +17082,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -17050,10 +17135,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Ustilago%22" class="tag" data-tooltip='Show items with the tag "Ustilago"'>
-        Ustilago
+      <a href="/?search=%22tag:%20ustilago%22" class="tag" data-tooltip='Show items with the tag "ustilago"'>
+        ustilago
       </a>
     
   </div>
@@ -17105,10 +17190,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -17158,10 +17243,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Armillaria%22" class="tag" data-tooltip='Show items with the tag "Armillaria"'>
-        Armillaria
+      <a href="/?search=%22tag:%20armillaria%22" class="tag" data-tooltip='Show items with the tag "armillaria"'>
+        armillaria
       </a>
     
   </div>
@@ -17211,10 +17296,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "Conservation genomics"'>
-        Conservation genomics
+      <a href="/?search=%22tag:%20conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "conservation genomics"'>
+        conservation genomics
       </a>
     
   </div>
@@ -17270,10 +17355,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20bioRxiv%22" class="tag" data-tooltip='Show items with the tag "bioRxiv"'>
-        bioRxiv
+      <a href="/?search=%22tag:%20biorxiv%22" class="tag" data-tooltip='Show items with the tag "biorxiv"'>
+        biorxiv
       </a>
     
   </div>
@@ -17323,14 +17408,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -17380,10 +17465,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -17473,10 +17558,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -17529,10 +17614,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -17582,10 +17667,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -17635,14 +17720,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -17694,14 +17779,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "Fungicide resistance"'>
-        Fungicide resistance
+      <a href="/?search=%22tag:%20fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "fungicide resistance"'>
+        fungicide resistance
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Rhychosporium%22" class="tag" data-tooltip='Show items with the tag "Rhychosporium"'>
-        Rhychosporium
+      <a href="/?search=%22tag:%20rhychosporium%22" class="tag" data-tooltip='Show items with the tag "rhychosporium"'>
+        rhychosporium
       </a>
     
   </div>
@@ -17757,10 +17842,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Ustilago%22" class="tag" data-tooltip='Show items with the tag "Ustilago"'>
-        Ustilago
+      <a href="/?search=%22tag:%20ustilago%22" class="tag" data-tooltip='Show items with the tag "ustilago"'>
+        ustilago
       </a>
     
   </div>
@@ -17813,10 +17898,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Ustilago%22" class="tag" data-tooltip='Show items with the tag "Ustilago"'>
-        Ustilago
+      <a href="/?search=%22tag:%20ustilago%22" class="tag" data-tooltip='Show items with the tag "ustilago"'>
+        ustilago
       </a>
     
   </div>
@@ -17866,10 +17951,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -17919,10 +18004,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -17972,10 +18057,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -18025,10 +18110,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Wheat%20blast%22" class="tag" data-tooltip='Show items with the tag "Wheat blast"'>
-        Wheat blast
+      <a href="/?search=%22tag:%20wheat%20blast%22" class="tag" data-tooltip='Show items with the tag "wheat blast"'>
+        wheat blast
       </a>
     
   </div>
@@ -18078,10 +18163,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -18174,10 +18259,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Ustilago%22" class="tag" data-tooltip='Show items with the tag "Ustilago"'>
-        Ustilago
+      <a href="/?search=%22tag:%20ustilago%22" class="tag" data-tooltip='Show items with the tag "ustilago"'>
+        ustilago
       </a>
     
   </div>
@@ -18227,10 +18312,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Human%20pathogens%22" class="tag" data-tooltip='Show items with the tag "Human pathogens"'>
-        Human pathogens
+      <a href="/?search=%22tag:%20human%20pathogens%22" class="tag" data-tooltip='Show items with the tag "human pathogens"'>
+        human pathogens
       </a>
     
   </div>
@@ -18295,10 +18380,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -18348,10 +18433,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -18403,10 +18488,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Human%20pathogens%22" class="tag" data-tooltip='Show items with the tag "Human pathogens"'>
-        Human pathogens
+      <a href="/?search=%22tag:%20human%20pathogens%22" class="tag" data-tooltip='Show items with the tag "human pathogens"'>
+        human pathogens
       </a>
     
   </div>
@@ -18456,10 +18541,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -18509,14 +18594,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "Fungicide resistance"'>
-        Fungicide resistance
+      <a href="/?search=%22tag:%20fungicide%20resistance%22" class="tag" data-tooltip='Show items with the tag "fungicide resistance"'>
+        fungicide resistance
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -18566,10 +18651,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Human%20pathogen%22" class="tag" data-tooltip='Show items with the tag "Human pathogen"'>
-        Human pathogen
+      <a href="/?search=%22tag:%20human%20pathogen%22" class="tag" data-tooltip='Show items with the tag "human pathogen"'>
+        human pathogen
       </a>
     
   </div>
@@ -18621,10 +18706,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -18674,10 +18759,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Human%20pathogens%22" class="tag" data-tooltip='Show items with the tag "Human pathogens"'>
-        Human pathogens
+      <a href="/?search=%22tag:%20human%20pathogens%22" class="tag" data-tooltip='Show items with the tag "human pathogens"'>
+        human pathogens
       </a>
     
   </div>
@@ -18727,10 +18812,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "Conservation genomics"'>
-        Conservation genomics
+      <a href="/?search=%22tag:%20conservation%20genomics%22" class="tag" data-tooltip='Show items with the tag "conservation genomics"'>
+        conservation genomics
       </a>
     
   </div>
@@ -18780,10 +18865,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -18833,10 +18918,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -18886,10 +18971,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -18956,10 +19041,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Rhynchosporium%22" class="tag" data-tooltip='Show items with the tag "Rhynchosporium"'>
-        Rhynchosporium
+      <a href="/?search=%22tag:%20rhynchosporium%22" class="tag" data-tooltip='Show items with the tag "rhynchosporium"'>
+        rhynchosporium
       </a>
     
   </div>
@@ -19009,14 +19094,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -19066,10 +19151,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -19121,10 +19206,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -19174,14 +19259,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
   </div>
@@ -19231,10 +19316,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Microbiome%22" class="tag" data-tooltip='Show items with the tag "Microbiome"'>
-        Microbiome
+      <a href="/?search=%22tag:%20microbiome%22" class="tag" data-tooltip='Show items with the tag "microbiome"'>
+        microbiome
       </a>
     
   </div>
@@ -19326,14 +19411,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Highlight%22" class="tag" data-tooltip='Show items with the tag "Highlight"'>
-        Highlight
+      <a href="/?search=%22tag:%20highlight%22" class="tag" data-tooltip='Show items with the tag "highlight"'>
+        highlight
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "Zymoseptoria"'>
-        Zymoseptoria
+      <a href="/?search=%22tag:%20zymoseptoria%22" class="tag" data-tooltip='Show items with the tag "zymoseptoria"'>
+        zymoseptoria
       </a>
     
   </div>
@@ -19383,10 +19468,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -19436,10 +19521,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Frogs%22" class="tag" data-tooltip='Show items with the tag "Frogs"'>
-        Frogs
+      <a href="/?search=%22tag:%20frogs%22" class="tag" data-tooltip='Show items with the tag "frogs"'>
+        frogs
       </a>
     
   </div>
@@ -19491,14 +19576,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Review%22" class="tag" data-tooltip='Show items with the tag "Review"'>
-        Review
+      <a href="/?search=%22tag:%20review%22" class="tag" data-tooltip='Show items with the tag "review"'>
+        review
       </a>
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -19548,10 +19633,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -19603,10 +19688,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -19656,10 +19741,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -19714,10 +19799,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -19767,10 +19852,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -19820,10 +19905,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -19875,10 +19960,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -19930,10 +20015,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/?search=%22tag:%20Mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "Mycorrhizal fungi"'>
-        Mycorrhizal fungi
+      <a href="/?search=%22tag:%20mycorrhizal%20fungi%22" class="tag" data-tooltip='Show items with the tag "mycorrhizal fungi"'>
+        mycorrhizal fungi
       </a>
     
   </div>
@@ -21879,17 +21964,17 @@ date:   2019-07-04
   
 
 
-  <div class="tags" data-link="http://pathogen-genomics.org/blog">
+  <div class="tags">
     
-      <a href="http://pathogen-genomics.org/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="http://pathogen-genomics.org/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
-      <a href="http://pathogen-genomics.org/blog?search=%22tag:%20big%20data%22" class="tag" data-tooltip='Show items with the tag "big data"'>
+      <a href="/blog?search=%22tag:%20big%20data%22" class="tag" data-tooltip='Show items with the tag "big data"'>
         big data
       </a>
     
@@ -21919,9 +22004,9 @@ date:   2019-07-04
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="cols">Cols</h2>
@@ -22047,9 +22132,9 @@ date:   2019-07-04
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="search">Search</h2>
@@ -22070,9 +22155,9 @@ date:   2019-07-04
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="site-search">Site Search</h2>
