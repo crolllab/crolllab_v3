@@ -1,0 +1,65 @@
+{% assign all_news = site.data.news %}
+{% if include.limit %}
+  {% assign news_items = all_news | slice: 0, include.limit %}
+{% else %}
+  {% assign news_items = all_news %}
+{% endif %}
+
+<div class="news-legend">
+  <span class="news-legend-item news-paper"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Publication</span>
+  <span class="news-legend-item news-award"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> Award / Degree</span>
+  <span class="news-legend-item news-person"><i class="fa-solid fa-user" aria-hidden="true"></i> People</span>
+  <span class="news-legend-item news-event"><i class="fa-solid fa-calendar-days" aria-hidden="true"></i> Event</span>
+  <span class="news-legend-item news-other"><i class="fa-solid fa-circle-info" aria-hidden="true"></i> Other</span>
+</div>
+
+<div class="news-list">
+  {% for item in news_items %}
+    {% case item.type %}
+      {% when "paper" %}
+        {% assign news_icon  = "fa-solid fa-file-lines" %}
+        {% assign news_class = "news-paper" %}
+        {% assign news_label = "Publication" %}
+      {% when "person" %}
+        {% assign news_icon  = "fa-solid fa-user" %}
+        {% assign news_class = "news-person" %}
+        {% assign news_label = "People" %}
+      {% when "award" %}
+        {% assign news_icon  = "fa-solid fa-graduation-cap" %}
+        {% assign news_class = "news-award" %}
+        {% assign news_label = "Award / Degree" %}
+      {% when "event" %}
+        {% assign news_icon  = "fa-solid fa-calendar-days" %}
+        {% assign news_class = "news-event" %}
+        {% assign news_label = "Event" %}
+      {% else %}
+        {% assign news_icon  = "fa-solid fa-circle-info" %}
+        {% assign news_class = "news-other" %}
+        {% assign news_label = "Other" %}
+    {% endcase %}
+
+    <div class="news-item {{ news_class }}">
+      <div class="news-icon" title="{{ news_label }}">
+        <i class="{{ news_icon }}" aria-hidden="true"></i>
+      </div>
+      <div class="news-content">
+        <span class="news-date">{{ item.date }}</span>
+        <span class="news-text">{{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</span>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+{% if include.limit %}
+  {% assign limit_int = include.limit | plus: 0 %}
+  {% if limit_int < all_news.size %}
+    <p class="news-more">
+      {% include button.html
+        link="/#news-from-the-lab"
+        text="View all news"
+        icon="fa-solid fa-arrow-down"
+        style="bare"
+      %}
+    </p>
+  {% endif %}
+{% endif %}

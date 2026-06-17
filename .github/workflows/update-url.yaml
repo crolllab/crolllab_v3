@@ -55,10 +55,12 @@ jobs:
 
       - name: Check if readme changed
         id: changed
-        uses: tj-actions/verify-changed-files@v20.0.4
-        with:
-          files: |
-            README.md
+        run: |
+          if git diff --quiet HEAD -- README.md; then
+            echo "files_changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "files_changed=true" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Commit changed files
         if: steps.changed.outputs.files_changed == 'true'

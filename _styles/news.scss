@@ -1,0 +1,117 @@
+---
+---
+
+// color tokens per news type
+$news-colors: (
+  "paper":  #16a34a,
+  "award":  #d97706,
+  "person": var(--primary),
+  "event":  #7c3aed,
+  "other":  var(--gray),
+);
+
+// legend row above the list
+.news-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.2rem;
+  margin-bottom: 0.9rem;
+  font-size: 0.8rem;
+  color: var(--gray);
+}
+
+.news-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+// main list
+.news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.news-item {
+  display: grid;
+  grid-template-columns: 1.6rem 1fr;
+  align-items: baseline;
+  gap: 0.7rem;
+  padding: 0.45rem 0.75rem;
+  border-radius: var(--rounded);
+  border-left: 3px solid transparent;
+  background: var(--background-alt);
+  line-height: 1.5;
+  transition: background 0.15s;
+
+  &:hover {
+    background: var(--light-gray);
+  }
+}
+
+.news-icon {
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+.news-content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 0.5rem;
+}
+
+.news-date {
+  font-size: 0.78em;
+  color: var(--gray);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.news-text {
+  flex: 1;
+  min-width: 180px;
+
+  a {
+    text-decoration: underline;
+  }
+}
+
+// "view all" button row
+.news-more {
+  text-align: center;
+  margin-top: 0.8rem;
+}
+
+// type-specific colors applied to both .news-item (border + icon)
+// and .news-legend-item (icon colour)
+.news-paper {
+  border-left-color: #16a34a;
+  .news-icon { color: #16a34a; }
+  &.news-legend-item { color: #16a34a; }
+}
+
+.news-award {
+  border-left-color: #d97706;
+  .news-icon { color: #d97706; }
+  &.news-legend-item { color: #d97706; }
+}
+
+.news-person {
+  border-left-color: var(--primary);
+  .news-icon { color: var(--primary); }
+  &.news-legend-item { color: var(--primary); }
+}
+
+.news-event {
+  border-left-color: #7c3aed;
+  .news-icon { color: #7c3aed; }
+  &.news-legend-item { color: #7c3aed; }
+}
+
+.news-other {
+  border-left-color: var(--gray);
+  .news-icon { color: var(--gray); }
+  &.news-legend-item { color: var(--gray); }
+}
