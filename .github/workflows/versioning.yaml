@@ -21,7 +21,8 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       # for debugging
-      - uses: crazy-max/ghaction-dump-context@v2
+      - if: runner.debug == '1'
+        uses: crazy-max/ghaction-dump-context@v2
       - if: runner.debug == '1'
         uses: mxschmitt/action-tmate@v3
 
@@ -86,7 +87,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # for debugging
-      - uses: crazy-max/ghaction-dump-context@v2
+      - if: runner.debug == '1'
+        uses: crazy-max/ghaction-dump-context@v2
 
       - name: Checkout branch contents
         uses: actions/checkout@v4

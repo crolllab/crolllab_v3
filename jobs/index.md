@@ -14,6 +14,6 @@ Check out the full ad by clicking on the job header.
 
 {% include section.html %}
 
-{% include list.html component="card" data="jobs" filters="group: featured" %}
+{% include list.html component="card" data="jobs" filter="group == 'featured'" %}
 
 {% include section.html %}

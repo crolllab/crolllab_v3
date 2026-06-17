@@ -14,7 +14,8 @@ jobs:
 
     steps:
       # for debugging
-      - uses: crazy-max/ghaction-dump-context@v2
+      - if: runner.debug == '1'
+        uses: crazy-max/ghaction-dump-context@v2
 
       - name: Create Pages branch
         uses: peterjgrainger/action-create-branch@v3.0.0

@@ -76,7 +76,7 @@ photo2.jpg::Caption for second photo
 ## Template Components
 
 Use Jekyll includes from `_includes/` in markdown pages:
-- `{% include list.html data="members" component="portrait" filters="role: phd, group: current" %}`
+- `{% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'current'" %}`
 - `{% include feature.html image="images/x.png" title="Title" text=text %}`
 - `{% include button.html link="url" text="Label" icon="fa-solid fa-arrow-right" %}`
 

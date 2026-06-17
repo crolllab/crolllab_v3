@@ -20,11 +20,11 @@ We are a diverse group of people with interests in evolutionary biology, microbi
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: current" %}
-{% include list.html data="members" component="portrait" filters="role: staff, group: current" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'staff' and group == 'current'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -32,7 +32,7 @@ We are a diverse group of people with interests in evolutionary biology, microbi
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="group: alumni" %}
+{% include list.html data="members" component="portrait" filter="group == 'alumni'" %}
 
 ## More of our alumni
 

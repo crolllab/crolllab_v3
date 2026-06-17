@@ -12,6 +12,6 @@ Our lab is broadly interested in the evolutionary processes linked to adaptation
 
 {% include section.html %}
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
