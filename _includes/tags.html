@@ -1,12 +1,8 @@
 {% assign tags = include.tags
   | object_items
   | join: ","
-  | downcase
   | split: ","
   | array_filter
-  | join: ","
-  | regex_replace: "\\s+", "-"
-  | split: ","
   | uniq
 %}
 {% assign link = include.link | default: page.dir %}
@@ -18,8 +14,9 @@
     {% endif %}
   >
     {% for tag in tags %}
+      {% assign tag_normalized = tag | downcase | regex_replace: "\\s+", "-" %}
       <a
-        href="{{ link | relative_url }}?search=&quot;tag: {{ tag }}&quot;"
+        href="{{ link | relative_url }}?search=&quot;tag: {{ tag_normalized }}&quot;"
         class="tag"
         data-tooltip="Show items with the tag &quot;{{ tag }}&quot;"
       >
