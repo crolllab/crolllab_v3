@@ -129,7 +129,7 @@ jobs:
             return { version, body };
 
       - name: Create GitHub release
-        uses: ncipollo/release-action@v1.14.0
+        uses: ncipollo/release-action@v1.21.0
         with:
           commit: ${{ github.ref }}
           tag: v${{ fromJson(steps.version.outputs.result).version }}
