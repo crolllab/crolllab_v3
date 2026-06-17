@@ -30,9 +30,13 @@
   background: var(--background-alt);
   line-height: 1.5;
   transition: background 0.15s;
+  text-align: left;
 }
 .news-item:hover {
   background: var(--light-gray);
+}
+.news-item.news-collapsed {
+  display: none;
 }
 
 .news-icon {
@@ -45,6 +49,7 @@
   flex-wrap: wrap;
   align-items: baseline;
   gap: 0 0.5rem;
+  text-align: left;
 }
 
 .news-date {
@@ -64,7 +69,25 @@
 
 .news-more {
   text-align: center;
-  margin-top: 0.8rem;
+  margin-top: 0.6rem;
+}
+
+.news-expand-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 1.1rem;
+  border: 1px solid var(--light-gray);
+  border-radius: var(--rounded);
+  background: var(--background-alt);
+  color: var(--gray);
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+.news-expand-btn:hover {
+  background: var(--light-gray);
+  color: var(--text);
 }
 
 .news-paper {
