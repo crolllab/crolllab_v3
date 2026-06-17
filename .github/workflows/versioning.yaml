@@ -27,13 +27,13 @@ jobs:
         uses: mxschmitt/action-tmate@v3
 
       - name: Checkout base branch contents
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6.0.3
         with:
           ref: main
           path: base
 
       - name: Checkout pr branch contents
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6.0.3
         with:
           path: pr
 
@@ -91,7 +91,7 @@ jobs:
         uses: crazy-max/ghaction-dump-context@v2
 
       - name: Checkout branch contents
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6.0.3
 
       - name: Install packages
         run: npm install yaml semver
