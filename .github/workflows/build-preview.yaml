@@ -41,7 +41,7 @@ jobs:
       - name: Get Pages url
         if: github.event.action != 'closed'
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       # for debugging
       - if: runner.debug == '1'

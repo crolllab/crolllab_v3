@@ -32,6 +32,9 @@
 {% assign jpg = "images/icon.jpg" | file_exists %}
 {% assign icon = png | default: jpg | relative_url %}
 
+{% assign apple_icon_file = "images/apple-touch-icon.png" | file_exists %}
+{% assign favicon_ico_file = "favicon.ico" | file_exists %}
+
 {% assign jpg = "images/share.jpg" | file_exists %}
 {% assign png = "images/share.png" | file_exists %}
 {% assign share = jpg | default: png | relative_url %}
@@ -46,6 +49,12 @@
 <title>{{ fulltitle }}</title>
 
 <link rel="icon" href="{{ icon }}">
+{% if favicon_ico_file %}
+  <link rel="shortcut icon" href="{{ favicon_ico_file | relative_url }}">
+{% endif %}
+{% if apple_icon_file %}
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ apple_icon_file | relative_url }}">
+{% endif %}
 
 <meta name="title" content="{{ title }}">
 <meta name="description" content="{{ description }}">
