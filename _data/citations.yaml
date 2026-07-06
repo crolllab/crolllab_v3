@@ -3782,7 +3782,7 @@
   - Kar-Chun Tan
   - Callum Verdonk
   publisher: "Molecular Plant-Microbe Interactions\xAE"
-  date: '2026-06-07'
+  date: '2026-01-01'
   link: https://doi.org/hb72qk
   type: paper
   image: /images/pub_images/693112.png
@@ -3839,19 +3839,18 @@
   - Mycorrhizal fungi
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.64898/2026.03.06.710201
+- id: doi:10.1099/mgen.0.001769
   title: Downregulation is the dominant effect of new regulatory mutations in a fungal
     pathogen
   authors:
   - Ana Margarida Sampaio
   - Daniel Croll
-  publisher: openRxiv
-  date: '2026-03-10'
-  link: https://doi.org/hbsbz2
-  type: preprint
+  publisher: Microbial Genomics
+  date: '2026-06-26'
+  link: https://doi.org/hb9kx3
+  type: paper
   image: /images/pub_images/710201.png
   tags:
-  - bioRxiv
   - Zymoseptoria
   plugin: sources.py
   file: sources.yaml
