@@ -1,3 +1,14 @@
+- title: PansimNuc
+  subtitle: Samuel T. Horsfield
+  group: featured
+  image: images/tools/PansimNuc_new.png
+  link: https://github.com/samhorsfield96/PansimNuc
+  description: A simulation framework for eukaryotic pangenomes. PansimNuc models mutation, selection, gene and Transposable Element (TE) gain/loss and mobility, recombination and demography. PansimNuc generates simulated genomes that can be used to benchmark pangenome analysis tools and methods, and will be used to study the interaction of a multitude of neutral and selective forces that shape fungal pangenomes. It also comes with a suite of helper tools to analyse simulated populations.
+  tags:
+    - Pangenome
+    - Simulator
+    - Transposable elements
+
 - title: Earl Grey
   subtitle: Tobias Baril
   group: featured
@@ -16,7 +27,7 @@
   description: EarlGrey ParTEA is a Snakemake-based pipeline that extends Earl Grey to process multiple genomes in parallel, building pangenome TE libraries and enabling comparative transposable element analysis across species or populations. It supports SLURM cluster submission and automated resource allocation.
   tags:
     - Transposable elements
-    - Pangenomics
+    - Pangenome
 
 - title: MycoMobilome
   subtitle: Tobias Baril

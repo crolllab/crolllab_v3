@@ -9,6 +9,7 @@ aliases:
 links:
   email: samuel.horsfield@unine.ch
   orcid: 0000-0002-3859-4073
+  home-page: https://samhorsfield96.github.io/my-website/
   github: samhorsfield96
   linkedin: samuel-horsfield-280754101
   google-scholar: 4JrVLmcAAAAJ

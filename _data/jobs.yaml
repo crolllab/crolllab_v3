@@ -1,3 +1,23 @@
+- title: PhD student - Evolutionary genomics (early 2027)
+  subtitle: 
+  group: featured
+  image: images/ads/background.png
+  link: pdf/PhD_ad_Croll_lab_early2027.pdf
+  description: The PhD project will be tailored to the candidate's interests and strengths, within the lab's research directions such as the genomic basis of rapid adaptation in fungal pathogens to hosts, climate, and agrochemicals, using large-scale genome sequencing. Transposable element dynamics, tracking their expansion across species and taxa using genomic datasets. Fungal genome plasticity, expanding pangenomes, integrating epigenomics, and building new tools to study antifungal resistance and virulence. DNA language models to recapitulate evolutionary processes and address new questions in evolutionary genomics.
+  repo: 
+  tags:
+    - PhD student
+    - Open
+- title: PhD student - Evolutionary genomics (late 2027)
+  subtitle: 
+  group: featured
+  image: images/ads/background.png
+  link: pdf/PhD_ad_Croll_lab_late2027.pdf
+  description: The PhD project will be tailored to the candidate's interests and strengths, within the lab's research directions such as the genomic basis of rapid adaptation in fungal pathogens to hosts, climate, and agrochemicals, using large-scale genome sequencing. Transposable element dynamics, tracking their expansion across species and taxa using genomic datasets. Fungal genome plasticity, expanding pangenomes, integrating epigenomics, and building new tools to study antifungal resistance and virulence. DNA language models to recapitulate evolutionary processes and address new questions in evolutionary genomics.
+  repo: 
+  tags:
+    - PhD student
+    - Open
 - title: Postdoc - Evolution of cross-kingdom RNA crosstalk
   subtitle: 
   group: featured

@@ -6,6 +6,18 @@
 # - event:  conferences, retreats, lab social events
 # - other:  anything that doesn't fit above
 
+- date: "10 July 2026"
+  type: other
+  text: "We have PhD student positions open for 2027! [See our job postings](/jobs/)."
+
+- date: "9 July 2026"
+  type: event
+  text: "Celebrating a wonderful first half of 2026. [See Blog Post](/blog/2026-07-09-Team-Picnic/)"
+
+- date: "8 June 2026"
+  type: other
+  text: "We highlight now tools developed by lab members. [See Tools](/tools/)."
+
 - date: "8 June 2026"
   type: other
   text: "We highlight now tools developed by lab members. [See Tools](/tools/)."
