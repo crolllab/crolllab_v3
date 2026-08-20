@@ -1708,8 +1708,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/j.1469-8137.2011.03948.x
-  title: The transcriptome of the arbuscular mycorrhizal fungus <i>Glomus intraradices</i>
-    (DAOM 197198) reveals functional tradeoffs in an obligate symbiont
+  title: "The transcriptome of the arbuscular mycorrhizal fungus\n               \
+    \     <i>Glomus intraradices</i>\n                    (DAOM 197198) reveals functional\
+    \ tradeoffs in an obligate symbiont"
   authors:
   - E. Tisserant
   - A. Kohler
@@ -1810,8 +1811,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mec.14585
-  title: "Genomewide signatures of selection in <i>Epichlo\xEB</i> reveal candidate\
-    \ genes for host specialization"
+  title: "Genomewide signatures of selection in\n                    <i>Epichlo\xEB\
+    </i>\n                    reveal candidate genes for host specialization"
   authors:
   - Melanie K. Schirrmann
   - Stefan Zoller
@@ -3869,5 +3870,23 @@
   tags:
   - Highlight
   - TEs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.64898/2026.07.21.739809
+  title: Comparative analyses reveal rapid turnover and emergence of transitory 3D
+    genome architectures in the fungal kingdom
+  authors:
+  - Alice Laigle
+  - Camille Cornet
+  - Ashwini V. Mohan
+  - Tobias Baril
+  - Daniel Croll
+  publisher: openRxiv
+  date: '2026-07-22'
+  link: https://doi.org/hcfc6x
+  type: preprint
+  image: /images/pub_images/739809.png
+  tags:
+  - bioRxiv
   plugin: sources.py
   file: sources.yaml
