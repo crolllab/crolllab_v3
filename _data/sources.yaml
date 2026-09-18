@@ -947,3 +947,7 @@
   image: /images/pub_images/739809.png
   tags:
     - bioRxiv
+- id: doi:10.1007/s42161-026-02294-w
+  type: paper
+  image: /images/pub_images/02294-w.png
+
