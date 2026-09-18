@@ -3891,3 +3891,19 @@
   - bioRxiv
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1007/s42161-026-02294-w
+  title: Population genetic structure of Cercospora cf. flagellaris, the dominant
+    causal agent of bean Cercospora leaf spot disease using ISSR markers
+  authors:
+  - Milad Kermanian
+  - Leila Ebrahimi
+  - Mounes Bakhshi
+  - Rasoul Zare
+  - Daniel Croll
+  publisher: Journal of Plant Pathology
+  date: '2026-09-17'
+  link: https://doi.org/hcjsns
+  type: paper
+  image: /images/pub_images/02294-w.png
+  plugin: sources.py
+  file: sources.yaml
