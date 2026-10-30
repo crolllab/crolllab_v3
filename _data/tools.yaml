@@ -49,3 +49,14 @@
   tags:
     - Variant calling
     - Population genomics
+
+- title: genomedenovo_nf
+  subtitle: Daniel Croll
+  group: featured
+  image: images/tools/genomedenovo-nf.png
+  link: https://crolllab.github.io/genomedenovo_nf/
+  description: genomedenovo_nf is a Nextflow pipeline that assembles Illumina genomes de novo (or takes existing assemblies), checks assembly quality, and searches every genome for one or more query genes. For each query it extracts, aligns and builds trees of the hits, and can recover exact coding sequences, classify them as intact or truncated, and group them into isoforms. Optional modules add a BUSCO species tree, paralog checks, reference locus coverage and nearby transposable elements. Accepts local FASTQ files, SRA/ENA accessions or pre-assembled scaffolds, and runs fully containerised via Singularity on HPC or local machines.
+  tags:
+    - Genome assembly
+    - Gene discovery
+    - Phylogenetics

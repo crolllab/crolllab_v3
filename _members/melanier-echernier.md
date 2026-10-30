@@ -2,7 +2,7 @@
 name: Mélanie Echernier
 description: PhD student
 image: images/team/default.jpg
-group: current
+group: alumni
 role: phd
 aliases:
 links:
