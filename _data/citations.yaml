@@ -3907,3 +3907,19 @@
   image: /images/pub_images/02294-w.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.64898/2026.11.04.764261
+  title: 'Earl Grey ParTEA: scalable, consistent transposable element annotation from
+    pangenomes to deep phylogenetic scopes'
+  authors:
+  - Tobias J Baril
+  - Alice Feurtey
+  - Daniel Croll
+  publisher: openRxiv
+  date: '2026-11-05'
+  link: https://doi.org/hcrbth
+  type: preprint
+  image: /images/pub_images/764261.png
+  tags:
+  - bioRxiv
+  plugin: sources.py
+  file: sources.yaml
