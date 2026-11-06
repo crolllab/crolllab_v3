@@ -950,4 +950,9 @@
 - id: doi:10.1007/s42161-026-02294-w
   type: paper
   image: /images/pub_images/02294-w.png
-
+- id: doi:10.64898/2026.11.04.764261
+  type: preprint
+  image: /images/pub_images/764261.png
+  tags:
+    - bioRxiv
+### MPP Zymo
