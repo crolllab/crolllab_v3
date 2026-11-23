@@ -3921,5 +3921,63 @@
   image: /images/pub_images/764261.png
   tags:
   - bioRxiv
+  - TEs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1094/PDIS-05-26-0912-RE
+  title: "Optimization of a Lab-screening Procedure to Evaluate Seed Treatment Efficacy:\
+    \ Detection of\n                    <i>Ustilago nuda</i>\n                   \
+    \ in\n                    <i>Hordeum vulgare</i>\n                    Seedlings"
+  authors:
+  - Cecilia Panzetti
+  - Eveline Jenny
+  - Daniel Croll
+  - Karen E. Sullam
+  publisher: Plant Disease
+  date: '2026-11-20'
+  link: https://doi.org/hctq9c
+  type: paper
+  image: /images/pub_images/0912-RE.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mpp.70387
+  title: "A Secreted Chloroperoxidase Modulates Quantitative Aggressiveness of\n \
+    \                   <i>Zymoseptoria tritici</i>\n                    on the Wheat\
+    \ Cultivar\n                    <scp>KWS</scp>\n                    Extase"
+  authors:
+  - Amir Mirzadi Gohari
+  - Debabrata Dutta
+  - Nikolaos Mastrodimos
+  - Hesham A. Y. Gibriel
+  - Eoghan Curran
+  - Sujit Jung Karki
+  - Steven Kildea
+  - Daniel Croll
+  - Jimmy Burke
+  - Angela Feechan
+  publisher: Molecular Plant Pathology
+  date: '2026-11-01'
+  link: https://doi.org/hctq9d
+  type: paper
+  image: /images/pub_images/70387.png
+  tags:
+  - Zymoseptoria
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.64898/2026.11.20.768218
+  title: Transposon-driven pervasive genome restructuring and regulatory evolution
+    in early-diverging Holomycota
+  authors:
+  - Carlos Lax
+  - Ghizlane Tahiri
+  - Daniel Croll
+  publisher: openRxiv
+  date: '2026-11-23'
+  link: https://doi.org/hctq9f
+  type: preprint
+  image: /images/pub_images/768218.png
+  tags:
+  - bioRxiv
+  - Highlight
   plugin: sources.py
   file: sources.yaml
