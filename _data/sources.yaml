@@ -955,4 +955,23 @@
   image: /images/pub_images/764261.png
   tags:
     - bioRxiv
-### MPP Zymo
+    - TEs
+- id: doi:10.1094/PDIS-05-26-0912-RE
+  type: paper
+  image: /images/pub_images/0912-RE.png
+- id: doi:10.1111/mpp.70387
+  type: paper
+  image: /images/pub_images/70387.png
+  tags:
+   - Zymoseptoria
+- id: doi:10.64898/2026.11.20.768218
+  type: preprint
+  image: /images/pub_images/768218.png
+  tags:
+   - bioRxiv
+   - Highlight
+### bioR effV
+### bioR Ivan 1st chap
+### bioR Thomas 27G
+### bioR Wided
+### bioR Hanna 2nd chap
